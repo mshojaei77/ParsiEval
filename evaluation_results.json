@@ -1,0 +1,26 @@
+[
+    {
+        "model": "openai/gpt-oss-120b",
+        "accuracy": "70.05%",
+        "total_questions": 364,
+        "correct_answers": 255,
+        "avg_latency": "2.84s",
+        "total_latency": "1034.47s"
+    },
+    {
+        "model": "openai/gpt-oss-20b",
+        "accuracy": "63.74%",
+        "total_questions": 364,
+        "correct_answers": 232,
+        "avg_latency": "2.73s",
+        "total_latency": "994.36s"
+    },
+    {
+        "model": "moonshotai/kimi-k2-instruct",
+        "accuracy": "77.20%",
+        "total_questions": 364,
+        "correct_answers": 281,
+        "avg_latency": "1.37s",
+        "total_latency": "497.76s"
+    }
+]

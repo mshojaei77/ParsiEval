@@ -1,0 +1,110 @@
+[
+    {
+        "model": "gemma3:1b",
+        "accuracy": "23.08%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 84,
+        "avg_latency": "0.19s",
+        "total_latency": "70.21s"
+    },
+    {
+        "model": "gemma3:4b",
+        "accuracy": "43.13%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 157,
+        "avg_latency": "0.13s",
+        "total_latency": "46.63s"
+    },
+    {
+        "model": "hf.co/mshojaei77/gemma-3-4b-persian",
+        "accuracy": "43.96%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 157,
+        "avg_latency": "0.21s",
+        "total_latency": "77.41s"
+    },
+    {
+        "model": "gemma2:2b",
+        "accuracy": "15.93%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 58,
+        "avg_latency": "0.81s",
+        "total_latency": "295.59s"
+    },
+    {
+        "model": "llama3.2:3b",
+        "accuracy": "34.34%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 125,
+        "avg_latency": "0.13s",
+        "total_latency": "46.11s"
+    },
+    {
+        "model": "gemma-2-2b-fa-v2",
+        "accuracy": "29.40%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 107,
+        "avg_latency": "0.43s",
+        "total_latency": "156.58s"
+    },
+    {
+        "model": "EXAONE-3.5-2.4B",
+        "accuracy": "25.55%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 93,
+        "avg_latency": "0.89s",
+        "total_latency": "325.25s"
+    },
+    {
+        "model": "llama3.2:1b",
+        "accuracy": "17.03%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 62,
+        "avg_latency": "0.17s",
+        "total_latency": "63.05s"
+    },
+    {
+        "model": "qwen2.5:0.5b",
+        "accuracy": "19.78%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 72,
+        "avg_latency": "1.00s",
+        "total_latency": "365.51s"
+    },
+    {
+        "model": "qwen2.5:1.5b",
+        "accuracy": "32.14%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 117,
+        "avg_latency": "0.07s",
+        "total_latency": "24.79s"
+    },
+    {
+        "model": "qwen2.5-coder:0.5b",
+        "accuracy": "23.63%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 86,
+        "avg_latency": "0.22s",
+        "total_latency": "78.65s"
+    },
+    {
+        "model": "phi4-mini",
+        "accuracy": "29.67%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 108,
+        "avg_latency": "0.24s",
+        "total_latency": "88.75s"
+    }
+]
