@@ -21,7 +21,7 @@ def get_model_response(model_name, message):
     return chat_completion
 
 def evaluate_model():
-    model_name = "llama-4-scout-17b-16e-instruct"
+    model_name = "qwen-3-32b"
     print(f"Evaluating model: {model_name}")
 
     questions = []
@@ -39,7 +39,7 @@ def evaluate_model():
     print(f"Running evaluation on {total} questions...")
     
     for i, (question, correct) in enumerate(zip(questions, correct_answers)):
-        message = {'role': 'user', 'content': f"{question}\n\nلطفاً فقط با حرف گزینه صحیح (A، B، C یا D) پاسخ دهید."}
+        message = {'role': 'user', 'content': f"{question}\n\nلطفاً فقط با حرف گزینه صحیح (A، B، C یا D) پاسخ دهید. /no_think"}
         
         response = None
         error_occurred = False
@@ -49,7 +49,7 @@ def evaluate_model():
             with ThreadPoolExecutor(max_workers=1) as executor:
                 future = executor.submit(get_model_response, model_name, message)
                 try:
-                    response = future.result(timeout=20)
+                    response = future.result(timeout=60)
                 except TimeoutError:
                     end_time = time.time()
                     latency = end_time - start_time

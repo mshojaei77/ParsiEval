@@ -21,7 +21,7 @@ def get_model_response(model_name, message):
     return chat_completion
 
 def evaluate_model():
-    model_name = "qwen/qwen3-32b"
+    model_name = "gemma2-9b-it"
     print(f"Evaluating model: {model_name}")
 
     questions = []

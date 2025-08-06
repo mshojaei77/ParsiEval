@@ -1,0 +1,162 @@
+[
+    {
+        "model": "openai/gpt-oss-120b",
+        "accuracy": "70.05%",
+        "total_questions": 364,
+        "correct_answers": 255,
+        "avg_latency": "2.84s",
+        "total_latency": "1034.47s"
+    },
+    {
+        "model": "openai/gpt-oss-20b",
+        "accuracy": "63.74%",
+        "total_questions": 364,
+        "correct_answers": 232,
+        "avg_latency": "2.73s",
+        "total_latency": "994.36s"
+    },
+    {
+        "model": "moonshotai/kimi-k2-instruct",
+        "accuracy": "77.20%",
+        "total_questions": 364,
+        "correct_answers": 281,
+        "avg_latency": "1.37s",
+        "total_latency": "497.76s"
+    },
+    {
+        "model": "llama-4-scout-17b-16e-instruct",
+        "accuracy": "71.43%",
+        "total_questions": 364,
+        "correct_answers": 260,
+        "avg_latency": "0.68s",
+        "total_latency": "247.32s"
+    },
+    {
+        "model": "gpt-4o",
+        "accuracy": "79.12%",
+        "total_questions": 364,
+        "correct_answers": 288,
+        "avg_latency": "0.90s",
+        "total_latency": "326.08s"
+    },
+    {
+        "model": "gpt-4.1-nano",
+        "accuracy": "63.74%",
+        "total_questions": 364,
+        "correct_answers": 232,
+        "avg_latency": "1.05s",
+        "total_latency": "382.53s"
+    },
+    {
+        "model": "qwen-3-32b-thinking",
+        "accuracy": "37.64%",
+        "total_questions": 364,
+        "correct_answers": 137,
+        "avg_latency": "1.91s",
+        "total_latency": "693.84s"
+    },
+    {
+        "model": "qwen-3-235b-a22b-instruct-2507",
+        "accuracy": "70.60%",
+        "total_questions": 364,
+        "correct_answers": 257,
+        "avg_latency": "0.70s",
+        "total_latency": "253.16s"
+    },
+    {
+        "model": "qwen-3-235b-a22b-thinking-2507",
+        "accuracy": "29.67%",
+        "total_questions": 364,
+        "correct_answers": 108,
+        "avg_latency": "2.33s",
+        "total_latency": "849.16s"
+    },
+    {
+        "model": "google/gemma-3-27b-it",
+        "accuracy": "67.03%",
+        "total_questions": 364,
+        "correct_answers": 244,
+        "avg_latency": "1.13s",
+        "total_latency": "409.72s"
+    },
+    {
+        "model": "llama-4-maverick-17b-128e-instruct",
+        "accuracy": "75.27%",
+        "total_questions": 364,
+        "correct_answers": 274,
+        "avg_latency": "1.79s",
+        "total_latency": "651.43s"
+    },
+    {
+        "model": "openrouter/horizon-beta",
+        "accuracy": "77.75%",
+        "total_questions": 364,
+        "correct_answers": 283,
+        "avg_latency": "1.98s",
+        "total_latency": "721.03s"
+    },
+    {
+        "model": "llama-3.3-70b",
+        "accuracy": "73.35%",
+        "total_questions": 364,
+        "correct_answers": 267,
+        "avg_latency": "1.75s",
+        "total_latency": "638.42s"
+    },
+    {
+        "model": "gemma2-9b-it",
+        "accuracy": "59.62%",
+        "total_questions": 364,
+        "correct_answers": 217,
+        "avg_latency": "2.24s",
+        "total_latency": "815.02s"
+    },
+    {
+        "model": "qwen-3-32b",
+        "accuracy": "59.07%",
+        "total_questions": 364,
+        "correct_answers": 215,
+        "avg_latency": "1.86s",
+        "total_latency": "677.18s"
+    },
+    {
+        "model": "qwen/qwen3-30b-a3b-thinking",
+        "accuracy": "65.66%",
+        "total_questions": 364,
+        "correct_answers": 239,
+        "avg_latency": "10.29s",
+        "total_latency": "3744.42s"
+    },
+    {
+        "model": "qwen3-30b-a3b-instruct-2507",
+        "accuracy": "57.69%",
+        "total_questions": 364,
+        "correct_answers": 210,
+        "avg_latency": "0.74s",
+        "total_latency": "267.75s"
+    },
+    {
+        "model": "deepseek-v3-0324",
+        "accuracy": "74.73%",
+        "total_questions": 364,
+        "correct_answers": 272,
+        "avg_latency": "2.72s",
+        "total_latency": "991.41s"
+    },
+    {
+        "model": "gemma-3n-e4b-it",
+        "accuracy": "55.49%",
+        "total_questions": 364,
+        "correct_answers": 202,
+        "avg_latency": "2.51s",
+        "total_latency": "911.96s"
+    },
+    {
+        "model": "mistral-small-2503",
+        "accuracy": "59.34%",
+        "total_questions": 364,
+        "correct_answers": 216,
+        "avg_latency": "2.60s",
+        "total_latency": "948.16s"
+    }
+]
