@@ -99,7 +99,7 @@
         "total_latency": "145.36s"
     },
     {
-        "model": "gemma3:270",
+        "model": "gemma3:270m",
         "accuracy": "25.00%",
         "gpu_device": "0",
         "total_questions": 364,

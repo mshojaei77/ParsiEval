@@ -1,9 +1,13 @@
 import json
 import os
 import re
+import time
 import pandas as pd
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
 
 
 def parse_parameters(model_name):
@@ -115,7 +119,12 @@ def plot_accuracy_vs_parameters(df, title, filename, xticks=None):
     plt.savefig(f'plots/{filename}')
     plt.close()
 
-def main():
+def generate_plots(from_watcher=False):
+    # Use non-interactive backend when called from file watcher to avoid thread issues
+    if from_watcher:
+        current_backend = mpl.get_backend()
+        mpl.use('Agg')  # Use non-interactive backend
+    
     create_plots_dir()
 
     local_df = load_and_process_data('evaluation_results_local.json', is_local=True)
@@ -133,15 +142,75 @@ def main():
     # Plot 4: Accuracy vs Latency - Edge-Device Models
     plot_accuracy_vs_latency(local_df, 'Accuracy vs. Latency for Edge-Device Models', 'accuracy_vs_latency_edge_models.png')
 
+    # Dynamically determine parameter ticks based on data
+    api_params = api_df['parameters'].dropna().unique()
+    api_ticks = sorted([p for p in api_params if p >= 1])
+    if len(api_ticks) < 3:  # Fallback if not enough data points
+        api_ticks = [10, 30, 70, 120, 400, 1000]
+    
     # Plot 5: Accuracy vs Parameters - Top Models
-    api_ticks = [10, 30, 70, 120, 400, 1000]
     plot_accuracy_vs_parameters(api_df, 'Accuracy vs. Parameters for API-Based Models', 'accuracy_vs_parameters_top_models.png', xticks=api_ticks)
 
+    # Dynamically determine parameter ticks for edge models
+    edge_params = local_df['parameters'].dropna().unique()
+    edge_ticks = sorted([p for p in edge_params if p >= 0.1])
+    if len(edge_ticks) < 3:  # Fallback if not enough data points
+        edge_ticks = [1, 2, 3, 4]
+    
     # Plot 6: Accuracy vs Parameters - Edge-Device Models
-    edge_ticks = [1, 2, 3, 4]
     plot_accuracy_vs_parameters(local_df, 'Accuracy vs. Parameters for Edge-Device Models', 'accuracy_vs_parameters_edge_models.png', xticks=edge_ticks)
 
     print("All 6 plots have been generated and saved in the 'plots' directory.")
+
+
+class JsonFileHandler(FileSystemEventHandler):
+    def __init__(self, target_files):
+        self.target_files = target_files
+        self.last_modified = {}
+        for file in target_files:
+            try:
+                self.last_modified[file] = os.path.getmtime(file)
+            except FileNotFoundError:
+                self.last_modified[file] = 0
+        
+        # Generate plots on startup
+        generate_plots()
+    
+    def on_modified(self, event):
+        if not event.is_directory and event.src_path in self.target_files:
+            # Check if the file was actually modified (to avoid duplicate events)
+            current_mtime = os.path.getmtime(event.src_path)
+            if current_mtime > self.last_modified.get(event.src_path, 0):
+                self.last_modified[event.src_path] = current_mtime
+                print(f"File {event.src_path} has been modified. Regenerating plots...")
+                generate_plots(from_watcher=True)
+
+
+def main():
+    # Initial plot generation
+    generate_plots()
+    
+    # Set up file monitoring
+    target_files = [
+        os.path.abspath('evaluation_results_local.json'),
+        os.path.abspath('evaluation_results_api.json')
+    ]
+    
+    event_handler = JsonFileHandler(target_files)
+    observer = Observer()
+    observer.schedule(event_handler, path=os.path.dirname(os.path.abspath(__file__)), recursive=False)
+    observer.start()
+    
+    print(f"Monitoring files for changes: {', '.join(target_files)}")
+    print("Press Ctrl+C to stop monitoring")
+    
+    try:
+        while True:
+            time.sleep(1)
+    except KeyboardInterrupt:
+        observer.stop()
+    observer.join()
+
 
 if __name__ == '__main__':
     main()
