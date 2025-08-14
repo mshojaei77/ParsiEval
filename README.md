@@ -26,42 +26,41 @@ The development of high-quality benchmarks for languages other than English is c
 
 Here are the results of the evaluation for different models:
 
-| Rank | Provider | Model | Size | License | Avg Latency | Total Latency | Accuracy |
-|------|----------|-------|------|---------|-------------|---------------|----------|
-| 1 | google | gemini-2.5-pro | unknown | proprietary | 8.87s | 3230.16s | 84.62% |
-| 2 | openai | gpt-5-2025-08-07 | unknown | proprietary | 6.08s | 2297.52s | 82.01% |
-| 3 | openai | gpt-5-2025-08-07 | unknown | apache-2.0 | 6.08s | 2297.52s | 82.01% |
-| 4 | xai | grok-4 | unknown | proprietary | 11.59s | 1599.73s | 81.88% |
-| 5 | openai | gpt-4o | unknown | proprietary | 0.90s | 326.08s | 79.12% |
-| 6 | openai | gpt-5-mini | unknown | proprietary | 1.98s | 721.03s | 77.75% |
-| 7 | moonshotai | kimi-k2-instruct | 1000b | modified-mit | 1.37s | 497.76s | 77.20% |
-| 8 | meta | llama-4-maverick-17b-128e-instruct | 17b | open-weight-llama4 | 1.79s | 651.43s | 75.27% |
-| 9 | deepseek | deepseek-v3-0324 | 685 | mit | 2.72s | 991.41s | 74.73% |
-| 10 | meta | llama-3.3-70b | 70b | open-weight-llama3.3 | 1.75s | 638.42s | 73.35% |
-| 11 | meta | llama-4-scout-17b-16e-instruct | 17b | open-weight-llama4 | 0.68s | 247.32s | 71.43% |
-| 12 | alibaba | qwen-3-235b-a22b-instruct-2507 | 235b | apache-2.0 | 0.70s | 253.16s | 70.60% |
-| 13 | openai | gpt-oss-120b | 120b | apache-2.0 | 2.84s | 1034.47s | 70.05% |
-| 14 | google | gemma-3-27b-it | 27b | open-weight-gemma | 1.13s | 409.72s | 67.03% |
-| 15 | alibaba | qwen3-30b-a3b-thinking | 30b | apache-2.0 | 10.29s | 3744.42s | 65.66% |
-| 16 | openai | gpt-oss-20b | 20b | apache-2.0 | 2.73s | 994.36s | 63.74% |
-| 17 | openai | gpt-4.1-nano | unknown | proprietary | 1.05s | 382.53s | 63.74% |
-| 18 | google | gemma2-9b-it | 9b | open-weight-gemma | 2.24s | 815.02s | 59.62% |
-| 19 | mistral | mistral-small-2503 | 24 | apache-2.0 | 2.60s | 948.16s | 59.34% |
-| 20 | alibaba | qwen-3-32b | 32b | apache-2.0 | 1.86s | 677.18s | 59.07% |
-| 21 | alibaba | qwen3-30b-a3b-instruct-2507 | 30b | apache-2.0 | 0.74s | 267.75s | 57.69% |
-| 22 | ollama | gemma3:4b | 4B | open-weight-gemma | 0.13s | 46.63s | 43.13% |
-| 23 | ollama | qwen3:4b | 4B | apache-2.0 | 0.40s | 145.36s | 40.93% |
-| 24 | alibaba | qwen-3-32b-thinking | 32b | apache-2.0 | 1.91s | 693.84s | 37.64% |
-| 25 | ollama | llama3.2:3b | 3B | open-weight-llama3 | 0.13s | 46.11s | 34.34% |
-| 26 | ollama | qwen2.5:1.5b | 1.5B | apache-2.0 | 0.07s | 24.79s | 32.14% |
-| 27 | alibaba | qwen-3-235b-a22b-thinking-2507 | 235b | apache-2.0 | 2.33s | 849.16s | 29.67% |
-| 28 | ollama | phi4-mini | 1.3B | mit | 0.24s | 88.75s | 29.67% |
-| 29 | ollama | gemma3:270m | 270M | open-weight-gemma | 0.16s | 58.82s | 25.00% |
-| 30 | ollama | gemma3:1b | 1B | open-weight-gemma | 0.19s | 70.21s | 23.08% |
-| 31 | lmstudio | gemma-3-270m-it | 270m | open-weight-gemma | 0.04s | 14.47s | 22.25% |
-| 32 | ollama | qwen2.5:0.5b | 0.5B | apache-2.0 | 1.00s | 365.51s | 19.78% |
-| 33 | ollama | llama3.2:1b | 1B | open-weight-llama3.2 | 0.17s | 63.05s | 17.03% |
-| 34 | ollama | gemma2:2b | 2B | open-weight-gemma | 0.81s | 295.59s | 15.93% |
+| Rank | Model | Size | License | API Provider | Avg Latency | Total Latency | Accuracy |
+|------|-------|------|---------|----------|-------------|---------------|----------|
+| 1 | gemini-2.5-pro | unknown | proprietary | openrouter | 8.87s | 3230.16s | 84.62% |
+| 2 | gpt-5-2025-08-07 | unknown | apache-2.0 | openai | 6.08s | 2297.52s | 82.01% |
+| 3 | grok-4 | unknown | proprietary | openrouter | 11.59s | 1599.73s | 81.88% |
+| 4 | gpt-4o | unknown | proprietary | openai | 0.90s | 326.08s | 79.12% |
+| 5 | gpt-5-mini | unknown | proprietary | openrouter | 1.98s | 721.03s | 77.75% |
+| 6 | kimi-k2-instruct | 1000b | modified-mit | cerebras | 1.37s | 497.76s | 77.20% |
+| 7 | llama-4-maverick-17b-128e-instruct | 17b | open-weight-llama4 | openrouter | 1.79s | 651.43s | 75.27% |
+| 8 | deepseek-v3-0324 | 685 | mit | openrouter | 2.72s | 991.41s | 74.73% |
+| 9 | llama-3.3-70b | 70b | open-weight-llama3.3 | cerebras | 1.75s | 638.42s | 73.35% |
+| 10 | llama-4-scout-17b-16e-instruct | 17b | open-weight-llama4 | cerebras | 0.68s | 247.32s | 71.43% |
+| 11 | qwen-3-235b-a22b-instruct-2507 | 235b | apache-2.0 | cerebras | 0.70s | 253.16s | 70.60% |
+| 12 | gpt-oss-120b | 120b | apache-2.0 | cerebras | 2.84s | 1034.47s | 70.05% |
+| 13 | gemma-3-27b-it | 27b | open-weight-gemma | openrouter | 1.13s | 409.72s | 67.03% |
+| 14 | qwen3-30b-a3b-thinking | 30b | apache-2.0 | openrouter | 10.29s | 3744.42s | 65.66% |
+| 15 | gpt-oss-20b | 20b | apache-2.0 | cerebras | 2.73s | 994.36s | 63.74% |
+| 16 | gpt-4.1-nano | unknown | proprietary | openai | 1.05s | 382.53s | 63.74% |
+| 17 | gemma2-9b-it | 9b | open-weight-gemma | groq | 2.24s | 815.02s | 59.62% |
+| 18 | mistral-small-2503 | 24 | apache-2.0 | openrouter | 2.60s | 948.16s | 59.34% |
+| 19 | qwen-3-32b | 32b | apache-2.0 | groq | 1.86s | 677.18s | 59.07% |
+| 20 | qwen3-30b-a3b-instruct-2507 | 30b | apache-2.0 | openrouter | 0.74s | 267.75s | 57.69% |
+| 21 | gemma3:4b | 4B | open-weight-gemma | ollama | 0.13s | 46.63s | 43.13% |
+| 22 | qwen3:4b | 4B | apache-2.0 | ollama | 0.40s | 145.36s | 40.93% |
+| 23 | qwen-3-32b-thinking | 32b | apache-2.0 | openrouter | 1.91s | 693.84s | 37.64% |
+| 24 | llama3.2:3b | 3B | open-weight-llama3 | ollama | 0.13s | 46.11s | 34.34% |
+| 25 | qwen2.5:1.5b | 1.5B | apache-2.0 | ollama | 0.07s | 24.79s | 32.14% |
+| 26 | qwen-3-235b-a22b-thinking-2507 | 235b | apache-2.0 | cerebras | 2.33s | 849.16s | 29.67% |
+| 27 | phi4-mini | 1.3B | mit | ollama | 0.24s | 88.75s | 29.67% |
+| 28 | gemma3:270m | 270M | open-weight-gemma | ollama | 0.16s | 58.82s | 25.00% |
+| 29 | gemma3:1b | 1B | open-weight-gemma | ollama | 0.19s | 70.21s | 23.08% |
+| 30 | gemma-3-270m-it | 270m | open-weight-gemma | lmstudio | 0.04s | 14.47s | 22.25% |
+| 31 | qwen2.5:0.5b | 0.5B | apache-2.0 | ollama | 1.00s | 365.51s | 19.78% |
+| 32 | llama3.2:1b | 1B | open-weight-llama3.2 | ollama | 0.17s | 63.05s | 17.03% |
+| 33 | gemma2:2b | 2B | open-weight-gemma | ollama | 0.81s | 295.59s | 15.93% |
 
 
 ### Accuracy

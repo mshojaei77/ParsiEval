@@ -108,8 +108,8 @@ def create_results_table(df):
     sorted_df = df.sort_values('accuracy_float', ascending=False).reset_index(drop=True)
     
     # Create table header
-    table = "| Rank | Provider | Model | Size | License | Avg Latency | Total Latency | Accuracy |\n"
-    table += "|------|----------|-------|------|---------|-------------|---------------|----------|\n"
+    table = "| Rank | Model | Size | License | API Provider | Avg Latency | Total Latency | Accuracy |\n"
+    table += "|------|-------|------|---------|----------|-------------|---------------|----------|\n"
     
     # Add rows
     for i, row in sorted_df.iterrows():
@@ -122,7 +122,7 @@ def create_results_table(df):
         total_latency = row['total_latency']
         accuracy = row['accuracy']
         
-        table += f"| {rank} | {provider} | {model} | {size} | {license_type} | {avg_latency} | {total_latency} | {accuracy} |\n"
+        table += f"| {rank} | {model} | {size} | {license_type} | {provider} | {avg_latency} | {total_latency} | {accuracy} |\n"
     
     return table
 

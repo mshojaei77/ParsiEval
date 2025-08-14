@@ -1,6 +1,6 @@
 [
     {
-        "provider": "openai",
+        "provider": "cerebras",
         "model": "gpt-oss-120b",
         "model_size": "120b",
         "license": "apache-2.0",
@@ -11,7 +11,7 @@
         "total_latency": "1034.47s"
     },
     {
-        "provider": "openai",
+        "provider": "cerebras",
         "model": "gpt-oss-20b",
         "model_size": "20b",
         "license": "apache-2.0",
@@ -22,7 +22,7 @@
         "total_latency": "994.36s"
     },
     {
-        "provider": "moonshotai",
+        "provider": "cerebras",
         "model": "kimi-k2-instruct",
         "model_size": "1000b",
         "license": "modified-mit",
@@ -33,7 +33,7 @@
         "total_latency": "497.76s"
     },
     {
-        "provider": "meta",
+        "provider": "cerebras",
         "model": "llama-4-scout-17b-16e-instruct",
         "model_size": "17b",
         "license": "open-weight-llama4",
@@ -66,7 +66,7 @@
         "total_latency": "382.53s"
     },
     {
-        "provider": "alibaba",
+        "provider": "openrouter",
         "model": "qwen-3-32b-thinking",
         "model_size": "32b",
         "license":  "apache-2.0",
@@ -77,7 +77,7 @@
         "total_latency": "693.84s"
     },
     {
-        "provider": "alibaba",
+        "provider": "cerebras",
         "model": "qwen-3-235b-a22b-instruct-2507",
         "model_size": "235b",
         "license": "apache-2.0",
@@ -88,7 +88,7 @@
         "total_latency": "253.16s"
     },
     {
-        "provider": "alibaba",
+        "provider": "cerebras",
         "model": "qwen-3-235b-a22b-thinking-2507",
         "model_size": "235b",
         "license": "apache-2.0",
@@ -99,7 +99,7 @@
         "total_latency": "849.16s"
     },
     {
-        "provider": "google",
+        "provider": "openrouter",
         "model": "gemma-3-27b-it",
         "model_size": "27b",
         "license": "open-weight-gemma",
@@ -110,7 +110,7 @@
         "total_latency": "409.72s"
     },
     {
-        "provider": "meta",
+        "provider": "openrouter",
         "model": "llama-4-maverick-17b-128e-instruct",
         "model_size": "17b",
         "license": "open-weight-llama4",
@@ -121,7 +121,7 @@
         "total_latency": "651.43s"
     },
     {
-        "provider": "openai",
+        "provider": "openrouter",
         "model": "gpt-5-mini",
         "model_size": "unknown",
         "license": "proprietary",
@@ -132,7 +132,7 @@
         "total_latency": "721.03s"
     },
     {
-        "provider": "meta",
+        "provider": "cerebras",
         "model": "llama-3.3-70b",
         "model_size": "70b",
         "license": "open-weight-llama3.3",
@@ -143,7 +143,7 @@
         "total_latency": "638.42s"
     },
     {
-        "provider": "google",
+        "provider": "groq",
         "model": "gemma2-9b-it",
         "model_size": "9b",
         "license": "open-weight-gemma",
@@ -154,7 +154,7 @@
         "total_latency": "815.02s"
     },
     {
-        "provider": "alibaba",
+        "provider": "groq",
         "model": "qwen-3-32b",
         "model_size": "32b",
         "license": "apache-2.0",
@@ -165,7 +165,7 @@
         "total_latency": "677.18s"
     },
     {
-        "provider": "alibaba",
+        "provider": "openrouter",
         "model": "qwen3-30b-a3b-thinking",
         "model_size": "30b",
         "license": "apache-2.0",
@@ -176,7 +176,7 @@
         "total_latency": "3744.42s"
     },
     {
-        "provider": "alibaba",
+        "provider": "openrouter",
         "model": "qwen3-30b-a3b-instruct-2507",
         "model_size": "30b",
         "license": "apache-2.0",
@@ -187,7 +187,7 @@
         "total_latency": "267.75s"
     },
     {
-        "provider": "deepseek",
+        "provider": "openrouter",
         "model": "deepseek-v3-0324",
         "model_size": "685",
         "license": "mit",
@@ -198,7 +198,7 @@
         "total_latency": "991.41s"
     },
     {
-        "provider": "mistral",
+        "provider": "openrouter",
         "model": "mistral-small-2503",
         "model_size": "24",
         "license": "apache-2.0",
@@ -220,18 +220,7 @@
         "total_latency": "2297.52s"
     },
     {
-        "provider": "openai",
-        "model": "gpt-5-2025-08-07",
-        "model_size": "unknown",
-        "license": "proprietary",
-        "accuracy": "82.01%",
-        "total_questions": 378,
-        "correct_answers": 310,
-        "avg_latency": "6.08s",
-        "total_latency": "2297.52s"
-    },
-    {
-        "provider": "google",
+        "provider": "openrouter",
         "model": "gemini-2.5-pro",
         "model_size": "unknown",
         "license": "proprietary",
@@ -242,7 +231,7 @@
         "total_latency": "3230.16s"
     },
     {
-        "provider": "xai",
+        "provider": "openrouter",
         "model": "grok-4",
         "model_size": "unknown",
         "license": "proprietary",
