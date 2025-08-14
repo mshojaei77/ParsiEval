@@ -18,7 +18,7 @@
         "total_latency": "46.63s"
     },
     {
-        "model": "hf.co/mshojaei77/gemma-3-4b-persian",
+        "model": "gemma-3-4b-persian",
         "accuracy": "43.96%",
         "gpu_device": "0",
         "total_questions": 364,
@@ -45,22 +45,13 @@
         "total_latency": "46.11s"
     },
     {
-        "model": "gemma-2-2b-fa-v2",
+        "model": "gemma-2-2b-fa",
         "accuracy": "29.40%",
         "gpu_device": "0",
         "total_questions": 364,
         "correct_answers": 107,
         "avg_latency": "0.43s",
         "total_latency": "156.58s"
-    },
-    {
-        "model": "EXAONE-3.5-2.4B",
-        "accuracy": "25.55%",
-        "gpu_device": "0",
-        "total_questions": 364,
-        "correct_answers": 93,
-        "avg_latency": "0.89s",
-        "total_latency": "325.25s"
     },
     {
         "model": "llama3.2:1b",
@@ -88,15 +79,6 @@
         "correct_answers": 117,
         "avg_latency": "0.07s",
         "total_latency": "24.79s"
-    },
-    {
-        "model": "qwen2.5-coder:0.5b",
-        "accuracy": "23.63%",
-        "gpu_device": "0",
-        "total_questions": 364,
-        "correct_answers": 86,
-        "avg_latency": "0.22s",
-        "total_latency": "78.65s"
     },
     {
         "model": "phi4-mini",
