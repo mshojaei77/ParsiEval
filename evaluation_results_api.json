@@ -158,5 +158,37 @@
         "correct_answers": 216,
         "avg_latency": "2.60s",
         "total_latency": "948.16s"
+    },
+    {
+        "model": "gpt-5-2025-08-07",
+        "accuracy": "82.01%",
+        "total_questions": 378,
+        "correct_answers": 310,
+        "avg_latency": "6.08s",
+        "total_latency": "2297.52s"
+    },
+    {
+        "model": "gpt-5-2025-08-07",
+        "accuracy": "82.01%",
+        "total_questions": 378,
+        "correct_answers": 310,
+        "avg_latency": "6.08s",
+        "total_latency": "2297.52s"
+    },
+    {
+        "model": "gemini-2.5-pro",
+        "accuracy": "84.62%",
+        "total_questions": 364,
+        "correct_answers": 308,
+        "avg_latency": "8.87s",
+        "total_latency": "3230.16s"
+    },
+    {
+        "model": "grok-4",
+        "accuracy": "81.88%",
+        "total_questions": 138,
+        "correct_answers": 113,
+        "avg_latency": "11.59s",
+        "total_latency": "1599.73s"
     }
 ]

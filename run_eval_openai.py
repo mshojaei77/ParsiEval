@@ -3,26 +3,26 @@ import time
 import csv
 import re
 import json
-from openai import OpenAI, APITimeoutError, APIError
+from openai import OpenAI, APITimeoutError, APIError, APIConnectionError
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, TimeoutError
 
 load_dotenv()
 
 client = OpenAI(
-    base_url="https://api.avalai.ir/v1",
     api_key=os.environ.get("OPENAI_API_KEY"),
+    base_url="https://api.avalai.ir/v1"
 )
 
-def get_model_response(model_name, message):
+def get_model_response(model_name, messages):
     chat_completion = client.chat.completions.create(
-        messages=[message],
+        messages=messages,
         model=model_name,
     )
     return chat_completion
 
 def evaluate_model():
-    model_name = "deepseek-r1-0528"
+    model_name = "grok-4"
     print(f"Evaluating model: {model_name}")
 
     questions = []
@@ -40,28 +40,52 @@ def evaluate_model():
     print(f"Running evaluation on {total} questions...")
     
     for i, (question, correct) in enumerate(zip(questions, correct_answers)):
-        message = {'role': 'user', 'content': f"{question}\n\nلطفاً فقط با حرف گزینه صحیح (A، B، C یا D) پاسخ دهید."}
-        
+        messages = [
+            {'role': 'system', 'content': 'شما یک دستیار هوشمند هستید که به سوالات چند گزینه‌ای پاسخ می‌دهد. شما باید فقط و فقط با یک حرف انگلیسی (A یا B یا C یا D) پاسخ دهید. هیچ توضیح اضافی یا متن دیگری قابل قبول نیست. فقط یک حرف.'},
+            {'role': 'user', 'content': question}
+        ]
         response = None
         error_occurred = False
         latency = 0
-        while response is None:
+        retry_count = 0
+        max_retries = 30
+        base_delay = 2
+        
+        while response is None and retry_count < max_retries:
             start_time = time.time()
             try:
                 with ThreadPoolExecutor(max_workers=1) as executor:
-                    future = executor.submit(get_model_response, model_name, message)
+                    future = executor.submit(get_model_response, model_name, messages)
                     response = future.result(timeout=60) # Increased timeout for OpenAI
             except TimeoutError:
                 end_time = time.time()
                 latency = end_time - start_time
-                print(f"Q{i+1}: timed out after {latency:.2f} seconds. Retrying in 60 seconds...")
-                time.sleep(60)
+                retry_count += 1
+                delay = base_delay * (2 ** (retry_count - 1))
+                print(f"Q{i+1}: timed out after {latency:.2f} seconds. Retry {retry_count}/{max_retries} in {delay} seconds...")
+                if retry_count < max_retries:
+                    time.sleep(delay)
+            except APIConnectionError as e:
+                end_time = time.time()
+                latency = end_time - start_time
+                retry_count += 1
+                delay = base_delay * (2 ** (retry_count - 1))
+                print(f"Q{i+1}: API Connection Error. Retry {retry_count}/{max_retries} in {delay} seconds...")
+                if retry_count < max_retries:
+                    time.sleep(delay)
             except (APITimeoutError, APIError) as e:
                 end_time = time.time()
                 latency = end_time - start_time
                 print(f"Q{i+1}: API Error ({type(e).__name__}). Marking as failed and skipping.")
                 error_occurred = True
                 break
+        
+        # If we exhausted all retries without success
+        if response is None and not error_occurred:
+            end_time = time.time()
+            latency = end_time - start_time
+            print(f"Q{i+1}: Failed after {max_retries} retries. Marking as failed and skipping.")
+            error_occurred = True
         
         if error_occurred:
             total_latency += latency
@@ -74,8 +98,12 @@ def evaluate_model():
         
         model_response = response.choices[0].message.content
         
-        match = re.search(r'(?:^|\s)([ABCD])(?:\s|$|\.|\,|\))', model_response)
-        model_answer = match.group(1) if match else "Unknown"
+        # Check if model_response is None to avoid TypeError
+        if model_response is None:
+            model_answer = "Unknown"
+        else:
+            match = re.search(r'(?:^|\s)([ABCD])(?:\s|$|\.|\,|\))', model_response)
+            model_answer = match.group(1) if match else "Unknown"
         
         is_correct = model_answer == correct
         if is_correct:
