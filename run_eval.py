@@ -4,6 +4,7 @@ import csv
 import re
 import json
 import platform
+import subprocess
 from openai import OpenAI, APITimeoutError, APIError, APIConnectionError
 from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, TimeoutError
@@ -13,6 +14,8 @@ load_dotenv()
 
 PROVIDER = "lmstudio"
 MODEL_NAME = "gemma-3-270m-it"
+MODEL_SIZE = "270m"
+LICENSE="open-weight (gemma)"
 
 # base urls
 BASE_URLS = {
@@ -39,11 +42,11 @@ CONFIG = {
     "base_url": BASE_URLS[PROVIDER],
     "api_key": API_KEYS[PROVIDER],
     "model": MODEL_NAME,
-    "temperature": 0.7,
+    "temperature": 0.3,
     "max_tokens": 100,
     "top_p": 0.95,
     "dataset": "parsi-eval-1.csv",
-    "output": "results\\evaluation_results.json"
+    "output": "results\\parsi-eval-1.json"
 }
 
 
@@ -175,6 +178,8 @@ def evaluate_model():
     new_result = {
         "provider": PROVIDER,
         "model": model_name,
+        "model_size": MODEL_SIZE,
+        "license": LICENSE,
         "accuracy": f"{accuracy:.2f}%",
         "total_questions": total,
         "correct_answers": correct_count,
@@ -196,5 +201,13 @@ def evaluate_model():
     
     with open(CONFIG["output"], 'w', encoding='utf-8') as json_file:
         json.dump(results, json_file, ensure_ascii=False, indent=4)
+    
+    # Run visualization script to update plots and README
+    print("\nUpdating visualizations and README...")
+    try:
+        subprocess.run(["python", "create_visuals.py"], check=True)
+        print("Visualizations and README updated successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"Error updating visualizations: {e}")
 
 evaluate_model()

@@ -24,22 +24,56 @@ The development of high-quality benchmarks for languages other than English is c
 
 ## Results
 
-Here are the results of the evaluation for different models. For detailed evaluation results, you can check the following JSON files:
+Here are the results of the evaluation for different models:
 
-- [API-based Models Evaluation Results](evaluation_results_api.json)
-- [Local Models Evaluation Results](evaluation_results_local.json)
+| Rank | Provider | Model | Size | License | Avg Latency | Total Latency | Accuracy |
+|------|----------|-------|------|---------|-------------|---------------|----------|
+| 1 | google | gemini-2.5-pro | unknown | proprietary | 8.87s | 3230.16s | 84.62% |
+| 2 | openai | gpt-5-2025-08-07 | unknown | proprietary | 6.08s | 2297.52s | 82.01% |
+| 3 | openai | gpt-5-2025-08-07 | unknown | proprietary | 6.08s | 2297.52s | 82.01% |
+| 4 | xai | grok-4 | unknown | proprietary | 11.59s | 1599.73s | 81.88% |
+| 5 | openai | gpt-4o | unknown | proprietary | 0.90s | 326.08s | 79.12% |
+| 6 | openai | gpt-5-mini | unknown | proprietary | 1.98s | 721.03s | 77.75% |
+| 7 | moonshotai | kimi-k2-instruct | 1000b | proprietary | 1.37s | 497.76s | 77.20% |
+| 8 | meta | llama-4-maverick-17b-128e-instruct | 17b | proprietary | 1.79s | 651.43s | 75.27% |
+| 9 | deepseek | deepseek-v3-0324 | 685 | proprietary | 2.72s | 991.41s | 74.73% |
+| 10 | meta | llama-3.3-70b | 70b | proprietary | 1.75s | 638.42s | 73.35% |
+| 11 | meta | llama-4-scout-17b-16e-instruct | 17b | proprietary | 0.68s | 247.32s | 71.43% |
+| 12 | alibaba | qwen-3-235b-a22b-instruct-2507 | 235b | proprietary | 0.70s | 253.16s | 70.60% |
+| 13 | openai | gpt-oss-120b | 120b | open-source | 2.84s | 1034.47s | 70.05% |
+| 14 | google | gemma-3-27b-it | 27b | open-weight | 1.13s | 409.72s | 67.03% |
+| 15 | alibaba | qwen3-30b-a3b-thinking | 30b | proprietary | 10.29s | 3744.42s | 65.66% |
+| 16 | openai | gpt-oss-20b | 20b | open-source | 2.73s | 994.36s | 63.74% |
+| 17 | openai | gpt-4.1-nano | unknown | proprietary | 1.05s | 382.53s | 63.74% |
+| 18 | google | gemma2-9b-it | 9b | open-weight | 2.24s | 815.02s | 59.62% |
+| 19 | mistral | mistral-small-2503 | 24 | proprietary | 2.60s | 948.16s | 59.34% |
+| 20 | alibaba | qwen-3-32b | 32b | proprietary | 1.86s | 677.18s | 59.07% |
+| 21 | alibaba | qwen3-30b-a3b-instruct-2507 | 30b | proprietary | 0.74s | 267.75s | 57.69% |
+| 22 | ollama | gemma3:4b | 4B | Gemma License | 0.13s | 46.63s | 43.13% |
+| 23 | ollama | qwen3:4b | 4B | Qwen License | 0.40s | 145.36s | 40.93% |
+| 24 | alibaba | qwen-3-32b-thinking | 32b | proprietary | 1.91s | 693.84s | 37.64% |
+| 25 | ollama | llama3.2:3b | 3B | Llama 3 Community License | 0.13s | 46.11s | 34.34% |
+| 26 | ollama | qwen2.5:1.5b | 1.5B | Qwen License | 0.07s | 24.79s | 32.14% |
+| 27 | alibaba | qwen-3-235b-a22b-thinking-2507 | 235b | proprietary | 2.33s | 849.16s | 29.67% |
+| 28 | ollama | phi4-mini | 1.3B | Microsoft Phi License | 0.24s | 88.75s | 29.67% |
+| 29 | ollama | gemma3:270m | 270M | Gemma License | 0.16s | 58.82s | 25.00% |
+| 30 | ollama | gemma3:1b | 1B | Gemma License | 0.19s | 70.21s | 23.08% |
+| 31 | lmstudio | gemma-3-270m-it | 270m | open-weight (gemma) | 0.04s | 14.47s | 22.25% |
+| 32 | ollama | qwen2.5:0.5b | 0.5B | Qwen License | 1.00s | 365.51s | 19.78% |
+| 33 | ollama | llama3.2:1b | 1B | Llama 3 Community License | 0.17s | 63.05s | 17.03% |
+| 34 | ollama | gemma2:2b | 2B | Gemma License | 0.81s | 295.59s | 15.93% |
 
 ### Accuracy
 
 #### Top Models
 Analysis of the highest performing models
 
-![Accuracy of API-Based Models](plots/accuracy_top_models.png)
+![Accuracy of Top Models](plots/accuracy_top_models.png)
 
-#### Edge-Device Models
-Examination of smaller models suitable for edge devices
+#### Local Models
+Examination of models running on local hardware
 
-![Accuracy of Edge-Device Models](plots/accuracy_edge_models.png)
+![Accuracy of Local Models](plots/accuracy_local_models.png)
 
 ## Future Plan
  
