@@ -23,7 +23,7 @@ def get_model_response(model_name, messages):
     return chat_completion
 
 def evaluate_model():
-    model_name = "gemma3-persian"
+    model_name = "gemma-2b-it"
     print(f"Evaluating model: {model_name}")
 
     questions = []
@@ -112,6 +112,11 @@ def evaluate_model():
             
         print(f"Q{i+1}: Model answered {model_answer}, Correct: {correct} - {'✓' if is_correct else '✗'} ({latency:.2f}s)")
         
+        # Add a 10-second sleep after every 50 questions
+        if (i + 1) % 50 == 0 and i + 1 < total:
+            print(f"Completed {i + 1} questions. Taking a 10-second break...")
+            time.sleep(10)
+        
     accuracy = (correct_count / total) * 100 if total > 0 else 0
     avg_latency = total_latency / total if total > 0 else 0
     print(f"\nEvaluation complete. Accuracy: {accuracy:.2f}% ({correct_count}/{total})")
@@ -129,7 +134,8 @@ def evaluate_model():
     try:
         with open('evaluation_results.json', 'r', encoding='utf-8') as json_file:
             results = json.load(json_file)
-    except FileNotFoundError:
+    except (FileNotFoundError, json.JSONDecodeError):
+        print("Creating new results file or handling corrupted file...")
         results = []
 
     results.append(new_result)

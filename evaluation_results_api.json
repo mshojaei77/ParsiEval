@@ -144,14 +144,6 @@
         "total_latency": "991.41s"
     },
     {
-        "model": "gemma-3n-e4b-it",
-        "accuracy": "55.49%",
-        "total_questions": 364,
-        "correct_answers": 202,
-        "avg_latency": "2.51s",
-        "total_latency": "911.96s"
-    },
-    {
         "model": "mistral-small-2503",
         "accuracy": "59.34%",
         "total_questions": 364,

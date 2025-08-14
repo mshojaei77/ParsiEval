@@ -14,7 +14,7 @@ def get_model_response(model_name, message):
 
 def evaluate_model():
     # Configure GPU settings
-    model_name = 'gemma3:270m'  
+    model_name = 'gemma2:2b'  
     gpu_device = os.environ.get("CUDA_VISIBLE_DEVICES", "0")
     print(f"Using GPU device: {gpu_device}")
     print(f"Evaluating model: {model_name}")

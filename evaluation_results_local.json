@@ -88,5 +88,13 @@
         "correct_answers": 91,
         "avg_latency": "0.16s",
         "total_latency": "58.82s"
+    },
+        {
+        "model": "gemma-3n-e4b-it",
+        "accuracy": "55.49%",
+        "total_questions": 364,
+        "correct_answers": 202,
+        "avg_latency": "2.51s",
+        "total_latency": "911.96s"
     }
 ]
