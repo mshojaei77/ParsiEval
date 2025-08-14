@@ -18,15 +18,6 @@
         "total_latency": "46.63s"
     },
     {
-        "model": "gemma-3-4b-persian",
-        "accuracy": "43.96%",
-        "gpu_device": "0",
-        "total_questions": 364,
-        "correct_answers": 157,
-        "avg_latency": "0.21s",
-        "total_latency": "77.41s"
-    },
-    {
         "model": "gemma2:2b",
         "accuracy": "15.93%",
         "gpu_device": "0",
@@ -43,15 +34,6 @@
         "correct_answers": 125,
         "avg_latency": "0.13s",
         "total_latency": "46.11s"
-    },
-    {
-        "model": "gemma-2-2b-fa",
-        "accuracy": "29.40%",
-        "gpu_device": "0",
-        "total_questions": 364,
-        "correct_answers": 107,
-        "avg_latency": "0.43s",
-        "total_latency": "156.58s"
     },
     {
         "model": "llama3.2:1b",
