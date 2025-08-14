@@ -42,7 +42,7 @@ Examination of smaller models suitable for edge devices
 ![Accuracy of Edge-Device Models](plots/accuracy_edge_models.png)
 
 ## Future Plan
-
+ 
 ### Dataset Expansion
 - **Increase Question Volume**: Expand from 364 to 1000+ questions across all domains
 - **Add New Domains**: Include categories such as:
