@@ -14,7 +14,7 @@ def get_model_response(model_name, message):
 
 def evaluate_model():
     # Configure GPU settings
-    model_name = 'qwen3:4b'  
+    model_name = 'gemma3:270m'  
     gpu_device = os.environ.get("CUDA_VISIBLE_DEVICES", "0")
     print(f"Using GPU device: {gpu_device}")
     print(f"Evaluating model: {model_name}")
@@ -74,8 +74,8 @@ def evaluate_model():
 
         # GPU cool down every 10 questions
         if (i + 1) % 30 == 0 and i + 1 < total:
-            print(f"\n--- Processed 10 questions, pausing for 2 minutes for GPU cool down ---")
-            time.sleep(60)
+            print(f"\n--- Processed 10 questions, pausing for GPU cool down ---")
+            time.sleep(10)
             print(f"--- Resuming evaluation ---\n")
         
     accuracy = (correct_count / total) * 100

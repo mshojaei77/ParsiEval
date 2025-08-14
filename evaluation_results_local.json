@@ -115,5 +115,14 @@
         "correct_answers": 149,
         "avg_latency": "0.40s",
         "total_latency": "145.36s"
+    },
+    {
+        "model": "gemma3:270",
+        "accuracy": "25.00%",
+        "gpu_device": "0",
+        "total_questions": 364,
+        "correct_answers": 91,
+        "avg_latency": "0.16s",
+        "total_latency": "58.82s"
     }
 ]

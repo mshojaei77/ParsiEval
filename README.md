@@ -24,7 +24,10 @@ The development of high-quality benchmarks for languages other than English is c
 
 ## Results
 
-Here are the results of the evaluation for different models.
+Here are the results of the evaluation for different models. For detailed evaluation results, you can check the following JSON files:
+
+- [API-based Models Evaluation Results](evaluation_results_api.json)
+- [Local Models Evaluation Results](evaluation_results_local.json)
 
 ### Accuracy
 
@@ -37,31 +40,6 @@ Analysis of the highest performing models
 Examination of smaller models suitable for edge devices
 
 ![Accuracy of Edge-Device Models](plots/accuracy_edge_models.png)
-
-### Accuracy vs Latency
-
-#### Top Models
-Evaluation of the trade-off between accuracy and response time
-
-![Accuracy vs. Latency for API-Based Models](plots/accuracy_vs_latency_top_models.png)
-
-#### Edge-Device Models
-Analysis of speed-performance balance in edge models
-
-![Accuracy vs. Latency for Edge-Device Models](plots/accuracy_vs_latency_edge_models.png)
-
-### Accuracy vs Parameters
-
-#### Top Models
-Investigation of the relationship between model size and performance
-
-![Accuracy vs. Parameters for API-Based Models](plots/accuracy_vs_parameters_top_models.png)
-
-#### Edge-Device Models
-Assessment of performance scaling in small models (<4B parameters)
-
-![Accuracy vs. Parameters for Edge-Device Models](plots/accuracy_vs_parameters_edge_models.png)
-
 
 ## Future Plan
 
