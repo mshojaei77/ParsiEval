@@ -88,7 +88,7 @@
         "total_latency": "651.43s"
     },
     {
-        "model": "openrouter/horizon-beta",
+        "model": "gpt-5-mini",
         "accuracy": "77.75%",
         "total_questions": 364,
         "correct_answers": 283,

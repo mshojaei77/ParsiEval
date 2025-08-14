@@ -61,3 +61,44 @@ Investigation of the relationship between model size and performance
 Assessment of performance scaling in small models (<4B parameters)
 
 ![Accuracy vs. Parameters for Edge-Device Models](plots/accuracy_vs_parameters_edge_models.png)
+
+
+## Future Plan
+
+### Dataset Expansion
+- **Increase Question Volume**: Expand from 364 to 1000+ questions across all domains
+- **Add New Domains**: Include categories such as:
+- **Academic**: Educational and scholarly content
+- **Business**: Commercial and economic topics
+- **Food**: Culinary knowledge and food culture
+- **History**: Historical events and figures
+- **Literature**: Persian literature and literary analysis
+- **Medical**: Healthcare and medical knowledge
+- **Politics**: Political science and current affairs
+- **Social Media**: Digital communication and social platforms
+- **Technology**: Technical and scientific concepts
+- **Arts and Culture**: Cultural heritage and art forms
+- **Sports and Recreation**: Physical activities and leisure pursuits
+- **Geography and Environment**: Landscapes, climates, and natural resources
+- **Religion and Philosophy**: Belief systems and philosophical viewpoints
+- **Law and Legal Studies**: Legal systems, principles, and practices
+
+### Technical Enhancements
+- **Leaderboard System**: Create a public leaderboard for tracking model performance over time
+- **Multi-modal Extensions**: Explore incorporation of visual elements for comprehensive language understanding
+
+### Research Directions
+- **Academic Publication**: Publish research findings and benchmark results to arXiv for broader scientific community access
+- **Cross-lingual Analysis**: Compare Persian model performance with other languages
+- **Fine-tuning Studies**: Investigate optimal fine-tuning strategies for Persian language models
+- **Cultural Adaptation**: Study the impact of cultural context on model performance
+
+### Community Engagement
+- **Open Source Contributions**: Encourage community contributions for question generation and validation
+- **Academic Partnerships**: Collaborate with Persian language and NLP research institutions
+
+### Long-term Vision
+- **Standardization**: Establish ParsiEval as the de facto standard for Persian language model evaluation
+- **International Recognition**: Promote adoption in international NLP conferences and competitions
+- **Real-world Applications**: Bridge the gap between benchmark performance and practical Persian language applications
+- **Continuous Evolution**: Maintain relevance through regular updates reflecting current language usage and cultural developments
