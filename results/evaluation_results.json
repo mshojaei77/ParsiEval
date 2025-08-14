@@ -1,0 +1,15 @@
+[
+    {
+        "provider": "lmstudio",
+        "model": "gemma-3-270m-it",
+        "accuracy": "20.05%",
+        "total_questions": 364,
+        "correct_answers": 73,
+        "avg_latency": "0.04s",
+        "total_latency": "14.22s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    }
+]

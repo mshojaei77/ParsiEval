@@ -56,5 +56,3 @@ docs/_build/
 Thumbs.db
 
 etc
-cleaned_llm_persian_eval.csv
-*.csv
