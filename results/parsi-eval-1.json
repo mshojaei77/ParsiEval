@@ -66,17 +66,6 @@
         "total_latency": "382.53s"
     },
     {
-        "provider": "openrouter",
-        "model": "qwen-3-32b-thinking",
-        "model_size": "32b",
-        "license":  "apache-2.0",
-        "accuracy": "37.64%",
-        "total_questions": 364,
-        "correct_answers": 137,
-        "avg_latency": "1.91s",
-        "total_latency": "693.84s"
-    },
-    {
         "provider": "cerebras",
         "model": "qwen-3-235b-a22b-instruct-2507",
         "model_size": "235b",
@@ -86,17 +75,6 @@
         "correct_answers": 257,
         "avg_latency": "0.70s",
         "total_latency": "253.16s"
-    },
-    {
-        "provider": "cerebras",
-        "model": "qwen-3-235b-a22b-thinking-2507",
-        "model_size": "235b",
-        "license": "apache-2.0",
-        "accuracy": "29.67%",
-        "total_questions": 364,
-        "correct_answers": 108,
-        "avg_latency": "2.33s",
-        "total_latency": "849.16s"
     },
     {
         "provider": "openrouter",
@@ -363,21 +341,6 @@
     },
     {
         "provider": "ollama",
-        "model": "qwen3:4b",
-        "model_size": "4B",
-        "license": "apache-2.0",
-        "accuracy": "40.93%",
-        "total_questions": 364,
-        "correct_answers": 149,
-        "avg_latency": "0.40s",
-        "total_latency": "145.36s",
-        "system": {
-            "os": "Windows",
-            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
-        }
-    },
-    {
-        "provider": "ollama",
         "model": "gemma3:270m",
         "model_size": "270M",
         "license": "open-weight-gemma",
@@ -392,15 +355,78 @@
         }
     },
     {
-        "provider": "lmstudio",
         "model": "gemma-3-270m-it",
         "model_size": "270m",
         "license": "open-weight-gemma",
-        "accuracy": "22.25%",
+        "provider": "lmstudio",
+        "accuracy": "21.15%",
         "total_questions": 364,
-        "correct_answers": 81,
-        "avg_latency": "0.04s",
-        "total_latency": "14.47s",
+        "correct_answers": 77,
+        "avg_latency": "0.05s",
+        "total_latency": "17.19s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    },
+    {
+        "model": "smollm3-3b",
+        "model_size": "3b",
+        "license": "apache-2.0",
+        "provider": "lmstudio",
+        "accuracy": "27.20%",
+        "total_questions": 364,
+        "correct_answers": 99,
+        "avg_latency": "0.26s",
+        "total_latency": "94.60s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    },
+    {
+        "model": "qwen3-4b-instruct-2507",
+        "model_size": "4b",
+        "license": "apache-2.0",
+        "provider": "lmstudio",
+        "accuracy": "42.86%",
+        "total_questions": 364,
+        "correct_answers": 156,
+        "avg_latency": "0.23s",
+        "total_latency": "83.35s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    },
+    {
+        "model": "liquid/lfm2-1.2b",
+        "model_size": "1.2b",
+        "license": "open-weight-lfm1.0",
+        "provider": "lmstudio",
+        "accuracy": "25.00%",
+        "total_questions": 364,
+        "correct_answers": 91,
+        "avg_latency": "0.67s",
+        "total_latency": "243.90s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    },
+    {
+        "model": "google/gemma-3n-e4b",
+        "model_size": "4b",
+        "license": "open-weight-gemma",
+        "provider": "lmstudio",
+        "accuracy": "54.55%",
+        "total_questions": 363,
+        "attempted_questions": 364,
+        "skipped_questions": 0,
+        "stopped_early": false,
+        "correct_answers": 198,
+        "avg_latency": "0.17s",
+        "total_latency": "63.68s",
         "system": {
             "os": "Windows",
             "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"

@@ -6,7 +6,7 @@ import numpy as np
 import re
 from pathlib import Path
 
-INPUT_FILE = "results\\parsi-eval-1.json"
+INPUT_FILE = "results/parsi-eval-1.json"
 PLOTS_DIR = "plots"
 README_FILE = "README.md"
 

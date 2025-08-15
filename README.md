@@ -42,25 +42,28 @@ Here are the results of the evaluation for different models:
 | 12 | gpt-oss-120b | 120b | apache-2.0 | cerebras | 2.84s | 1034.47s | 70.05% |
 | 13 | gemma-3-27b-it | 27b | open-weight-gemma | openrouter | 1.13s | 409.72s | 67.03% |
 | 14 | qwen3-30b-a3b-thinking | 30b | apache-2.0 | openrouter | 10.29s | 3744.42s | 65.66% |
-| 15 | gpt-oss-20b | 20b | apache-2.0 | cerebras | 2.73s | 994.36s | 63.74% |
-| 16 | gpt-4.1-nano | unknown | proprietary | openai | 1.05s | 382.53s | 63.74% |
+| 15 | gpt-4.1-nano | unknown | proprietary | openai | 1.05s | 382.53s | 63.74% |
+| 16 | gpt-oss-20b | 20b | apache-2.0 | cerebras | 2.73s | 994.36s | 63.74% |
 | 17 | gemma2-9b-it | 9b | open-weight-gemma | groq | 2.24s | 815.02s | 59.62% |
 | 18 | mistral-small-2503 | 24 | apache-2.0 | openrouter | 2.60s | 948.16s | 59.34% |
 | 19 | qwen-3-32b | 32b | apache-2.0 | groq | 1.86s | 677.18s | 59.07% |
 | 20 | qwen3-30b-a3b-instruct-2507 | 30b | apache-2.0 | openrouter | 0.74s | 267.75s | 57.69% |
-| 21 | gemma3:4b | 4B | open-weight-gemma | ollama | 0.13s | 46.63s | 43.13% |
-| 22 | qwen3:4b | 4B | apache-2.0 | ollama | 0.40s | 145.36s | 40.93% |
-| 23 | qwen-3-32b-thinking | 32b | apache-2.0 | openrouter | 1.91s | 693.84s | 37.64% |
-| 24 | llama3.2:3b | 3B | open-weight-llama3 | ollama | 0.13s | 46.11s | 34.34% |
-| 25 | qwen2.5:1.5b | 1.5B | apache-2.0 | ollama | 0.07s | 24.79s | 32.14% |
-| 26 | qwen-3-235b-a22b-thinking-2507 | 235b | apache-2.0 | cerebras | 2.33s | 849.16s | 29.67% |
-| 27 | phi4-mini | 1.3B | mit | ollama | 0.24s | 88.75s | 29.67% |
-| 28 | gemma3:270m | 270M | open-weight-gemma | ollama | 0.16s | 58.82s | 25.00% |
-| 29 | gemma3:1b | 1B | open-weight-gemma | ollama | 0.19s | 70.21s | 23.08% |
-| 30 | gemma-3-270m-it | 270m | open-weight-gemma | lmstudio | 0.04s | 14.47s | 22.25% |
-| 31 | qwen2.5:0.5b | 0.5B | apache-2.0 | ollama | 1.00s | 365.51s | 19.78% |
-| 32 | llama3.2:1b | 1B | open-weight-llama3.2 | ollama | 0.17s | 63.05s | 17.03% |
-| 33 | gemma2:2b | 2B | open-weight-gemma | ollama | 0.81s | 295.59s | 15.93% |
+| 21 | google/gemma-3n-e4b | 4b | open-weight-gemma | lmstudio | 0.17s | 63.68s | 54.55% |
+| 22 | gemma3:4b | 4B | open-weight-gemma | ollama | 0.13s | 46.63s | 43.13% |
+| 23 | qwen3-4b-instruct-2507 | 4b | apache-2.0 | lmstudio | 0.23s | 83.35s | 42.86% |
+| 24 | qwen-3-32b-thinking | 32b | apache-2.0 | openrouter | 1.91s | 693.84s | 37.64% |
+| 25 | llama3.2:3b | 3B | open-weight-llama3 | ollama | 0.13s | 46.11s | 34.34% |
+| 26 | qwen2.5:1.5b | 1.5B | apache-2.0 | ollama | 0.07s | 24.79s | 32.14% |
+| 27 | qwen-3-235b-a22b-thinking-2507 | 235b | apache-2.0 | cerebras | 2.33s | 849.16s | 29.67% |
+| 28 | phi4-mini | 1.3B | mit | ollama | 0.24s | 88.75s | 29.67% |
+| 29 | smollm3-3b | 3b | apache-2.0 | lmstudio | 0.26s | 94.60s | 27.20% |
+| 30 | gemma3:270m | 270M | open-weight-gemma | ollama | 0.16s | 58.82s | 25.00% |
+| 31 | liquid/lfm2-1.2b | 1.2b | open-weight-lfm1.0 | lmstudio | 0.67s | 243.90s | 25.00% |
+| 32 | gemma3:1b | 1B | open-weight-gemma | ollama | 0.19s | 70.21s | 23.08% |
+| 33 | gemma-3-270m-it | 270m | open-weight-gemma | lmstudio | 0.05s | 17.19s | 21.15% |
+| 34 | qwen2.5:0.5b | 0.5B | apache-2.0 | ollama | 1.00s | 365.51s | 19.78% |
+| 35 | llama3.2:1b | 1B | open-weight-llama3.2 | ollama | 0.17s | 63.05s | 17.03% |
+| 36 | gemma2:2b | 2B | open-weight-gemma | ollama | 0.81s | 295.59s | 15.93% |
 
 
 ### Accuracy
