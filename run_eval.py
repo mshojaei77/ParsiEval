@@ -46,8 +46,10 @@ CONFIG = {
     "temperature": 0.7,
     "max_tokens": 4000,
     "top_p": 0.95,
-    "cool_down_time": [1,10],
+    "cool_down_time": [2,30],
     "skip_unknown": True,
+    "time_out": 90,  # Timeout in seconds for model generation requests
+    "time_out_strategy": "skip",  # Strategy when timeout occurs: "skip" to skip question, "retry" to retry
     "dataset": "parsi-eval-1.csv",
     "output": "results/parsi-eval-1.json"
 }
@@ -124,7 +126,15 @@ def evaluate_model():
     
     for i, (question, correct) in enumerate(zip(questions, correct_answers)):
         messages = [
-            {'role': 'system', 'content': 'شما یک دانشجو هستید که به سوالات چند گزینه‌ای پاسخ می‌دهد. شما باید فقط و فقط با یک حرف انگلیسی (A یا B یا C یا D) پاسخ دهید. هیچ توضیح اضافی یا متن دیگری قابل قبول نیست. فقط یک حرف.'},
+            {
+                'role': 'system',
+                'content': (
+                    'شما یک دانشجو هستید که به سوالات چند گزینه‌ای پاسخ می‌دهد. '
+                    'شما باید فقط و فقط با یک حرف انگلیسی (A یا B یا C یا D) پاسخ دهید. '
+                    'هیچ توضیح اضافی یا متن دیگری قابل قبول نیست. فقط یک حرف. '
+                    'پاسخ را سریع بدهید و هیچ توضیح یا استدلالی ارائه نکنید. reasoning: low, answer fast.'
+                )
+            },
             {'role': 'user', 'content': question}
         ]
         response = None
@@ -139,15 +149,21 @@ def evaluate_model():
             try:
                 with ThreadPoolExecutor(max_workers=1) as executor:
                     future = executor.submit(get_model_response, model_name, messages)
-                    response = future.result(timeout=90) # Increased timeout for OpenAI
+                    response = future.result(timeout=CONFIG["time_out"]) # Use timeout from CONFIG
             except TimeoutError:
                 end_time = time.time()
                 latency = end_time - start_time
-                retry_count += 1
-                delay = base_delay * (2 ** (retry_count - 1))
-                print(f"Q{i+1}: timed out after {latency:.2f} seconds. Retry {retry_count}/{max_retries} in {delay} seconds...")
-                if retry_count < max_retries:
-                    time.sleep(delay)
+                
+                if CONFIG.get("time_out_strategy") == "skip":
+                    print(f"Q{i+1}: timed out after {CONFIG['time_out']} seconds (CONFIG timeout). Skipping due to time_out_strategy='skip'.")
+                    error_occurred = True
+                    break
+                else:  # Default to "retry" strategy
+                    retry_count += 1
+                    delay = base_delay * (2 ** (retry_count - 1))
+                    print(f"Q{i+1}: timed out after {CONFIG['time_out']} seconds (CONFIG timeout). Retry {retry_count}/{max_retries} in {delay} seconds...")
+                    if retry_count < max_retries:
+                        time.sleep(delay)
             except APIConnectionError as e:
                 end_time = time.time()
                 latency = end_time - start_time
@@ -251,9 +267,6 @@ def evaluate_model():
         "provider": PROVIDER,
         "accuracy": f"{accuracy:.2f}%",
         "total_questions": evaluated_count,
-        "attempted_questions": attempted_count,
-        "skipped_questions": skipped_count,
-        "stopped_early": stop_requested,
         "correct_answers": correct_count,
         "avg_latency": f"{avg_latency:.2f}s",
         "total_latency": f"{total_latency:.2f}s",

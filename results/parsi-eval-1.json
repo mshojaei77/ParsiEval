@@ -421,12 +421,24 @@
         "provider": "lmstudio",
         "accuracy": "54.55%",
         "total_questions": 363,
-        "attempted_questions": 364,
-        "skipped_questions": 0,
-        "stopped_early": false,
         "correct_answers": 198,
         "avg_latency": "0.17s",
         "total_latency": "63.68s",
+        "system": {
+            "os": "Windows",
+            "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
+        }
+    },
+    {
+        "model": "qwen/qwen3-4b-thinking-2507",
+        "model_size": "4b",
+        "license": "apache-2.0",
+        "provider": "lmstudio",
+        "accuracy": "51.97%",
+        "total_questions": 279,
+        "correct_answers": 145,
+        "avg_latency": "45.23s",
+        "total_latency": "13569.00s",
         "system": {
             "os": "Windows",
             "gpu": "NVIDIA GeForce RTX 3050 6GB Laptop GPU"
