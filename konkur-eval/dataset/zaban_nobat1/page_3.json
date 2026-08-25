@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 12,
+            "question": "...................... extensively in Eastern Europe, I can say with great pride that Bulgaria is exquisitely beautiful.",
+            "choices": [
+                "I traveled",
+                "That I traveling",
+                "Having traveled",
+                "As was traveling"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Technical hiccups ......................, the evening felt very smooth and everybody was pleased and happy.",
+            "choices": [
+                "notwithstanding",
+                "nonetheless",
+                "otherwise",
+                "nevertheless"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Last week, the UN security council passed a resolution calling for an immediate ceasefire in the war-torn region, ..................... .",
+            "choices": [
+                "where the militants didn't manage abiding by",
+                "where the militants have yet to abide for",
+                "which the militants failed in abiding for",
+                "which the militants have not abided by"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "The incident spurred him and other students into action .......................... a consequential effect on their education.",
+            "choices": [
+                "for making their campus to include indigenous students having",
+                "to make their campus inclusive of indigenous students and have",
+                "to make their campus including as indigenous students who have",
+                "for making their inclusive indigenous campus by students having"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Jack showed me his .................... of rare books. I was surprised to see the first edition of so many important books among them.",
+            "choices": [
+                "collection",
+                "percent",
+                "focus",
+                "tendency"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "The best time to ....................... for a flood is when the sky is clear and your weekend is free, not when local officials are telling you to seal up windows and head for higher ground.",
+            "choices": [
+                "spend",
+                "desire",
+                "prepare",
+                "fight"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "The challenge is that the job looks very ......................., but it is really very complex because every detail is important.",
+            "choices": [
+                "simple",
+                "dangerous",
+                "remote",
+                "demanding"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "A manufacturer has been fined $300,000 for employing children as young as 14 to .................... \"dangerous machinery\" and requiring them to work more hours than the law allows.",
+            "choices": [
+                "oppose",
+                "operate",
+                "reward",
+                "return"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "The idea that it is \"too ....................\" to eat healthy food and that junk food is cheaper is nonsense.",
+            "choices": [
+                "proud",
+                "confident",
+                "expensive",
+                "complete"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Critics believe that Jackson's complete lack of .................... in presenting his ideas suggests that he is not a serious candidate.",
+            "choices": [
+                "distaste",
+                "organization",
+                "complication",
+                "digression"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

@@ -14,9 +14,9 @@ load_dotenv()
 
 
 PROVIDER = "lmstudio"
-MODEL_NAME = "qwen/qwen3-4b-thinking-2507"
-MODEL_SIZE = "4b"
-LICENSE="apache-2.0"
+MODEL_NAME = "gemma-3-270m-fa"
+MODEL_SIZE = "270m"
+LICENSE="open"
 
 # base urls
 BASE_URLS = {
@@ -44,11 +44,11 @@ CONFIG = {
     "api_key": API_KEYS[PROVIDER],
     "model": MODEL_NAME,
     "temperature": 0.7,
-    "max_tokens": 4000,
+    "max_tokens": 500,
     "top_p": 0.95,
-    "cool_down_time": [2,30],
+    "cool_down_time": [400,10],
     "skip_unknown": True,
-    "time_out": 90,  # Timeout in seconds for model generation requests
+    "time_out": 10,  # Timeout in seconds for model generation requests
     "time_out_strategy": "skip",  # Strategy when timeout occurs: "skip" to skip question, "retry" to retry
     "dataset": "parsi-eval-1.csv",
     "output": "results/parsi-eval-1.json"

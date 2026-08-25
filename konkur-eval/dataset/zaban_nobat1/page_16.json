@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "id": 21,
+            "question": "Bittere Schicksale der Helden enden ...................., wie ein vom Untergang der Götter handelndes Schauspiel.",
+            "choices": [
+                "1) tragisch",
+                "2) komisch",
+                "3) absurd",
+                "4) fröhlich"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": ".................... Sie bitte Ihre Ruhe! Das Spiel ist noch nicht verloren! Noch haben Sie die Chance, um am Ende als Gewinner rauszukommen!",
+            "choices": [
+                "1) Befreien",
+                "2) Behalten",
+                "3) Belegen",
+                "4) Bewahren"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Der .................... des Textes ist so groß, dass man ihn nicht einmal innerhalb einer Woche lesen kann.",
+            "choices": [
+                "1) Inhalt",
+                "2) Absatz",
+                "3) Umfang",
+                "4) Rahmen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Wer einen .................... stillt, muss auch auf die eigene Ruhe achten, damit er keinen zusätzlichen Stress bekommt.",
+            "choices": [
+                "1) Kranken",
+                "2) Säugling",
+                "3) Verletzen",
+                "4) Wahnsinnigen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Aufgrund des Todes unseres Großvaters haben wir große psychische Schmerzen ....................",
+            "choices": [
+                "1) erlitten",
+                "2) ertragen",
+                "3) erlegt",
+                "4) ersetzt"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Wer in dieser Behörde keine .................... machen will, muss nach vorne schauen und sich bereitwillig zeigen, das Gewünschte zu leisten!",
+            "choices": [
+                "1) Meldungen",
+                "2) Kündigungen",
+                "3) Rückschritte",
+                "4) Absagen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Sobald er die frohe Nachricht über das Kind gehört hat, fühlte er sich ....................",
+            "choices": [
+                "1) erledigt",
+                "2) erleichtert",
+                "3) entzaubert",
+                "4) entwaffnet"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Welches Wort gehört nicht zur Reihe?",
+            "choices": [
+                "1) Kopie",
+                "2) Abschrift",
+                "3) Nachbildung",
+                "4) Unterschrift"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "An jenem Abend war alles perfekt und ....................! Was Besseres kann man sich nicht wünschen.",
+            "choices": [
+                "1) turbulent",
+                "2) respektlos",
+                "3) tadellos",
+                "4) verblüffend"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Wenden Sie sich bitte an die betreffende Stelle! Denn für diese Arbeit sind wir nicht ....................",
+            "choices": [
+                "1) fertig",
+                "2) solide",
+                "3) zuständig",
+                "4) konkurrenzfähig"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Diese Blätter gehören nicht zu euch. Ihr .................... euch im Irrtum.",
+            "choices": [
+                "1) befindet",
+                "2) sehnt",
+                "3) fühlt",
+                "4) ziert"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Warum musst du immer aus der Reihe ....................? Kannst du dich nie anpassen?",
+            "choices": [
+                "1) wandern",
+                "2) tanzen",
+                "3) treten",
+                "4) gehen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Sein Vater hat kein .................... mehr, aber er will ihm nach wie vor das Mark aus den Knochen saugen!",
+            "choices": [
+                "1) Abbild",
+                "2) Motiv",
+                "3) Geld",
+                "4) Schema"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Seine übersetzerische Leistung fanden wir ...................., sodass er demnächst bei uns als offizieller Übersetzer arbeiten kann.",
+            "choices": [
+                "1) beklemmend",
+                "2) beeinflussend",
+                "3) beeinträchtigend",
+                "4) beeindruckend"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Bei der .................... kann man durch die Wahl niederer oder höherer Temperaturen hinsichtlich des Kontrastreichtums des Bildes ein besseres Ergebnis erreichen.",
+            "choices": [
+                "1) Gelegenheit",
+                "2) Verlegenheit",
+                "3) Bejahung",
+                "4) Witterung"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

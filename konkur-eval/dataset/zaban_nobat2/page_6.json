@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 40,
+            "question": "The ability of conducting business as usual appears to persuade that African country that it needs not to worry about international opinion as it openly dispatches diplomats around the world that votes swing in its favor on different matters.",
+            "choices": [
+                "The ability of conducting business as usual appears to persuade that African country that it needs not to worry about international opinion as it openly dispatches diplomats around the world that votes swing in its favor on different matters.",
+                "The ability to conduct business as usual appears to have persuaded that African country that it needs not worry about international opinion openly dispatching diplomats around the world to which votes swing in its favor on different matters.",
+                "The ability to conduct business as usual appears to have persuaded that African country that it need not worry about international opinion as it openly dispatches diplomats around the world to swing votes in its favor on different matters.",
+                "The ability of conducting business as usual appears to persuade that African country that it need not to worry about international opinion openly dispatching diplomats around the world and swing votes in its favor on different matters."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) table",
+                "2) weather",
+                "3) wire",
+                "4) impression"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) hair to the dog",
+                "2) nuts to bolts",
+                "3) insult to injury",
+                "4) rocks to the bed"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) milk",
+                "2) tea",
+                "3) water",
+                "4) beans"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "A: Did you attend Mary's presentation about sustainable policies?\nB: Yeah! And I think she made ......................................(44) about the fact that we are way behind other firms!\nA: It really worried the management board about the costs. I guess from now on, it's not as easy for them to ride the ....................................(45) train as before.",
+            "choices": [
+                "1) no comeback",
+                "2) no bones",
+                "3) no date",
+                "4) no dents"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "A: Did you attend Mary's presentation about sustainable policies?\nB: Yeah! And I think she made ......................................(44) about the fact that we are way behind other firms!\nA: It really worried the management board about the costs. I guess from now on, it's not as easy for them to ride the ....................................(45) train as before.",
+            "choices": [
+                "1) gravy",
+                "2) high",
+                "3) hog",
+                "4) gold"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 46,
+            "question": "The .............................(46) increase in computing power, coupled with the integration of the Internet into mainstream society, has given birth to numerous gaming environments and \"virtual worlds.\"",
+            "choices": [
+                "incredulous",
+                "agonizing",
+                "exponential",
+                "sinking"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "These worlds and environments are increasingly complex, .............................(47), engaging, and enabling of a wide range of activities, goals, and social behavior.",
+            "choices": [
+                "restraining",
+                "humid",
+                "ignorant",
+                "immersive"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": ".............................(48) research are those computer environments associated with gaming.",
+            "choices": [
+                "Of particular relevance to",
+                "In particular relevance of",
+                "As particular relevant with",
+                "Of particular relevant in"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "Participation in video games has become the fastest growing form of human .............................(49).",
+            "choices": [
+                "procreation",
+                "recreation",
+                "identification",
+                "perseverance"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "Attesting to this, annual .............................(50) from video games have surpassed those of Hollywood, making them the world's largest entertainment medium.",
+            "choices": [
+                "spectrums",
+                "expenses",
+                "revenues",
+                "impediments"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "Moreover, participation in gaming .............................(51) of demographic groups, capturing an ever-increasing proportion of both youth and adult leisure time.",
+            "choices": [
+                "is a variety commonplace across",
+                "that is across a commonplace variety",
+                "that is commonly across a variety",
+                "is commonplace across a variety"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "This increased participation in games is not, however, .............................(52).",
+            "choices": [
+                "occurring without controversy",
+                "without controversy been occurred",
+                "controversial without have occurred",
+                "controversially without occurring"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "Some scholars have argued that participation in computer .............................(53) a number of negative effects, including increased tendencies toward violence, lower psychological and physical well-being, lower achievement and productivity, and more impoverished personal and familial relationships.",
+            "choices": [
+                "inspect",
+                "uproot",
+                "prevent",
+                "foster"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": ".............................(54), other scholars have argued that psychological benefits can be derived from game experiences, including a sense of efficacy and power over one's environment, as well as improvements in learning.",
+            "choices": [
+                "In contrast",
+                "At the same token",
+                "Comparatively",
+                "As opposed to"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "Given the variety and complexity of computer game activities, games may .............................(55) that games have the potential to yield both psychological harms and benefits to players.",
+            "choices": [
+                "they seem evident",
+                "they evidently seem",
+                "it seems evident",
+                "it evidently seem"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

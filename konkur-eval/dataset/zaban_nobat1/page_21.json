@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 66,
+            "question": "Dem Inhalt des Textes entnimmt man, dass man mit dem im Text erwähnten Roman \n…………… meint.",
+            "choices": [
+                "1) die literarische Epoche „Romantik\"",
+                "2) eine Beichte des Erzählers",
+                "3) eine literarische Schrift",
+                "4) ein Sachbuch"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Thackeray beklagt in seinem Roman …………………… .",
+            "choices": [
+                "1) bittere Erfahrungen in unserem Leben",
+                "2) Unangenehme Überraschungen in unserem Leben",
+                "3) Unannehmlichkeiten mit verschiedensten Ursachen",
+                "4) jegliche bittere Erfahrungen und unangenehme Überraschungen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Nach dem Inhalt des Textes …………………… .",
+            "choices": [
+                "1) gehören die Apfelsinnenschalen nicht auf die Straßen",
+                "2) soll man die Apfelsinnenschalen nicht in die Biotonne wegwerfen",
+                "3) gehören die Apfelsinnenschalen sowohl auf den Komposthaufen als auch auf die Straße",
+                "4) sind die Apfelsinnenschalen wie die Unannehmlichkeiten, die von uns verursacht werden"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Ein trittfester Weg ……………… .",
+            "choices": [
+                "1) kann im Schuhwerk Löcher verursachen",
+                "2) ist ein Weg, in dem sich der Fuß in löchrigem oder morastigem Grund verfängt",
+                "3) ist kein gepflasterter Weg, auf dem sich verlässlich und geradeaus schreiten ließe",
+                "4) kann eine gepflasterte Straße sein, auf dem sich verlässlich und geradeaus schreiten ließe"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Welche Aussage ist im Hinblick auf den Inhalt des Textes falsch?",
+            "choices": [
+                "1) Blaubasalt ist ein besonders hartes Gestein.",
+                "2) In den bequemen, gepflasterten Straßen findet man Frucht.",
+                "3) Die Trockenlegung und Befestigung beziehen sich auf die gepflasterten Straßen.",
+                "4) Die gepflasterten Straßen sind bequem, trocken und mit hartem Gestein befestigt."
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

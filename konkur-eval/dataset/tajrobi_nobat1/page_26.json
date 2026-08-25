@@ -1,0 +1,100 @@
+{
+    "questions": [
+        {
+            "id": 123,
+            "question": "حاصل عبارت $\\frac{\\sin \\frac{11\\pi}{12} + \\cos \\frac{11\\pi}{12}}{\\sin \\frac{11\\pi}{12} - \\cos \\frac{11\\pi}{12}}$ کدام است؟",
+            "choices": [
+                "$\\sqrt{3}$",
+                "$-\\sqrt{3}$",
+                "$\\frac{1}{\\sqrt{3}}$",
+                "$-\\frac{1}{\\sqrt{3}}$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 124,
+            "question": "فرم کلی جواب‌های معادله $\\cos 2x = \\sin(\\frac{3\\pi}{2} - 2x)$ به کدام صورت است؟ ($k \\in \\mathbb{Z}$)",
+            "choices": [
+                "$2k\\pi \\pm \\frac{\\pi}{3}$",
+                "$2k\\pi \\pm \\frac{\\pi}{2}$",
+                "$\\frac{2k\\pi}{3} + \\frac{\\pi}{3}$",
+                "$\\frac{k\\pi}{2} + \\pi$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 125,
+            "question": "معادله $(0.25)^{x^2 - x} = 2^{|2x|}$ چند جواب دارد؟",
+            "choices": [
+                "صفر",
+                "۱",
+                "۲",
+                "۳"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 126,
+            "question": "میانگین و واریانس چهار عدد $a, b, c, d$ به ترتیب ۳ و ۱.۵ است. واریانس داده‌های $a, b, c, d$ و ۵ کدام است؟",
+            "choices": [
+                "۰.۷۵",
+                "۰.۹۴",
+                "۱.۶۵",
+                "۱.۸۴"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 127,
+            "question": "برای چند عدد طبیعی، ریشه دوم عبارت $\\frac{1-a}{9-3a}$ وجود ندارد؟",
+            "choices": [
+                "۲",
+                "۳",
+                "۴",
+                "۵"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 128,
+            "question": "حاصل $\\lim_{x \\to -1} [8x^3 - x]$ کدام است؟",
+            "choices": [
+                "۱",
+                "-۱",
+                "صفر",
+                "وجود ندارد."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 129,
+            "question": "اگر $\\lim_{x \\to -2\\pi} \\frac{4+k[\\frac{x}{\\pi}]}{\\sin x} = +\\infty$ باشد، مقدار $[k]$ کدام است؟",
+            "choices": [
+                "-۱",
+                "-۴",
+                "-۳",
+                "-۲"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 130,
+            "question": "به ازای چند مقدار $a$، تابع $f$ با ضابطه $f(x) = \\begin{cases} \\frac{3}{2} & x \\ge a \\\\ \\frac{x+a}{a-1} & x < a \\end{cases}$ روی $\\mathbb{R}$ پیوسته است؟",
+            "choices": [
+                "صفر",
+                "۱",
+                "۲",
+                "۳"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

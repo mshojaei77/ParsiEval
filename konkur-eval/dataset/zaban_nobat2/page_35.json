@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "id": 16,
+            "question": "L'abaco è strumento simile a un .............. usato dagli antichi per il calcolo aritmetico.",
+            "choices": [
+                "inventario",
+                "lemmario",
+                "pallottoliere",
+                "sommario"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "L'aggiramento viene utilizzato spesso nella terminologia ..................... .",
+            "choices": [
+                "militare",
+                "sportiva",
+                "trasversale",
+                "biologica"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Quale opzione non appartiene al campo semantico di finalità?",
+            "choices": [
+                "meta",
+                "proposito",
+                "destinazione",
+                "congiunzione"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Nella frase il suo amico è proprio logorroico s'intende dire che lui è .............. .",
+            "choices": [
+                "proficuo",
+                "prolisso",
+                "illogico",
+                "realista"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "La miopatia è caratterizzata da alterazioni della struttura e della funzione di .............. .",
+            "choices": [
+                "ossa",
+                "nervi",
+                "muscoli",
+                "vertebre"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "L'allontanarsi temporaneamente dal cammino intrapreso o dalla via più dritta è la ......................... .",
+            "choices": [
+                "digressione",
+                "inclinazione",
+                "flessione",
+                "annessione"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Cicerone narra che Persio meritò molta vera ......................... .",
+            "choices": [
+                "gloria",
+                "solerzia",
+                "amnesia",
+                "pretesa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "......................... afferma l'animatore della società, il servizio sarà a disposizione di tutti.",
+            "choices": [
+                "in quanto",
+                "secondo quanto",
+                "in accordo",
+                "a seconda di"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Tirare su il morale a qualcuno significa ascoltarla con ......................... .",
+            "choices": [
+                "perseveranza",
+                "diffidenza",
+                "empatia",
+                "antipatia"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Il detto \"andare a Canossa\", indica proprio ......................... di fronte a un nemico.",
+            "choices": [
+                "la depauperazione",
+                "l'umiliazione",
+                "l'accanimento",
+                "la pace"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Crasso ebbe una grande ......................... di servi in città e in campagna.",
+            "choices": [
+                "sistemazione",
+                "egritudine",
+                "arroganza",
+                "moltitudine"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Vogliamo essere partecipi della ......................... e dei premi come dice Cesare.",
+            "choices": [
+                "voglia",
+                "ripresa",
+                "preda",
+                "ripugnanza"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "......................... al traffico di Firenze, Graziano Cioni, nel 1988 finì sul Times.",
+            "choices": [
+                "Il censore",
+                "Il badante",
+                "La vedetta",
+                "L'assessore"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Egli Cerca di ......................... il suo compagno dall'acquisto perché era quasi al verde.",
+            "choices": [
+                "persuadere",
+                "dissuadere",
+                "assistere",
+                "affrettare"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Prendendo ......................... da quanto avete letto, discutetene fra voi.",
+            "choices": [
+                "spunto",
+                "sunto",
+                "disappunto",
+                "riassunto"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Dopo esservi ......................... con il vostro ruolo da interpretare, cercate di convincere il compagno.",
+            "choices": [
+                "sbadati",
+                "analizzati",
+                "immedesimati",
+                "entusiasmati"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Questo ragazzo non è per niente abulico quindi si può definirlo ......................... .",
+            "choices": [
+                "atavico",
+                "indolente",
+                "irresoluto",
+                "energico"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Se vogliamo rendere meno acuto un angolo dobbiamo farlo ......................... .",
+            "choices": [
+                "appuntire",
+                "smussare",
+                "aguzzare",
+                "affusolare"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Quale è il significato principale del verbo contingere?",
+            "choices": [
+                "fallire",
+                "fissare",
+                "appagarsi",
+                "avvenire casualmente"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "......................... dei Padri è una raccolta di detti memorabili e fatti esemplari dei più celebri monaci.",
+            "choices": [
+                "Riti",
+                "Apoftegmi",
+                "Contesti",
+                "Baldanze"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

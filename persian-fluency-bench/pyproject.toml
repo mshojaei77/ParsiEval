@@ -1,0 +1,19 @@
+[project]
+name = "persian-fluency-bench"
+version = "0.1.0"
+description = "Benchmark of linguistic fluency in Modern Native Persian across 10 everyday domains: casual conversation and formal writing tracks"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.30.0",
+    "python-dotenv>=1.0.0",
+    "tqdm>=4.66.0",
+]
+
+[tool.ruff]
+line-length = 140
+target-version = "py310"
+
+[tool.black]
+line-length = 140

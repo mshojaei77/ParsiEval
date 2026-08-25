@@ -1,0 +1,4202 @@
+{
+    "metadata": {
+        "exam_name": "zaban_nobat2",
+        "source": "pdfs\\questions\\zaban_nobat2_questions.pdf",
+        "total_questions": 350
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "The president will travel to the Hawaiian island \nMonday to meet the mayor.",
+            "choices": [
+                "as",
+                "in",
+                "at",
+                "on"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "There is a motorcycle in the picture that he says was used \nfruits to his father's store.",
+            "choices": [
+                "to carry",
+                "to carrying",
+                "as carrying",
+                "to be carried"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "The technology of neuroscience is \nto genetically engineer insect brains.",
+            "choices": [
+                "enough advanced",
+                "advanced enough",
+                "such advanced that",
+                "advanced such that"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "\nmany rich countries have great vaccination programs, many poor ones face a huge challenge in accessing vaccines.",
+            "choices": [
+                "But",
+                "Despite",
+                "While",
+                "In spite of"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Nothing is quite \nreading a wordbook aloud to a toddler for the $13^{th}$ time.",
+            "choices": [
+                "most bored in",
+                "so boring as",
+                "as bored as",
+                "as boring than"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "The approval of the treatment, which is proposed by an international drug maker, gives doctors \noption for patients suffering from insomnia.",
+            "choices": [
+                "other",
+                "a few",
+                "several",
+                "another"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "I voted reluctantly for the current CEO \nmy fears for what a new one might do to our company.",
+            "choices": [
+                "as for",
+                "since",
+                "because of",
+                "because"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "The idea of this approach is to use different levels of modeling, \nto study phenomena at a certain length scale.",
+            "choices": [
+                "each designed",
+                "both designing",
+                "which designed",
+                "that designing"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "It is my hope \na richer mathematical language for describing the development of relationships can lead to a world where our institutions value the work of creating connection as much as we do.",
+            "choices": [
+                "that by developing",
+                "that developing",
+                "in the development of",
+                "of the development of"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "That day in Pittsburgh, they were elaborating on something they \nbefore, regarding the importance of the new discovery.",
+            "choices": [
+                "say",
+                "were said",
+                "should say",
+                "had said"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "In a moment of desperation, \nwould never be able to write again, I started listening to music on my phone, lying on the floor.",
+            "choices": [
+                "I was fearing",
+                "and feared I",
+                "fearing I",
+                "I feared"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "A recent study shows that black children were hospitalized at a rate five \r\nwhite children.",
+            "choices": [
+                "times that of",
+                "timed those for",
+                "timed that for",
+                "times those of"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "...................... seems so far to be a safe and effective vaccine candidate, it appears that humanity may be the winner again this time around, albeit with a dreadful loss of life.",
+            "choices": [
+                "That the emergence of it",
+                "With the emergence of what",
+                "Given that it's emergence",
+                "Its emergence"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "All people can attain the highest achievements possible for mankind, ...................... learn about the specific mental mechanisms which can be employed to realize dreams.",
+            "choices": [
+                "provided, that is, that they",
+                "providing that be what they",
+                "providing that, which they should",
+                "provided, that is, which they should"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Richard Hamilton, an inventive mathematician ...................... helped advance understanding of the fundamental nature of three-dimensional space, died on Sept. 29 in Manhattan.",
+            "choices": [
+                "who devised the Ricci flow which was an equation",
+                "devised the Ricci flow that was an equation which",
+                "who devised the Ricci flow, an equation that",
+                "devised the Ricci flow, an equation which"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Indeed, the dates that truly made a ...................... in our lives aren't always the ones we know by heart.",
+            "choices": [
+                "function",
+                "preparation",
+                "reference",
+                "difference"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "The information presented in this video goes some way towards \r\ninternational corporations in the food you eat every day. the role of",
+            "choices": [
+                "spending",
+                "explaining",
+                "attracting",
+                "requiring"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Not everything is clear yet, but it is good that we have a/an \r\nof what we want to do. idea of our dream",
+            "choices": [
+                "final",
+                "entire",
+                "general",
+                "wrong"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Almost all universities saw a record rise in the number of students who \r\nadmission. for",
+            "choices": [
+                "applied",
+                "wanted",
+                "interested",
+                "invited"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "She was very ...................... as she didn't give up and managed to solve all her problems when there was nobody to help her.",
+            "choices": [
+                "humble",
+                "silent",
+                "brave",
+                "bald"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Shops and banks were closed amid growing ...................... that a political standoff between protesters and the government was about to begin in Thailand.",
+            "choices": [
+                "anxiety",
+                "separation",
+                "flexibility",
+                "poverty"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Congratulations to Ed on this well-deserved ...................... to what I believe is the most unique and meaningful position in the world of professional sports.",
+            "choices": [
+                "victory",
+                "promotion",
+                "perfection",
+                "competition"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "At the risk of being called naive or accused of meddling in matters beyond their ............, the bishops spoke boldly about a matter that was apparently irrelevant to them.",
+            "choices": [
+                "spectrums",
+                "amplitude",
+                "dimensions",
+                "competence"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Mary's father .................... away her tears with a pad of his thumb and then kissed her forehead tenderly.",
+            "choices": [
+                "stroked",
+                "trickled",
+                "threw",
+                "cried"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Are you good at small ....................? Or do you find yourself at a loss for words when trying to make conversation with strangers and acquaintances?",
+            "choices": [
+                "expression",
+                "talk",
+                "dialogue",
+                "discussion"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "The program helps patients manage disturbing thoughts, like the idea that they cannot function without eight .................... hours of sleep.",
+            "choices": [
+                "durable",
+                "firm",
+                "solid",
+                "hoarse"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "I was very lucky as, by .................... accident, I stumbled on a solution that solved all my philosophical questions.",
+            "choices": [
+                "deliberative",
+                "predictive",
+                "arrogant",
+                "sheer"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "While there are still important disagreements to be worked out, negotiators are cautiously .................... that a final accord is within reach.",
+            "choices": [
+                "deterministic",
+                "optimistic",
+                "extensive",
+                "reliant"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "One attendant .................... to me that once we landed, the crew was going out on strike.",
+            "choices": [
+                "told",
+                "belonged",
+                "confided",
+                "denounced"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "When I asked him whether he was fine, he .................... an acknowledgment without even looking up, and continued to sulk.",
+            "choices": [
+                "buckled",
+                "beleaguered",
+                "grappled",
+                "grunted"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "They've told us they're now being advised to use their holiday .................... to cover the working time they've lost as a result of this mess.",
+            "choices": [
+                "entitlement",
+                "vocation",
+                "refractions",
+                "rationality"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "We were looking for the problem on the .................... of society, but it was always in our middle where we least expected it.",
+            "choices": [
+                "plows",
+                "ridges",
+                "fringes",
+                "furrows"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "He is the best judge of what he can do and I trust him ....................; he told me he can do the job, so I'm very confident.",
+            "choices": [
+                "bluntly",
+                "implicitly",
+                "densely",
+                "tangentially"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Although he's a vastly .................... grappler with the complexities of art history, Sir Ernst Gombrich has managed to write what is perhaps the most readable survey of his thorny field.",
+            "choices": [
+                "erudite",
+                "pallid",
+                "arable",
+                "clandestine"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "It is common to cite the Armenian massacres in the early century, the world wars, the Holocaust, to .................... Stalin's crimes and to name Bosnia and Rwanda as evidence of this century's peculiar offenses against humanity.",
+            "choices": [
+                "preen",
+                "cower",
+                "obviate",
+                "adduce"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 36,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "A good language learner that he is motivated, he must learn becoming more self-confident.",
+                "As a good language learner who is motivated and must learn to become more self-confident.",
+                "A good language learner should be motivated and he must learn to become more self-confident.",
+                "Being a good language learner, he must be motivated and to learn becoming more self-confident."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "In order to realize our responsibility towards people and nature in the future, we will continue to develop our strategies.",
+                "In order to realizing our responsibility towards people and nature in the future, our strategies we will continue developing.",
+                "We will continue developing our strategies so that realizing our responsibility to people and nature in the future.",
+                "We will continue to develop our strategies which they are to realize our responsibility to people and nature in the future."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "Given that I do not wish to be a source of scorn by friends and professional colleagues, investing a lot to keep up to date with technologies emerging.",
+                "Not wishing to be a source of scorn for friends and professional colleagues, I invest a lot in keeping up to date with emerging technologies.",
+                "Having invested a lot in keeping up to date with emerging technologies, as I wish not being a source of scorn by friends and professional colleagues.",
+                "I invest a lot to keep up to date with technologies emerging, who do not wish being a source of scorn for friends and professional colleagues."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "It was an investigative reporter who was accused of being economic with the truth in his dealings with the police while investigating and alleged a plot exposed a celebrity who was kidnapped.",
+                "An investigative reporter was charged with being economic with the truth in his dealings with the police while they were investigating an alleged plot where a celebrity was exposed to have been kidnapped.",
+                "That an investigative reporter was charged with being economical with the truth in his dealings with the police who investigated an alleged plot exposed by the paper, suggested to kidnap a celebrity.",
+                "An investigative reporter was accused of being economical with the truth in his dealings with the police when they were investigating an alleged plot exposed by the paper to kidnap a celebrity."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "The ability of conducting business as usual appears to persuade that African country that it needs not to worry about international opinion as it openly dispatches diplomats around the world that votes swing in its favor on different matters.",
+            "choices": [
+                "The ability of conducting business as usual appears to persuade that African country that it needs not to worry about international opinion as it openly dispatches diplomats around the world that votes swing in its favor on different matters.",
+                "The ability to conduct business as usual appears to have persuaded that African country that it needs not worry about international opinion openly dispatching diplomats around the world to which votes swing in its favor on different matters.",
+                "The ability to conduct business as usual appears to have persuaded that African country that it need not worry about international opinion as it openly dispatches diplomats around the world to swing votes in its favor on different matters.",
+                "The ability of conducting business as usual appears to persuade that African country that it need not to worry about international opinion openly dispatching diplomats around the world and swing votes in its favor on different matters."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) table",
+                "2) weather",
+                "3) wire",
+                "4) impression"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) hair to the dog",
+                "2) nuts to bolts",
+                "3) insult to injury",
+                "4) rocks to the bed"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "A: Hey, Sam!\nB: Howdy, Jimmy!\nA: Are you coming over to watch the game tonight?\nB: No, man! I'm really under the .................................(41). I don't think I can make it.\nA: It must be from that Chinese food you had last night.\nB: I guess; and to add ...................................(42), they charged me way more than the usual price.\nA: Well, what's done is done. There's no use crying over spilt ......................................(43).",
+            "choices": [
+                "1) milk",
+                "2) tea",
+                "3) water",
+                "4) beans"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "A: Did you attend Mary's presentation about sustainable policies?\nB: Yeah! And I think she made ......................................(44) about the fact that we are way behind other firms!\nA: It really worried the management board about the costs. I guess from now on, it's not as easy for them to ride the ....................................(45) train as before.",
+            "choices": [
+                "1) no comeback",
+                "2) no bones",
+                "3) no date",
+                "4) no dents"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "A: Did you attend Mary's presentation about sustainable policies?\nB: Yeah! And I think she made ......................................(44) about the fact that we are way behind other firms!\nA: It really worried the management board about the costs. I guess from now on, it's not as easy for them to ride the ....................................(45) train as before.",
+            "choices": [
+                "1) gravy",
+                "2) high",
+                "3) hog",
+                "4) gold"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "The .............................(46) increase in computing power, coupled with the integration of the Internet into mainstream society, has given birth to numerous gaming environments and \"virtual worlds.\"",
+            "choices": [
+                "incredulous",
+                "agonizing",
+                "exponential",
+                "sinking"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "These worlds and environments are increasingly complex, .............................(47), engaging, and enabling of a wide range of activities, goals, and social behavior.",
+            "choices": [
+                "restraining",
+                "humid",
+                "ignorant",
+                "immersive"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": ".............................(48) research are those computer environments associated with gaming.",
+            "choices": [
+                "Of particular relevance to",
+                "In particular relevance of",
+                "As particular relevant with",
+                "Of particular relevant in"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "Participation in video games has become the fastest growing form of human .............................(49).",
+            "choices": [
+                "procreation",
+                "recreation",
+                "identification",
+                "perseverance"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "Attesting to this, annual .............................(50) from video games have surpassed those of Hollywood, making them the world's largest entertainment medium.",
+            "choices": [
+                "spectrums",
+                "expenses",
+                "revenues",
+                "impediments"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "Moreover, participation in gaming .............................(51) of demographic groups, capturing an ever-increasing proportion of both youth and adult leisure time.",
+            "choices": [
+                "is a variety commonplace across",
+                "that is across a commonplace variety",
+                "that is commonly across a variety",
+                "is commonplace across a variety"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "This increased participation in games is not, however, .............................(52).",
+            "choices": [
+                "occurring without controversy",
+                "without controversy been occurred",
+                "controversial without have occurred",
+                "controversially without occurring"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "Some scholars have argued that participation in computer .............................(53) a number of negative effects, including increased tendencies toward violence, lower psychological and physical well-being, lower achievement and productivity, and more impoverished personal and familial relationships.",
+            "choices": [
+                "inspect",
+                "uproot",
+                "prevent",
+                "foster"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": ".............................(54), other scholars have argued that psychological benefits can be derived from game experiences, including a sense of efficacy and power over one's environment, as well as improvements in learning.",
+            "choices": [
+                "In contrast",
+                "At the same token",
+                "Comparatively",
+                "As opposed to"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "Given the variety and complexity of computer game activities, games may .............................(55) that games have the potential to yield both psychological harms and benefits to players.",
+            "choices": [
+                "they seem evident",
+                "they evidently seem",
+                "it seems evident",
+                "it evidently seem"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "The underlined word \"its\" in paragraph 1 refers to ...............",
+            "choices": [
+                "surface",
+                "century",
+                "the Pacific",
+                "the world"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "The underlined word \"vastness\" in paragraph 1 is closest in meaning to ...............",
+            "choices": [
+                "length",
+                "greatness",
+                "history",
+                "climate"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "According to paragraph 2, which of the following shows the correct chronological order of events?",
+            "choices": [
+                "The sailing of three ships under Magellan's command before Balboa's death",
+                "The Mariana Islands taking their current name before Magellan's death",
+                "Magellan reaching the Mariana Islands after Balboa's death",
+                "Balboa's birth after the Ladrones islands taking their name"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "All of the following words are mentioned in the passage EXCEPT ...............",
+            "choices": [
+                "coast",
+                "Hawaii",
+                "Panama",
+                "thievery"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "According to the passage, which of the following statements is true?",
+            "choices": [
+                "Pacific Islanders employed their knowledge of oceanography to export food to South America.",
+                "On his way to the Mariana Islands, Magellan sailed past three islets, which had no native residents.",
+                "Voyagers from the Indonesian islands never set foot into the central Pacific before the 16th century.",
+                "Balboa and Magellan named the Pacific Ocean and the Ladrones islands respectively."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "According to paragraph 1, heat-trapping greenhouse gases resulting from human activities contributed to all of the following EXCEPT ............ .\n1) sea level changes\n2) an increase in global warming\n3) destruction of animals' environments\n4) an increase in energy consumption",
+            "choices": [
+                "sea level changes",
+                "an increase in global warming",
+                "destruction of animals' environments",
+                "an increase in energy consumption"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Which of the following pairs of techniques is used in paragraph 2?\n1) Comparison and Exemplification\n2) Exemplification and Statistics\n3) Rhetorical question and Comparison\n4) Statistics and Rhetorical question",
+            "choices": [
+                "Comparison and Exemplification",
+                "Exemplification and Statistics",
+                "Rhetorical question and Comparison",
+                "Statistics and Rhetorical question"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "According to paragraph 3, which of the following best describes the writer's opinion about the possibility of estimating the Earth's temperature belonging to centuries ago?\n1) Indifference\n2) Disagreement\n3) Skepticism\n4) Agreement",
+            "choices": [
+                "Indifference",
+                "Disagreement",
+                "Skepticism",
+                "Agreement"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "The passage provides sufficient information to answer which of the following questions?\nI. What technological development took place in the 1880s, resulting in the establishment of weather stations around the world?\nII. What are the names of some greenhouse gases that trap heat, with adverse ecological consequences?\nIII. Are climatic conditions in any discernible way influenced by the properties of the atmosphere?\n1) Only I\n2) Only III\n3) I and II\n4) II and III",
+            "choices": [
+                "Only I",
+                "Only III",
+                "I and II",
+                "II and III"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "According to the passage, which of the following statements is NOT true?",
+            "choices": [
+                "Data on temperature gathered from weather stations assist scientists in determining the global average annual temperature at the Earth's surface.",
+                "Frequently confused with weather, climate is better defined as the underlying conditions that lead to weather patterns.",
+                "Climate is characterized by continuous fluctuations in what may be called geological history, i.e., particularly short intervals.",
+                "Scientists track alterations in climate by measuring average temperatures and analyzing their fluctuation over time."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "The underlined word \"betrays\" in paragraph 1 is closest in meaning to ............................",
+            "choices": [
+                "proscribes",
+                "misleads",
+                "reneges",
+                "discloses"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "According to paragraph 2, which of the following probably best characterizes Bertha Mason in Charlotte Brontë's novel?",
+            "choices": [
+                "A domineering figure opposed to Romantic ideals",
+                "A mysterious figure confined in a place out of view",
+                "A conventional character representing Victorian reason",
+                "A violent character equally opposed to Victorianism and Romanticism"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "According to the passage, which of the following statements is true?",
+            "choices": [
+                "The Wordsworthian intellect and the Coleridgean torment embody two unprecedented and interrelated currents specifically within Victorian poetry.",
+                "The Victorian and Romantic spirits were, to a large extent, mutually reliant, with the former yielding itself to the sensible discipline of the latter.",
+                "Romanticism is a highly protean notion, eliciting a wide array of responses from many poets of the Victorian period, with Tennyson and Wordsworth portraying the period's polar extremes.",
+                "Although Lovejoy's idea of Romanticism did not attain universal agreement among subsequent critics for a long time, it nevertheless, in a sense, influenced some future critics' conception of Romanticism."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Which of the following statements can best be inferred from the passage?",
+            "choices": [
+                "The issue of literary periodization is a moot point, with some critics believing Romanticism preceded Victorian era and others believing otherwise.",
+                "Some literary critics adhered to the belief that the development of literary phenomena could be shaped and colored by foreign political events.",
+                "The different interpretations of certain Romantic poets by their contemporaries and subsequent critics reveal the inherent futility of categorizing literary periods in general.",
+                "The Reform Bill of 1832 was primarily a literary manifesto distributed by the Victorian poets, proclaiming the death of Romanticism and calling for a profound transformation in the political system."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "In which position marked by [1], [2], [3] or [4], can the following sentence best be inserted in the passage?\nThis decline was often read through the fate of what was called \"the big six Romantic poets.\"",
+            "choices": [
+                "[4]",
+                "[3]",
+                "[2]",
+                "[1]"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 1,
+            "question": "Das ist eben die Frau, ........................ Auto man gestern gestohlen hat.",
+            "choices": [
+                "1) die das",
+                "2) der das",
+                "3) dessen",
+                "4) deren"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Die Kamera ist kaputt. Du kannst keine ........................ (Hinweis: Plural von Foto) machen.",
+            "choices": [
+                "1) Fotos",
+                "2) Foten",
+                "3) Fotoa",
+                "4) Foti"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "„Hier ist der Eintritt zu zahlen“ bedeutet: Hier ........................ man den Eintritt zahlen.",
+            "choices": [
+                "1) will",
+                "2) muss",
+                "3) möchte",
+                "4) darf"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Sie ........................ (Hinweis: lesen) gerne Bücher, die ich ihr gekauft habe.",
+            "choices": [
+                "1) leset",
+                "2) lest",
+                "3) liest",
+                "4) lieset"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Suchst du hier in der Nähe einen Anzug? Hier ist doch ........................ .",
+            "choices": [
+                "1) einer",
+                "2) eins",
+                "3) ein",
+                "4) eines"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Er stellt das Fahrrad ........................ Turm.",
+            "choices": [
+                "1) in dem",
+                "2) in den",
+                "3) hinter dem",
+                "4) hinter den"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Das Bild hängt seit langer Zeit ........................ Wand.",
+            "choices": [
+                "1) in dem",
+                "2) an dem",
+                "3) an der",
+                "4) in den"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Ich würde kommen, wenn ich Zeit ........................ .",
+            "choices": [
+                "1) hätte",
+                "2) habe",
+                "3) hatte",
+                "4) gehabt hätte"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Wir ........................ aus bestimmten Gründen erst gestern ........................ .",
+            "choices": [
+                "1) sind – umgezieht",
+                "2) haben – umgezieht",
+                "3) sind – umgezogen",
+                "4) haben – umgezogen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Was soll ich denn noch machen, ........................ er rechtzeitig da ist.",
+            "choices": [
+                "1) da",
+                "2) ob",
+                "3) zumal",
+                "4) damit"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Schmeckt die Suppe nicht? Nein, sie ist ........................ salzig.",
+            "choices": [
+                "1) zu",
+                "2) weit",
+                "3) viel",
+                "4) hoch"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Du kannst die notwendigen Informationen ........................ der Rezeption bekommen.",
+            "choices": [
+                "1) in",
+                "2) an",
+                "3) bei",
+                "4) auf"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Ihre Musik stört die Leute. Sie müssen leise sein. Warum das? Hier ........................ man doch Musik hören.",
+            "choices": [
+                "1) muss",
+                "2) darf",
+                "3) will",
+                "4) möchte"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "........................ ich bitte Ihre Telefonnummer haben?",
+            "choices": [
+                "1) Mag",
+                "2) Soll",
+                "3) Kann",
+                "4) Muss"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Ich bin gestern deswegen nicht gekommen, ........................ ich krank war.",
+            "choices": [
+                "1) weil",
+                "2) dass",
+                "3) bevor",
+                "4) zumal"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Darf ich Sie heute zu einem Kaffee ..............................................?",
+            "choices": [
+                "1) einbiegen",
+                "2) einsetzen",
+                "3) einlegen",
+                "4) einladen"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Gehen Sie schon jeden Tag zu ...................................................... zur Arbeit?",
+            "choices": [
+                "1) Auto",
+                "2) Rad",
+                "3) Fuß",
+                "4) Karre"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Ich habe ............................................... . Wann können wir endlich essen?",
+            "choices": [
+                "1) Durst",
+                "2) Hunger",
+                "3) Aroma",
+                "4) Geschmack"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Es ist kalt. Ist die ............................................... kaputt?",
+            "choices": [
+                "1) Leuchte",
+                "2) Heizung",
+                "3) Kerze",
+                "4) Wärme"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Haben Sie bitte ein ............................................... gegen Magenschmerzen?",
+            "choices": [
+                "1) Dokument",
+                "2) Plätzchen",
+                "3) Objekt",
+                "4) Mittel"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Ich werde dieses Jahr mein Studium ..................................................... .",
+            "choices": [
+                "1) ausschließen",
+                "2) verschließen",
+                "3) abschließen",
+                "4) zuschließen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Lisa ist ............................................... . Sie kann heute aus diesem Grund nicht zur Schule gehen.",
+            "choices": [
+                "1) erkältet",
+                "2) ermuntert",
+                "3) neugierig",
+                "4) optimistisch"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Ich kann nicht laufen, weil mir der linke Fuß sehr ............................................... .",
+            "choices": [
+                "1) auffällt",
+                "2) wehtut",
+                "3) zumutet",
+                "4) verweigert"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Ist deine Brille jetzt kaputt? Nein, zum ............................................... ist sie noch in Ordnung.",
+            "choices": [
+                "1) Teufel",
+                "2) Ernst",
+                "3) Gott",
+                "4) Glück"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Das Brot ist noch ganz ............................................... . Ich habe es gerade gekauft.",
+            "choices": [
+                "1) roh",
+                "2) mies",
+                "3) frisch",
+                "4) verrottet"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Das Gegenteil von „hoch“ ist „...............................................“.",
+            "choices": [
+                "1) tief",
+                "2) kurz",
+                "3) klein",
+                "4) niedrig"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Der ............................................... für Kinder und Jugendliche bis 16 Jahre ist frei.",
+            "choices": [
+                "1) Ausschluss",
+                "2) Abgrund",
+                "3) Eintritt",
+                "4) Ansatz"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Martin kann sehr gut Klavier ............................................... .",
+            "choices": [
+                "1) singen",
+                "2) spielen",
+                "3) ansagen",
+                "4) abhören"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Meine Arbeit gefällt mir nicht mehr. Ich will heute ............................................... .",
+            "choices": [
+                "1) versagen",
+                "2) absagen",
+                "3) auslassen",
+                "4) kündigen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "„Tschüss, bis zum nächsten Mal“ bedeutet im Deutschen: Auf ............................................... !",
+            "choices": [
+                "1) Wiedersehen",
+                "2) Genesung",
+                "3) Nimmer",
+                "4) Jawohl"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Das Rätsel ist schwierig. Ich weiß die ............................................... nicht.",
+            "choices": [
+                "1) Anfrage",
+                "2) Antwort",
+                "3) Absage",
+                "4) Ausrede"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Können Sie sich bitte um unsere Pflanzen ...............................................? Wir sind nächste Woche im Urlaub.",
+            "choices": [
+                "1) streiten",
+                "2) erkundigen",
+                "3) verschätzen",
+                "4) kümmern"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Sind Sie „...............................................\" oder „männlich\"?",
+            "choices": [
+                "1) feminin",
+                "2) weiblich",
+                "3) maskulin",
+                "4) jungfräulich"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Ich will Ihnen hiermit herzlichen Glückwunsch zum Geburtstag ...............................................!",
+            "choices": [
+                "1) beilegen",
+                "2) aussagen",
+                "3) beisetzen",
+                "4) aussprechen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Hans will fit sein. Er geht jeden Tag ins ............................................... .",
+            "choices": [
+                "1) Fitnessstudio",
+                "2) Spielhaus",
+                "3) Stadion",
+                "4) Studio"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 36,
+            "question": "Bringst du bitte ..............?",
+            "choices": [
+                "die Bluse in der Reinigung",
+                "in die Reinigung die Bluse",
+                "die Bluse in die Reinigung",
+                "in der Reinigung die Bluse"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Welcher Satz ist mit folgenden Wortgruppen ein richtiger Satz!\ngeben – Zimmerschlüssel – Ihnen – ich – noch",
+            "choices": [
+                "Ich gebe Ihnen noch den Zimmerschlüssel.",
+                "Ich gebe noch Ihnen den Zimmerschlüssel.",
+                "Ich gebe noch den Zimmerschlüssel Ihnen.",
+                "Ich gebe Ihnen dem Zimmerschlüssel noch."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Die neuen Schuhe ................ . Sie drücken.",
+            "choices": [
+                "kommen mir zu kurz",
+                "stehen mir zu weit",
+                "liegen mir so hoch",
+                "sind mir zu eng"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "....................... . Ich weiß nicht, was ich tun soll.",
+            "choices": [
+                "Ich will meine Hausaufgaben keinesfalls erledigen",
+                "Ihre Meinung interessiert mich gar nicht",
+                "Ich bin in einer schwierigen Situation",
+                "Dieses Buch gefällt mir sehr"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Welcher Satz ist mit folgenden Wortgruppen ein richtiger Satz!\nSommer – dies – viel – Touristen – kommen – Stadt – in",
+            "choices": [
+                "Im Sommer kommen viele Touristen in diese Stadt.",
+                "Im Sommer kommen viel Touristen in diese Stadt.",
+                "In den Sommer kommen viele Touristen in dieser Stadt.",
+                "In den Sommer kommen vielen Touristen in dieser Stadt."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Verkäufer und Käufer von Gütern kommen zusammen, ....................",
+            "choices": [
+                "damit ihre Waren nicht beschädigt werden",
+                "damit ihre Waren vermarktet werden",
+                "um sich miteinander zu unterhalten",
+                "um zu handeln"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "In einer ..................... unterrichten die Lehrer und die Schüler lernen etwas.",
+            "choices": [
+                "Schule",
+                "Werkstatt",
+                "Fahrschule",
+                "Universität"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Ein Ausländer ist ...........................",
+            "choices": [
+                "ein Tourist innerhalb des eigenen Staats",
+                "ein Mensch außerhalb des eigenen Landes",
+                "ein Individuum außerhalb der eigenen Stadt",
+                "eine Person innerhalb der eigenen Regierung"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Der Satz „.......................\" bedeutet „Die Krankheit ist unheilbar“?",
+            "choices": [
+                "Der Arzt kennt die Krankheit nicht",
+                "Die Krankheit lässt sich doch heilen",
+                "Die Krankheit lässt sich nicht mehr heilen",
+                "Die Heilung ist bei der Krankheit eine Frage der Zeit"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "… ist eine Stadt mit mindestens 100.000 Einwohnern.",
+            "choices": [
+                "Eine Großstadt",
+                "Eine Residenz",
+                "Ein Staat",
+                "Ein Land"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Hans lebt und arbeitet in Deutschland. Die Eltern von Hans leben nicht in Deutschland. Sie leben in Italien. Heute möchte er seine Eltern dort ….",
+            "choices": [
+                "anschauen",
+                "besichtigen",
+                "ansehen",
+                "besuchen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "er … nicht gern. Also …",
+            "choices": [
+                "sitzt",
+                "fällt",
+                "fliegt",
+                "verschwindet"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "… Hans mit dem Zug nach Italien fahren.",
+            "choices": [
+                "soll",
+                "darf",
+                "mag",
+                "will"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "Um 9 Uhr steht er am Bahnhof und … auf den Zug. Aber der Zug kommt nicht.",
+            "choices": [
+                "legt",
+                "hofft",
+                "setzt",
+                "wartet"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "Wann kommt der Zug? Hans … es nicht. Jetzt ist es 10:15 Uhr. Da ist der Zug!",
+            "choices": [
+                "weiß",
+                "erzwingt",
+                "beantwortet",
+                "verschwendet"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "Er fährt in den Bahnhof. Dann hält er und die Türen ….",
+            "choices": [
+                "sitzen fest",
+                "dauern an",
+                "gehen weg",
+                "schließen auf"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "Hans steigt ein. Er geht in den Zug und … einen Platz. Da ist einer frei. Hans setzt sich auf den Platz und der Zug fährt los.",
+            "choices": [
+                "besucht",
+                "sucht",
+                "verfehlt",
+                "verliert"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "Nach vier Stunden … der Zug in Zürich.",
+            "choices": [
+                "hält",
+                "landet",
+                "versagt",
+                "brodelt"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "Hier muss Hans in einen Zug nach Italien ….",
+            "choices": [
+                "umwandeln",
+                "umsetzen",
+                "umsteigen",
+                "umfahren"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "Also steigt er aus und wartet im Bahnhof. Dann hört Hans eine …: „Der Zug nach Mailand um 15 Uhr kommt heute nicht.\" Oh, nein! Was soll Hans jetzt machen?",
+            "choices": [
+                "Durchsage",
+                "Aussage",
+                "Ansage",
+                "Absage"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "Der Text besagt, dass man am See …………… will.",
+            "choices": [
+                "auswandern",
+                "in der Sonne liegen",
+                "mit dem Rad fahren",
+                "mit einem Boot fahren"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Dem Inhalt des Textes entnimmt man, dass …………….",
+            "choices": [
+                "es im Wald nach Erde riecht",
+                "man sich m Wald gerne langweilt",
+                "der Wald ein angenehmes Wetter hat",
+                "das Wetter um Wald sehr regnerisch ist"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Der Text verweist implizit drauf, dass das Reh, das im Text erwähnt wird, …………… ist.",
+            "choices": [
+                "eine Blume",
+                "ein Tier",
+                "ein Baum",
+                "eine Pflanze"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Der Begriff „pflücken\", der im Text erwähnt wird, bedeutet dem Inhalt des Textes entsprechend: …………….",
+            "choices": [
+                "Sich bemühen, jemanden, etwas Verlorenes, Verstecktes zu finden",
+                "Jemandem einen oder mehrere Stöße mit der Faust versetzen",
+                "Eine einzelne Frucht von Baum oder Pflanze abnehmen",
+                "Auf Qualität, Funktionstüchtigkeit hin untersuchen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Das Wetter am Strand ist nach dem Inhalt des Textes …………….",
+            "choices": [
+                "kühl",
+                "sehr mild",
+                "sehr warm",
+                "regnerisch"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "…………… lebt jemand, der luxuriös lebt und entsprechend viel Geld ausgibt.",
+            "choices": [
+                "Arrogant",
+                "Ehrgeizig",
+                "Optimistisch",
+                "Auf großem Fuß"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Nach dem Inhalt des Textes bedeutet ein aufwändiges Leben ein …………… Leben.",
+            "choices": [
+                "turbulentes",
+                "luxuriöses",
+                "glanzloses",
+                "verwegenes"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Wenn jemand einen großen Aufwand betreibt, bedeutet das, dass …………….",
+            "choices": [
+                "er sehr reich ist",
+                "er viel Geld ausgibt",
+                "ihm etwas aufgefallen ist",
+                "ihm die Hände gebunden sind"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Wenn ……………, besteht die Gefahr, dass er mehr ausgibt, als ihm zur Verfügung steht.",
+            "choices": [
+                "jemand arm ist",
+                "jemandem etwas fehlt",
+                "jemand auf großem Fuß lebt",
+                "jemand finanziell in Bedrängnis gerät"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Mit dem Begriff „Einkommen\" im Text meint man …………….",
+            "choices": [
+                "das Wanderleben",
+                "das Geld, das man verdient",
+                "das aufwändige Leben, das man betreibt",
+                "den Zusammenhang zwischen dem aufwändigen und luxuriösen Leben"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "Welche Option ist im Hinblick auf obigen Text zutreffend?",
+            "choices": [
+                "Die einzelnen europäischen Völker existieren nicht mehr.",
+                "Der kulturelle Reichtum Europas gehörte zur Vergangenheit.",
+                "Europa möchte sich zukünftig als eine Einheit in der Vielheit darstellen.",
+                "Nur die Deutschen, Franzosen, Polen, Schweden, Italiener, Spanier und weitere europäische Völker gelten heutzutage als Europäerinnen und Europäer."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Das Modell der Europäischen Union ...........................",
+            "choices": [
+                "präsentiert sich als ein Modell für eine ökonomisch äußerst erfolgreiche Integration von Vielfalt",
+                "präsentiert sich als ein Modell für eine historisch äußerst erfolgreiche Integration von Vielfalt",
+                "zeigt keinen weltoffenen, aber einen wirtschaftlich mächtigen Kontinent",
+                "ist keine potente wirtschaftliche und weltpolitische Macht"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Welche Option ist mit Blick auf obigen Text falsch?",
+            "choices": [
+                "Europa hat viele Gesichter.",
+                "Die negative Seite Europas lag lange im Schatten und musste erst entlarvt werden.",
+                "Obwohl das positive Gesicht Europas übertrieben dargestellt wird, hat es noch eine andere, eher negative Dimension.",
+                "Das Gleichgewicht der positiven und negativen Seiten Europas lässt uns keine verborgenen Facetten übrigbleiben."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Die Zuwanderer werden in Europa ...........................",
+            "choices": [
+                "immer gut toleriert",
+                "idealistisch integriert",
+                "(oft) unerwünscht sein",
+                "einheimisch und als Europäer angesehen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Der zum Teil herrschende Rassismus oder die Diskriminierung in Europa ...........................",
+            "choices": [
+                "ist ein Zeichen für die erfolgreichen Einigungsbemühungen",
+                "deutet auf die mit Migrationsdynamiken einhergehenden innenpolitischen Probleme",
+                "offenbart keinen dominanten nationalen Eigensinn der europäischen Mitgliedstaaten",
+                "sollte nie als Hintertreibung sämtlicher politisch-ökonomischer Einigungsbemühungen angesehen werden"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 1,
+            "question": "Son père s'endormait toujours pendant les .................... de piano.",
+            "choices": [
+                "1) récitale",
+                "2) récitales",
+                "3) récitals",
+                "4) récitaux"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Suzanne travaille très bien, elle est la .................... de sa classe.",
+            "choices": [
+                "1) premier",
+                "2) première",
+                "3) premières",
+                "4) premiers"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Cet exercice de grammaire, .................... est maintenant terminé.",
+            "choices": [
+                "1) il",
+                "2) elle",
+                "3) lui",
+                "4) on"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Julien vit .................... Russie depuis 2019.",
+            "choices": [
+                "1) à la",
+                "2) la",
+                "3) au",
+                "4) en"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Il ne faudrait pas que vous .................... votre passeport.",
+            "choices": [
+                "1) oubliez",
+                "2) oubliiez",
+                "3) oublieriez",
+                "4) oublierez"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Nous ferons une fête quand mes parents .................... en voyage.",
+            "choices": [
+                "1) seront partis",
+                "2) partirons",
+                "3) partent",
+                "4) partaient"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Hier, je chargeais mon portable, quand soudain, le voyant de l'alimentation .....................",
+            "choices": [
+                "1) s'éteignait",
+                "2) s'éteint",
+                "3) s'éteignera",
+                "4) s'est éteint"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Si j'étais à ta place, .................... de travailler pour un patron harceleur.",
+            "choices": [
+                "1) j'arrêtais",
+                "2) j'arrêterai",
+                "3) j'arrêterais",
+                "4) j'arrête"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Elle parle d'un voyage .................... je ne me souviens absolument pas.",
+            "choices": [
+                "1) où",
+                "2) dont",
+                "3) qui",
+                "4) que"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Quand on a une douleur vive dans la poitrine, on doit .................... consulter un médecin.",
+            "choices": [
+                "1) brutalement",
+                "2) violemment",
+                "3) gentiment",
+                "4) immédiatement"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Je n'ai pas d'idée, mais si tu as une .................... solution, je t'écoute.",
+            "choices": [
+                "1) meilleur",
+                "2) mieux",
+                "3) meilleure",
+                "4) bien"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "N'oublie pas que ce soir nous allons au cinéma, il faut .................... être de bonne heure.",
+            "choices": [
+                "1) y",
+                "2) en",
+                "3) l'",
+                "4) lui"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Les dégâts qu'a .................... la tempête s'élèvent à plusieurs milliers de dollars.",
+            "choices": [
+                "1) causé",
+                "2) causées",
+                "3) causer",
+                "4) causés"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Vous prenez vos vacances l'été, eux, ils prennent .................... l'hiver.",
+            "choices": [
+                "1) leurs",
+                "2) la leur",
+                "3) les leurs",
+                "4) le leur"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Tu as mis cette robe en soie que je .................... pour ton anniversaire.",
+            "choices": [
+                "1) t'avais offerte",
+                "2) t'offre",
+                "3) t'offrirai",
+                "4) t'ai offert"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Le médecin .................... le pouls afin de connaître la rapidité du battement de cœur.",
+            "choices": [
+                "1) utilise",
+                "2) tâte",
+                "3) situe",
+                "4) ressent"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Il est obligatoire de se marier .................... en France.",
+            "choices": [
+                "1) à la mairie",
+                "2) à la préfecture",
+                "3) au commissariat",
+                "4) à la poste"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "La rentrée des .................... aura lieu le 2 septembre à Paris.",
+            "choices": [
+                "1) séminaires",
+                "2) classes",
+                "3) leçons",
+                "4) cours"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Malheureusement, leur maison a brûlé dans une incendie; ils vivent pour le moment dans .................... de leur jardin.",
+            "choices": [
+                "1) le couvent",
+                "2) le bungalow",
+                "3) le pavillon",
+                "4) la cabane"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Yannick est africain, il a des cheveux .....................",
+            "choices": [
+                "1) fins",
+                "2) raides",
+                "3) frisés",
+                "4) souples"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "j'ai commandé des steaks à ................................ pour le dîner de ce soir.",
+            "choices": [
+                "la boucherie",
+                "la crémerie",
+                "l'épicerie",
+                "la boulangerie"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Il faut être vigilant dès les premiers mois de ................................ pour les épisodes caniculaires où les températures montent rapidement.",
+            "choices": [
+                "l'automne",
+                "le printemps",
+                "l'hiver",
+                "l'été"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Lors d'un match de foot, les gardiens de but doivent porter des ................................ pour se protéger les mains.",
+            "choices": [
+                "gants",
+                "genouillères",
+                "chaussures",
+                "sous gants"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Dans une habitation standarde, on devrait avoir ................................ dans chaque pièce pour une température égale partout.",
+            "choices": [
+                "une poile",
+                "un radiateur",
+                "une cheminée",
+                "un chauffage"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Pour valider le mariage, chacun des deux ................................ exprime sa volonté d'épouser l'autre.",
+            "choices": [
+                "amis",
+                "époux",
+                "fiancés",
+                "copains"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "En France, chaque repas se termine par ................................\n.",
+            "choices": [
+                "le bouillon",
+                "le fromage",
+                "la soupe",
+                "le potage"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": ".............................. n'est pas toujours calme, au moment des tempêtes les vagues deviennent dangereuses.",
+            "choices": [
+                "Le sommet",
+                "La montagne",
+                "La plage",
+                "La mer"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Beaucoup pensent que pour un bon film, il faudrait avoir ................................",
+            "choices": [
+                "des grandes salles",
+                "trop de gros plans",
+                "une bonne scénario",
+                "une bonne chanson"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Les ouvriers réclament souvent une augmentation de ................................",
+            "choices": [
+                "chômage",
+                "salaire",
+                "grève",
+                "durée de travail"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Selon les statistiques, un Français ................................ 6 Watts par heure d'électricité chaque jours.",
+            "choices": [
+                "ingère",
+                "produit",
+                "absorbe",
+                "consomme"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "................................ avec le téléphone mobile est possible grâce à l'application comme Google Pay, Samsung.",
+            "choices": [
+                "Le paiement",
+                "Le dépense",
+                "L'investissement",
+                "Le financement"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Certaines entreprises proposent des ................................ aux étudiants pour leur faire connaître la vie professionnelle.",
+            "choices": [
+                "entraînements",
+                "voyages",
+                "stages",
+                "vacances"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Le médecin spécialiste qui procède à l'examen, au diagnostic et au traitement des personnes atteintes de maladie du cœur est un ................................",
+            "choices": [
+                "cardiologue",
+                "dermatologue",
+                "généraliste",
+                "pédiatre"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "En France, on boit du ................................ estimé fort mais sa consommation est normale dans la société.",
+            "choices": [
+                "thé",
+                "café",
+                "potion",
+                "tisane"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Marc va commencer son travail dans la nouvelle société: il ne la ................................ pas encore.",
+            "choices": [
+                "sait",
+                "reconnaît",
+                "identifie",
+                "connaît"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 36,
+            "question": "Marie: Bonjour, j'aimerais prendre un rendez-vous avec le docteur Pichon s'il vous plaît.\nSecrétaire: Oui, j'aurais des disponibilités du 15 à 11 heures, ça vous irait?\nMarie: 11 heures, c'est parfait.\nSecrétaire: Très bien.",
+            "choices": [
+                "Le docteur est en congé toute la semaine.",
+                "Marie prend un rendez-vous pour sa fille.",
+                "Marie n'est pas disponible pour 13 heures.",
+                "La secrétaire fixe un rendez-vous pour mardi 15 à 11 heures."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Cliente: Je voudrais essayer ces chaussures noires. Je fais du 38.\nVendeuse: Asseyez-vous, j'arrive tout de suite. Voilà, le cuir est un peu raide.\nCliente: Elles me font mal.\nVendeuse: Je vais chercher la taille au dessus. C'est mieux?\nCliente: Oui, Non, ce n'est pas ce que je cherche.\nVendeuse: Vous cherchez quoi exactement?\nCliente: J'ai besoin d'une paire de chaussures que je peux porter assez longtemps sans avoir mal aux pieds.\nVendeuse: Je vois; attendez j'ai exactement ce qu'il vous faut. Tenez!\nCliente: Oui, c'est incroyable; je suis très bien dedans. Elles sont combien?\nVendeuse: Elles sont soldées à 30%.\nCliente: Je vais les prendre.\nPourquoi la cliente ne choisit-elle pas la première paire?",
+            "choices": [
+                "Elle voudrait des chaussures avec lesquelles elle peut marcher longtemps.",
+                "La couleur des chaussures lui déplaît.",
+                "Elles ne sont pas agréables à porter.",
+                "Elles sont trop chères pour elle."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Cliente: Bonjour, je voudrais un billet pour Paris, s'il vous plaît.\nEmployé: Oui, vous partez quand?\nCliente: Le 2 juin, j'aimerais partir le matin.\nEmployé: Vous avez un train qui part à 8 h15, arrivée à Paris à 9h. Vous voyagez en 1ère ou en second.\nCliente: En second.\nEmployé: Vous avez une réduction?\nCliente: Non.\nEmployé: Alors ça nous fera 35 euros.",
+            "choices": [
+                "La cliente voudrait arriver le matin à Paris.",
+                "C'est un billet pour Annecy.",
+                "La cliente part le dix juin.",
+                "Le billet coûte 24 euros."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Alice: pourrais-je encaisser ce chèque?\nEmployé: C'est à votre nom?\nAlice: Oui, je voudrais de grosses coupures.\nEmployé: Très bien. Il me faut votre carte d'identité et votre adresse s'il vous plaît.\nAlice: Voici ma carte et j' habite 20 rue de Lille, à Paris.\nEmployé: C'est bien, vous êtes en règle.\n1) Alice souhaiterait changer un chèque de voyage.\n2) Alice aimerait changer de l'argent.\n3) Alice voudrait encaisser un chèque.\n4) Alice n'a pas ses papiers.",
+            "choices": [
+                "Alice souhaiterait changer un chèque de voyage.",
+                "Alice aimerait changer de l'argent.",
+                "Alice voudrait encaisser un chèque.",
+                "Alice n'a pas ses papiers."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Marc: Je vais prendre la formule à 15 euros.\nServeur: Oui, comme entrée?\nMarc: La salade au fromage.\nServeur: Oui, et comme plat?\nMarc: Le plat du jour, qu'est-ce que c'est?\nServeur: Le saumon grillé ou le steak frites.\nMarc: Je vais prendre le steak.\nServeur: Comme dessert, il y a le fondant au chocolat ou la tarte tatain.\nMarc: Je prendrais la tarte tatain.\nServeur: Vous prenez une boisson?\nMarc: Une carafe d'eau, s'il vous plaît.\n\n1) Le client choisit le menu.\n3) Le client ne prend pas de boisson.\n2) Le plat de jour est la pizza.\n4) La cliente prend la formule à 15 euros.",
+            "choices": [
+                "Le client choisit le menu.",
+                "Le plat de jour est la pizza.",
+                "Le client ne prend pas de boisson.",
+                "La cliente prend la formule à 15 euros."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "match – arrivée – au – club – ce – joueur – a – depuis – son – réalisé – meilleur – son\n1) A réalisé son meilleur match ce joueur depuis son arrivée au club.\n2) Depuis son arrivée au club ce joueur a réalisé son meilleur match.\n3) Ce joueur depuis son arrivée au club a réalisé son meilleur match.\n4) Son meilleur match a réalisé ce joueur depuis son arrivée au club.",
+            "choices": [
+                "A réalisé son meilleur match ce joueur depuis son arrivée au club.",
+                "Depuis son arrivée au club ce joueur a réalisé son meilleur match.",
+                "Ce joueur depuis son arrivée au club a réalisé son meilleur match.",
+                "Son meilleur match a réalisé ce joueur depuis son arrivée au club."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "est – Helene – Paul – la – de – sœur\n1) La sœur de Paul Hélène est.\n2) Est Hélène la sœur de Paul.\n3) Hélène est la sœur de Paul.\n4) Hélène la sœur est de Paul.",
+            "choices": [
+                "La sœur de Paul Hélène est.",
+                "Est Hélène la sœur de Paul.",
+                "Hélène est la sœur de Paul.",
+                "Hélène la sœur est de Paul."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "enfants-jouent-dans-pré-les-trois-le\n1) Les trois enfants jouent dans le pré.\n2) Jouent dans le pré les trois enfants.\n3) Dans le pré jouent les trois enfants.\n4) Les trois enfants dans le pré jouent.",
+            "choices": [
+                "Les trois enfants jouent dans le pré.",
+                "Jouent dans le pré les trois enfants.",
+                "Dans le pré jouent les trois enfants.",
+                "Les trois enfants dans le pré jouent."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "mon – livre – jaunies – sont – les – de – pages – le – temps – par\n1) Jaunies par le temps les pages de mon livre sont.\n2) Les pages de mon livre sont jaunies par le temps.\n3) Sont jaunies par le temps les pages de mon livre.\n4) Par le temps sont jaunies les pages de mon livre.",
+            "choices": [
+                "Jaunies par le temps les pages de mon livre sont.",
+                "Les pages de mon livre sont jaunies par le temps.",
+                "Sont jaunies par le temps les pages de mon livre.",
+                "Par le temps sont jaunies les pages de mon livre."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "la – pourquoi – bleue – est-elle – mer?\n1) La mer pourquoi est-elle bleue?\n2) Pourquoi bleue est-elle la mer?\n3) Bleue la mer est-elle pourquoi?\n4) Pourquoi la mer est-elle bleue?",
+            "choices": [
+                "La mer pourquoi est-elle bleue?",
+                "Pourquoi bleue est-elle la mer?",
+                "Bleue la mer est-elle pourquoi?",
+                "Pourquoi la mer est-elle bleue?"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Je suis présentement en congé ..........................(46) pour épuisement professionnel. Je suis trop",
+            "choices": [
+                "1) de maternité",
+                "2) obligatoire",
+                "3) de maladie",
+                "4) payé"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "..........................(47), angoissée, j'ai une boule dans l'estomac, je tremble. J'ai peur ..........................(48) retourner au travail. J'ai peur que ça ne ..........................(49) jamais. Je suis perfectionniste, je n'aime pas ..........................(50) travaillent mal. Je suis très ..........................(51) envers moi et les autres. De plus, j'ai toujours peur de ce que les autres vont penser, comment vont-ils me percevoir?\nJe ne prends ..........................(52) médicament pour le moment. Je ne veux pas devenir dépendante de ces ..........................(53). Je dois seulement prendre soin de moi, me reposer. Comment se repose-t-on? Moi qui ..........................(54) habituée à mener une vie de front avec le mari et les enfants, je veux toujours que ma maison ..........................(55) impeccable, que tout soit parfait. Je me sens seule avec mes problèmes, pourquoi ça arrive à moi?\n47- 1) concentrée",
+            "choices": [
+                "1) concentrée",
+                "2) stressée",
+                "3) détendue",
+                "4) contente"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "48- 1) par",
+            "choices": [
+                "1) par",
+                "2) pour",
+                "3) de",
+                "4) à"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "49- 1) revienne",
+            "choices": [
+                "1) revienne",
+                "2) revenu",
+                "3) revenir",
+                "4) revient"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "50- 1) celui-ci",
+            "choices": [
+                "1) celui-ci",
+                "2) ce qui",
+                "3) ceux-ci",
+                "4) ceux qui"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "51- 1) exigeantes",
+            "choices": [
+                "1) exigeantes",
+                "2) exigeante",
+                "3) exigeant",
+                "4) exiger"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "52- 1) jamais",
+            "choices": [
+                "1) jamais",
+                "2) plusieurs",
+                "3) aucun",
+                "4) chacun"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "53- 1) substances",
+            "choices": [
+                "1) substances",
+                "2) mélanges",
+                "3) particules",
+                "4) éléments"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "54- 1) sommes",
+            "choices": [
+                "1) sommes",
+                "2) est",
+                "3) ai",
+                "4) suis"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "55- 1) serais",
+            "choices": [
+                "1) serais",
+                "2) soit",
+                "3) est",
+                "4) sera"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "Où s'est déroulé l'Olympiade cette année?",
+            "choices": [
+                "À Los Angeles",
+                "À Tokyo",
+                "À Paris",
+                "À Londres"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Qu'est-ce que les athlètes sont allés chercher à l'Olympiade?",
+            "choices": [
+                "Remporter une médaille et améliorer des performances",
+                "Rencontrer les autres Européens",
+                "Voyager à l'étranger",
+                "Gagner de l'argent"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Quelles activités culturelles peuvent faire les visiteurs en dehors des compétitions?",
+            "choices": [
+                "Aller au cinéma",
+                "Visiter les châteaux",
+                "Faire des interviews",
+                "Visiter les musées et goûter la cuisine"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Que célèbre-t-on pendant l'Olympiade?",
+            "choices": [
+                "La réussite de différents pays",
+                "La jeunesse et sa persévérance",
+                "Le talent, le travail acharné et l'esprit sportif",
+                "Le budget consacré aux entraînements des athlètes"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Comment les spectateurs montrent-ils leur soutien?",
+            "choices": [
+                "En participant aux activités sportives",
+                "En assistant aux différents matchs",
+                "En critiquant les athlètes",
+                "En animant les stades"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "Daniel boîte à cause de .................... qui est enflée.",
+            "choices": [
+                "son orteil",
+                "son pied",
+                "sa main",
+                "sa tête"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Daniel s'est approché de la scène par ......................... .",
+            "choices": [
+                "Léo",
+                "la foule",
+                "le chanteur",
+                "lui-même"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Pourquoi y-a-t il une tâche bleue sur le cou de Daniel?\n1) Il s'est blessé en dansant",
+            "choices": [
+                "Il s'est blessé en dansant",
+                "Le service d'ordre lui a fait mal",
+                "Les spectateurs assis là lui ont fait mal",
+                "La bousculade dans la salle l'a blessé"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Daniel .......................... du concert.",
+            "choices": [
+                "se souvient très bien",
+                "ne se rappelle absolument de rien",
+                "ne se souvient pas de grand chose",
+                "se rappelle seulement une chanson"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Après le concert, .......................... .",
+            "choices": [
+                "Daniel ne veut plus entendre parler de concert",
+                "Daniel décide de ne plus aller au concert",
+                "Daniel s'est fâché avec son ami Léo",
+                "Daniel veut aller dormir"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "Les défilés sont diffusés .......................... .",
+            "choices": [
+                "sur Internet",
+                "dans la presse",
+                "à la télévision",
+                "sur les télévisions privées"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Pour le carnaval les enfants fabriquent .......................... avec leurs parents.",
+            "choices": [
+                "des tailleurs",
+                "des costumes",
+                "des smokings",
+                "des ensembles"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Que mange-t-on pendant le Mardi gras en France?",
+            "choices": [
+                "Une bûche",
+                "De la dinde",
+                "Des châtaignes",
+                "Des crêpes"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Les participants défilent .......................... .",
+            "choices": [
+                "à pied et en char",
+                "en voiture",
+                "en car",
+                "en bus"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Pendant le défilé, .......................... proposent de quoi manger aux participants.",
+            "choices": [
+                "des buffets",
+                "des restaurants",
+                "des snack-bars ambulants",
+                "des restaurants gastronomiques"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 1,
+            "question": "Джон хорошо говорит .......................... .\n1) английский\n2) по-английски\n3) на английский\n4) по английскому",
+            "choices": [
+                "1) английский",
+                "2) по-английски",
+                "3) на английский",
+                "4) по английскому"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Мне очень нравиться отдыхать .......................... в горах.\n1) осенью\n2) осень\n3) в осень\n4) в осени",
+            "choices": [
+                "1) осенью",
+                "2) осень",
+                "3) в осень",
+                "4) в осени"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Летом в России .......................... .\n1) тепла\n2) теплое\n3) теплый\n4) тепло",
+            "choices": [
+                "1) тепла",
+                "2) теплое",
+                "3) теплый",
+                "4) тепло"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Когда ты придешь ..........................?\n1) дома\n2) в доме\n3) домой\n4) до дома",
+            "choices": [
+                "1) дома",
+                "2) в доме",
+                "3) домой",
+                "4) до дома"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": ".......................... тетрадь мне очень нравится.\n1) Эта\n2) Эти\n3) Это\n4) Этот",
+            "choices": [
+                "1) Эта",
+                "2) Эти",
+                "3) Это",
+                "4) Этот"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": ".......................... я звоню бабушке.\n1) В каждой неделе\n2) Каждую неделю\n3) На каждой неделе\n4) Каждая неделя",
+            "choices": [
+                "1) В каждой неделе",
+                "2) Каждую неделю",
+                "3) На каждой неделе",
+                "4) Каждая неделя"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "В воскресенье я поеду .......................... .\n1) в бабушку\n2) у бабушки\n3) к бабушке\n4) с бабушки",
+            "choices": [
+                "1) в бабушку",
+                "2) у бабушки",
+                "3) к бабушке",
+                "4) с бабушки"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Моей подруге .......................... я.\n1) нравится\n2) понравилось\n3) нравилось\n4) нравлюсь",
+            "choices": [
+                "1) нравится",
+                "2) понравилось",
+                "3) нравилось",
+                "4) нравлюсь"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": ".......................... зовут Антон.\n1) Моего брата\n2) Моим братом\n3) Моему брату\n4) Мой брат",
+            "choices": [
+                "1) Моего брата",
+                "2) Моим братом",
+                "3) Моему брату",
+                "4) Мой брат"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Сколько .......................... в вашем городе?\n1) школа\n2) школы\n3) школ\n4) школу",
+            "choices": [
+                "1) школа",
+                "2) школы",
+                "3) школ",
+                "4) школу"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Желаю .......................... здоровья.\n1) для Вас\n2) к Вам\n3) Вас\n4) Вам",
+            "choices": [
+                "1) для Вас",
+                "2) к Вам",
+                "3) Вас",
+                "4) Вам"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Этот матч я посмотрел .......................... .\n1) на телевизоре\n2) по телевизору\n3) через телевизора\n4) в телевизор",
+            "choices": [
+                "1) на телевизоре",
+                "2) по телевизору",
+                "3) через телевизора",
+                "4) в телевизор"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "В воскресенье друзья .......................... в парк.\n1) ходили\n2) гуляли\n3) были\n4) отдыхали",
+            "choices": [
+                "1) ходили",
+                "2) гуляли",
+                "3) были",
+                "4) отдыхали"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Можно .......................... ответить на этот вопрос?\n1) я\n2) меня\n3) мне\n4) мной",
+            "choices": [
+                "1) я",
+                "2) меня",
+                "3) мне",
+                "4) мной"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Он поздравил .......................... .\n1) мне с новым годом\n2) меня новый год\n3) мне новый год\n4) меня с новым годом",
+            "choices": [
+                "1) мне с новым годом",
+                "2) меня новый год",
+                "3) мне новый год",
+                "4) меня с новым годом"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Она очень хочет поехать в Америку, но не .........................., потому что у неё нет денег.\n1) умеет\n2) любит\n3) может\n4) нравится",
+            "choices": [
+                "1) умеет",
+                "2) любит",
+                "3) может",
+                "4) нравится"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Мне нравятся овощи, особенно .......................... .\n1) арбузы\n2) помидоры\n3) мандарины\n4) апельсины",
+            "choices": [
+                "1) арбузы",
+                "2) помидоры",
+                "3) мандарины",
+                "4) апельсины"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Оффициант .......................... нашу еду.\n1) несет\n2) носит\n3) водит\n4) ведет",
+            "choices": [
+                "1) несет",
+                "2) носит",
+                "3) водит",
+                "4) ведет"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Он .......................... с преподавателем.\n1) сказал\n2) рассказал\n3) подсказал\n4) разговаривал",
+            "choices": [
+                "1) сказал",
+                "2) рассказал",
+                "3) подсказал",
+                "4) разговаривал"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Кто из вас ...................... решил задачу и его ответ готов?",
+            "choices": [
+                "еще",
+                "теперь",
+                "уже",
+                "потом"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": ".............................. - это люди, которые учатся или учились вместе.",
+            "choices": [
+                "Друзья",
+                "Студенты",
+                "Школьники",
+                "Одноклассники"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Подождите, я еще ....................!",
+            "choices": [
+                "рад",
+                "занят",
+                "свободен",
+                "готов"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Температура минус 2. Как ....................!",
+            "choices": [
+                "холодно",
+                "тепло",
+                "жарко",
+                "мороз"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "У вас есть жена? – Да, я ....................!",
+            "choices": [
+                "есть",
+                "имею",
+                "женат",
+                "замужем"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": ".............................. спасибо за помощь!",
+            "choices": [
+                "Большое",
+                "Очень",
+                "Огромно",
+                "Много"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Март, апрель, май - это ....................",
+            "choices": [
+                "зима",
+                "весна",
+                "лето",
+                "осень"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Тут темно. Я ничего не ....................",
+            "choices": [
+                "смотрю",
+                "слушаю",
+                "слышу",
+                "вижу"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Ему трудно .................... этот текст.",
+            "choices": [
+                "выучить",
+                "учить",
+                "учится",
+                "научить"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Сейчас идет дождь. Когда он ...................., я пойду гулять.",
+            "choices": [
+                "начнется",
+                "продолжается",
+                "закончится",
+                "продолжится"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": ".............................. - это место, в котором студенты обедают.",
+            "choices": [
+                "Учительская",
+                "Факультет",
+                "Аудитория",
+                "Столовая"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Антон .............................. Он играет в кино.",
+            "choices": [
+                "актер",
+                "спортсмен",
+                "музыкант",
+                "футболист"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Укажите часть тела, которая находится ниже других.",
+            "choices": [
+                "голова",
+                "живот",
+                "глаза",
+                "горло"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Мой отец не любит .................... чай.",
+            "choices": [
+                "сильный",
+                "густой",
+                "крепкий",
+                "твердый"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Моя сестра еще не ходит в школу, потому что она ....................",
+            "choices": [
+                "младшая",
+                "маленькая",
+                "молодая",
+                "малая"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Они часто вместе .............................. в библиотеке.",
+            "choices": [
+                "изучают",
+                "учатся",
+                "учат",
+                "занимаются"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 36,
+            "question": "Моя сестра заболела, .............................. я вызвала врача.",
+            "choices": [
+                "и",
+                "a",
+                "но",
+                "до"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Я не знаю, .............................. он недоволен сегодня.",
+            "choices": [
+                "чему",
+                "за что",
+                "чем",
+                "к чему"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Анна купила журнал, .............................. нет в библиотеке.",
+            "choices": [
+                "которого",
+                "который",
+                "которым",
+                "которому"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Я попросил друга, .............................. он объяснил мне, как решить эту задачу.",
+            "choices": [
+                "что",
+                "чтобы",
+                "зачем",
+                "так как"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Мы были в зоопарке, который .............................. .",
+            "choices": [
+                "ты рассказал нам",
+                "исполнилось 20 лет",
+                "много интересных птиц",
+                "нам очень понравился"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Здравствуйте! .................... Вас видеть.",
+            "choices": [
+                "Рад",
+                "Давно",
+                "Готов",
+                "С удовольствием"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "- Спасибо за вкусный обед.\n- ....................!",
+            "choices": [
+                "Ничего",
+                "За здоровье",
+                "На здоровье",
+                "Приятного аппетита"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Какой вариант используется в конце встречи?",
+            "choices": [
+                "Приятного аппетита!",
+                "Всего хорошего!",
+                "Хороший день!",
+                "С удовольствием!"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Продолжите диалог.\n- Сколько с меня?\n- ....................",
+            "choices": [
+                "Два часа",
+                "В два часа",
+                "Двадцать лет",
+                "Триста рублей"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "Какой вариант НЕ используется, когда встречаемся с больным?",
+            "choices": [
+                "скорейшего выздоровления!",
+                "поправляйтесь быстрее!",
+                "выздоравливайте!",
+                "будьте здоровы!"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Сегодня у меня день рождения. Сегодня мне 20 лет. Я очень люблю этот праздник. И в этот день всегда приглашаю своих друзей.\nУтром меня .................... мама и папа.",
+            "choices": [
+                "позвонили",
+                "поздравили",
+                "пригласили",
+                "попросили"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "Они сказали: «Дорогой Паша! Поздравляем тебя .................... и желаем тебе здоровья, счастья, радости, успехов в учёбе. Особенно успехов в учёбе».",
+            "choices": [
+                "день рождения",
+                "дня рождения",
+                "с днём рождения",
+                "за день рождения"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "Потом .................... мой друг Гена: «Паша, поздравляю тебя! Желаю тебе больших успехов в спорте и счастья в личной жизни».",
+            "choices": [
+                "позвонил",
+                "звонил",
+                "звонила",
+                "позвонила"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "1) Дорогая",
+            "choices": [
+                "2) Уважаемая",
+                "3) Дорогой",
+                "4) Уважаемый"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "1) ходили",
+            "choices": [
+                "2) пришли",
+                "3) шли",
+                "4) приходили"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "1) скучно",
+            "choices": [
+                "2) тепло",
+                "3) интересно",
+                "4) весело"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "1) цветы",
+            "choices": [
+                "2) диски",
+                "3) игрушки",
+                "4) духи"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "1) поздравлял",
+            "choices": [
+                "2) подарил",
+                "3) звонил",
+                "4) покупал"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "1) Уже",
+            "choices": [
+                "2) Ещё",
+                "3) Больше",
+                "4) Теперь"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "1) рублей",
+            "choices": [
+                "2) копеек",
+                "3) врагов",
+                "4) родных"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "Московское метро - это ........................",
+            "choices": [
+                "1) сто пятнадцать километров линий",
+                "2) сто пятьсот километров линий",
+                "3) сто пятьдесять километров линий",
+                "4) сто пять километров линий"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Как называется главная площадь Москвы?",
+            "choices": [
+                "1) Красная площадь",
+                "2) Красивая площадь",
+                "3) Пушкинская",
+                "4) Арбатская площадь"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Как называется пешеходная улица Москвы?",
+            "choices": [
+                "Тверская улица",
+                "Арбат",
+                "Пушкинская площадь",
+                "Красная"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Почему говорят: кто в Москве не бывал, красоты не видал?",
+            "choices": [
+                "в Москве есть эрмитаж",
+                "в Москве есть Тверская улица",
+                "Москва – это современный город",
+                "Москва – это очень красивый город"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Какое название можно дать тексту?",
+            "choices": [
+                "Красная площадь",
+                "Московские улицы",
+                "Москва",
+                "Арбат"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "Что делает София, когда не понимает слова в театре?",
+            "choices": [
+                "спрашивает у друзей",
+                "спрашивает у носителей языка",
+                "их записывает, а потом смотрит в словаре",
+                "придумывает для них какие-нибудь значения"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "В каком месте НЕ была София?",
+            "choices": [
+                "в Малом театре",
+                "в Золотом Кольце",
+                "в Сергиевом Посаде",
+                "в Третьяковской галерее"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Что они сделали, когда были в лесу?",
+            "choices": [
+                "собрали грибы",
+                "купались",
+                "загорали",
+                "пели"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Как София относится к своему отдыху в России?",
+            "choices": [
+                "Она все время хочет просто лежать целый день на диване, читать, слушать музыку, смотреть телевизор.",
+                "Она отдых в России любить так сильно, что сейчас пишет книгу о том, как она жила и училась в России.",
+                "Она предпочитает отдыхать, как молодые люди в Италии.",
+                "Она очень любить, но иногда устает."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Укажите НЕверный вариант.",
+            "choices": [
+                "София итальянка.",
+                "Экскурсии помогли Софии побольше познакомиться с Россией.",
+                "София не успела посмотреть всю Третьяковскую галерею сразу.",
+                "Папа и Мама Наташи прекрасно играют на пианино и прекрасно поют."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "Что случилось с Мариной?",
+            "choices": [
+                "У нее болят голова и живот.",
+                "Она заболела гриппом.",
+                "У неё голова кружится.",
+                "Она простудилась."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Почему заболела Марина?",
+            "choices": [
+                "Она съела что-то несвежее.",
+                "Потому что она съела шоколад.",
+                "Потому что она слишком много съела.",
+                "Потому что у нее часто плохое настроение."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Какой продукт любит Марина?",
+            "choices": [
+                "суп",
+                "каша",
+                "кефир",
+                "шоколад"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Что советует врач Марине?",
+            "choices": [
+                "есть немного шоколада",
+                "соблюдать диету",
+                "принять любимое лекарство",
+                "пить молоко, чай, кофе"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Какое решение приняла Марина в конце концов?",
+            "choices": [
+                "Соблюдать более строгую диету, чтобы ей стало лучше.",
+                "Обратиться к другому врачу, потому что ей стало грустнее.",
+                "Продолжить свой обычный режим питания, чтобы ей стало легче.",
+                "Серьёзно относиться к своему здоровью, чтобы всё будет в порядке."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 1,
+            "question": "Indicate la forma corretta del passato remoto alla prima persona del verbo aprire.",
+            "choices": [
+                "1) aprì",
+                "2) aprei",
+                "3) aprii",
+                "4) apristi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Benché ................... tutta la notte, la strada non è allagata.",
+            "choices": [
+                "1) avesse piovuto",
+                "2) abbia piovuto",
+                "3) ebbe nevicato",
+                "4) piova"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Credo che loro non ti ........................ durante la conferenza.",
+            "choices": [
+                "1) possano ascoltare",
+                "2) potessero sentire",
+                "3) ascoltassero",
+                "4) sentissero"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Arianna ........................ quel cammino già molte volte; eppure, ogni volta si sorprendeva.",
+            "choices": [
+                "1) avrebbe percorso",
+                "2) volesse percorso",
+                "3) ebbe percorso",
+                "4) aveva percorso"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Se fossi venuto anche tu, noi ........................ una macchina più grande.",
+            "choices": [
+                "1) avremo portato",
+                "2) avevamo prenotato",
+                "3) avevamo portato",
+                "4) avremmo prenotato"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "la nostra segretaria è esausta, magari Lei ........................ rivedere i resoconti.",
+            "choices": [
+                "1) potesse",
+                "2) avreste potuto",
+                "3) fosse potuto",
+                "4) ebbe potuto"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Sono tornata indietro per riprendere l'ombrello ma non riesco a ricordare ................... .",
+            "choices": [
+                "1) quale sarebbe",
+                "2) quale sia",
+                "3) qual è",
+                "4) qual'è"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Quale tra queste frasi è grammaticalmente scorretta?",
+            "choices": [
+                "1) qual che sia",
+                "2) gli dei pagani",
+                "3) diligentemente attivo",
+                "4) affianco al computer"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Quale di queste frasi è grammaticalmente corretta?",
+            "choices": [
+                "1) siamo in ritardo, dovremmo accelerare un po'",
+                "2) benché sono stanco, ti verrò a salutare",
+                "3) ho passato la serata con un'amico",
+                "4) indi percui andrò in palestra"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Non voglio portare ........................ perché sono troppo pesanti.",
+            "choices": [
+                "1) né quello né questo",
+                "2) nè questi nè quei",
+                "3) né questo né quello",
+                "4) ne quei ne questi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Mi sarebbe piaciuto che tu ........................ alle questioni finanziarie della famiglia.",
+            "choices": [
+                "1) non foste distratto",
+                "2) fossi stato più attento",
+                "3) ebbi attenzione",
+                "4) saresti attento"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Quale è l'unica frase che non contiene un errore strutturale o semantica?",
+            "choices": [
+                "1) ha fatto da capo espiatorio",
+                "2) questa volta sono d'accordo con te",
+                "3) normalemente andasti in giro con questo cane",
+                "4) a me mi dispiace il tuo comportamento abbominevole"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "........................ persiani i più famosi furono Ciro e Dario.",
+            "choices": [
+                "1) a",
+                "2) da",
+                "3) dei",
+                "4) degli"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Quel giorno una parte ........................ soldati ........................ sana e salva all'accampamento.",
+            "choices": [
+                "1) dei - giungono",
+                "2) dai - giunge",
+                "3) di - giunsero",
+                "4) dei - giunse"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Era attribuzione del censore ........................ dal senato coloro ........................ vita fosse vergognosa.",
+            "choices": [
+                "1) espellere - la cui",
+                "2) forzasse - di cui",
+                "3) caciasse - cui",
+                "4) espellesse - la cui"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "L'abaco è strumento simile a un .............. usato dagli antichi per il calcolo aritmetico.",
+            "choices": [
+                "inventario",
+                "lemmario",
+                "pallottoliere",
+                "sommario"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "L'aggiramento viene utilizzato spesso nella terminologia ..................... .",
+            "choices": [
+                "militare",
+                "sportiva",
+                "trasversale",
+                "biologica"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Quale opzione non appartiene al campo semantico di finalità?",
+            "choices": [
+                "meta",
+                "proposito",
+                "destinazione",
+                "congiunzione"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Nella frase il suo amico è proprio logorroico s'intende dire che lui è .............. .",
+            "choices": [
+                "proficuo",
+                "prolisso",
+                "illogico",
+                "realista"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "La miopatia è caratterizzata da alterazioni della struttura e della funzione di .............. .",
+            "choices": [
+                "ossa",
+                "nervi",
+                "muscoli",
+                "vertebre"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "L'allontanarsi temporaneamente dal cammino intrapreso o dalla via più dritta è la ......................... .",
+            "choices": [
+                "digressione",
+                "inclinazione",
+                "flessione",
+                "annessione"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Cicerone narra che Persio meritò molta vera ......................... .",
+            "choices": [
+                "gloria",
+                "solerzia",
+                "amnesia",
+                "pretesa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "......................... afferma l'animatore della società, il servizio sarà a disposizione di tutti.",
+            "choices": [
+                "in quanto",
+                "secondo quanto",
+                "in accordo",
+                "a seconda di"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Tirare su il morale a qualcuno significa ascoltarla con ......................... .",
+            "choices": [
+                "perseveranza",
+                "diffidenza",
+                "empatia",
+                "antipatia"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Il detto \"andare a Canossa\", indica proprio ......................... di fronte a un nemico.",
+            "choices": [
+                "la depauperazione",
+                "l'umiliazione",
+                "l'accanimento",
+                "la pace"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Crasso ebbe una grande ......................... di servi in città e in campagna.",
+            "choices": [
+                "sistemazione",
+                "egritudine",
+                "arroganza",
+                "moltitudine"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Vogliamo essere partecipi della ......................... e dei premi come dice Cesare.",
+            "choices": [
+                "voglia",
+                "ripresa",
+                "preda",
+                "ripugnanza"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "......................... al traffico di Firenze, Graziano Cioni, nel 1988 finì sul Times.",
+            "choices": [
+                "Il censore",
+                "Il badante",
+                "La vedetta",
+                "L'assessore"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Egli Cerca di ......................... il suo compagno dall'acquisto perché era quasi al verde.",
+            "choices": [
+                "persuadere",
+                "dissuadere",
+                "assistere",
+                "affrettare"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Prendendo ......................... da quanto avete letto, discutetene fra voi.",
+            "choices": [
+                "spunto",
+                "sunto",
+                "disappunto",
+                "riassunto"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Dopo esservi ......................... con il vostro ruolo da interpretare, cercate di convincere il compagno.",
+            "choices": [
+                "sbadati",
+                "analizzati",
+                "immedesimati",
+                "entusiasmati"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Questo ragazzo non è per niente abulico quindi si può definirlo ......................... .",
+            "choices": [
+                "atavico",
+                "indolente",
+                "irresoluto",
+                "energico"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Se vogliamo rendere meno acuto un angolo dobbiamo farlo ......................... .",
+            "choices": [
+                "appuntire",
+                "smussare",
+                "aguzzare",
+                "affusolare"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Quale è il significato principale del verbo contingere?",
+            "choices": [
+                "fallire",
+                "fissare",
+                "appagarsi",
+                "avvenire casualmente"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "......................... dei Padri è una raccolta di detti memorabili e fatti esemplari dei più celebri monaci.",
+            "choices": [
+                "Riti",
+                "Apoftegmi",
+                "Contesti",
+                "Baldanze"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 36,
+            "question": "idem; valore; con; avversativo; si; latino; in; ma; di; usa.\n1) Idem avversativo con valore di ma si usa in latino.\n2) Avversativo idem con valore di ma si usa in latino.\n3) Si usa in latino avversativo idem con valore di ma.\n4) Idem con valore di ma avversativo in latino si usa.",
+            "choices": [
+                "Idem avversativo con valore di ma si usa in latino.",
+                "Avversativo idem con valore di ma si usa in latino.",
+                "Si usa in latino avversativo idem con valore di ma.",
+                "Idem con valore di ma avversativo in latino si usa."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Grammatica; il quaderno; nello zaino; è; di; appartenente a; Giammarco.\n1) Il quaderno appartenete a grammatica è di Giammarco nello zaino.\n2) Giammarco è nello appartenente a zaino il quaderno di grammatica.\n3) Il quaderno di grammatica appartenente a Giammarco è nello zaino.\n4) E' di Giammarco appartenente a il quaderno di grammatica nello zaino.",
+            "choices": [
+                "Il quaderno appartenete a grammatica è di Giammarco nello zaino.",
+                "Giammarco è nello appartenente a zaino il quaderno di grammatica.",
+                "Il quaderno di grammatica appartenente a Giammarco è nello zaino.",
+                "E' di Giammarco appartenente a il quaderno di grammatica nello zaino."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "la; saccheggiata; Parthia; nemici; i; ritornarono; patria; in.\n1) I nemici saccheggiata la Parthia ritornarono in patria.\n2) La Parthia ritornarono in patria saccheggiata i nemici.\n3) Ritornarono in patria saccheggiata i nemici la Parthia.\n4) In patria saccheggiata i nemici ritornarono in Parthia.",
+            "choices": [
+                "I nemici saccheggiata la Parthia ritornarono in patria.",
+                "La Parthia ritornarono in patria saccheggiata i nemici.",
+                "Ritornarono in patria saccheggiata i nemici la Parthia.",
+                "In patria saccheggiata i nemici ritornarono in Parthia."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "l'ablativo; indipendente; essendo; rapporto; un; ha; pur; contemporaneità; di.\n1) Pur essendo l'ablativo indipendente ha un rapporto di contemporaneità.\n2) Indipendente ha un rapporto di contemporaneità pur essendo l'ablativo.\n3) Ha un rapporto di contemporaneità pur essendo indipendente l'ablativo.\n4) L'ablativo pur essendo indipendente ha un rapporto di contemporaneità.",
+            "choices": [
+                "Pur essendo l'ablativo indipendente ha un rapporto di contemporaneità.",
+                "Indipendente ha un rapporto di contemporaneità pur essendo l'ablativo.",
+                "Ha un rapporto di contemporaneità pur essendo indipendente l'ablativo.",
+                "L'ablativo pur essendo indipendente ha un rapporto di contemporaneità."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "di tanto; Cicerone; romani; gli oratori; sorpassò; di quanto; Demostene; i greci; superò.\n1) Gli oratori romani di quanto Demostene superò i greci Cicerone di tanto sorpassò.\n2) Cicerone di tanto sorpassò gli oratori romani di quanto Demostene superò i greci.\n3) Superò i greci Cicerone di tanto sorpassò gli oratori romani di quanto Demostene.\n4) Gli oratori romani sorpassò di quanto Demostene i greci Cicerone di tanto superò.",
+            "choices": [
+                "Gli oratori romani di quanto Demostene superò i greci Cicerone di tanto sorpassò.",
+                "Cicerone di tanto sorpassò gli oratori romani di quanto Demostene superò i greci.",
+                "Superò i greci Cicerone di tanto sorpassò gli oratori romani di quanto Demostene.",
+                "Gli oratori romani sorpassò di quanto Demostene i greci Cicerone di tanto superò."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Ma ti prego, carissimo amico, accetta questo regalo!",
+            "choices": [
+                "vocativa",
+                "esortativa",
+                "esplicativa",
+                "esclamativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "non sarebbe male se chiudessimo il finestrino.",
+            "choices": [
+                "causativa",
+                "concessiva",
+                "imperativa",
+                "esplicativa"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Magari potessi venirci anch'io a vederti prima di partire!",
+            "choices": [
+                "volitiva",
+                "esplicativa",
+                "ottativa",
+                "causativa"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Non arrendetevi mai – predicava - stringete i denti e andate avanti qualsiasi cosa vi accada.",
+            "choices": [
+                "iussiva",
+                "accusativa",
+                "desiderativa",
+                "avversativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "Il sacerdote si alzò velocemente e sorridendo disse: vi dichiaro marito e moglie.",
+            "choices": [
+                "interpolazione",
+                "interrogativa",
+                "disgiuntiva",
+                "illocutiva"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "........... (46) è un fenomeno che si produce allorché le pareti di un corpo cavo soggette a una pressione esterna superiore a quella interna cedono di colpo, generalmente frantumandosi. Dal punto di vista fisico il fenomeno non ................(47) sostanzialmente da una esplosione, nella quale il fenomeno si produce perché si ha una ................(48) interna maggiore di quella esterna; in un caso e nell'altro gli effetti devastatori, a parte quelli dovuti alla proiezione di ................(49) delle pareti del corpo esploso o imploso, sono dovuti all'onda d'urto che si desta nell'aria. Tale fenomeno viene utilizzato per comprimere materiali ad alte densità in modo da portare la materia alla fase critica ovvero capace di sostenere una reazione a ................(50).",
+            "choices": [
+                "esplosione",
+                "implosione",
+                "inversione",
+                "fissione"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "........... (46) è un fenomeno che si produce allorché le pareti di un corpo cavo soggette a una pressione esterna superiore a quella interna cedono di colpo, generalmente frantumandosi. Dal punto di vista fisico il fenomeno non ................(47) sostanzialmente da una esplosione, nella quale il fenomeno si produce perché si ha una ................(48) interna maggiore di quella esterna; in un caso e nell'altro gli effetti devastatori, a parte quelli dovuti alla proiezione di ................(49) delle pareti del corpo esploso o imploso, sono dovuti all'onda d'urto che si desta nell'aria. Tale fenomeno viene utilizzato per comprimere materiali ad alte densità in modo da portare la materia alla fase critica ovvero capace di sostenere una reazione a ................(50).",
+            "choices": [
+                "finisce",
+                "afferisce",
+                "differisce",
+                "appartiene"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "........... (46) è un fenomeno che si produce allorché le pareti di un corpo cavo soggette a una pressione esterna superiore a quella interna cedono di colpo, generalmente frantumandosi. Dal punto di vista fisico il fenomeno non ................(47) sostanzialmente da una esplosione, nella quale il fenomeno si produce perché si ha una ................(48) interna maggiore di quella esterna; in un caso e nell'altro gli effetti devastatori, a parte quelli dovuti alla proiezione di ................(49) delle pareti del corpo esploso o imploso, sono dovuti all'onda d'urto che si desta nell'aria. Tale fenomeno viene utilizzato per comprimere materiali ad alte densità in modo da portare la materia alla fase critica ovvero capace di sostenere una reazione a ................(50).",
+            "choices": [
+                "asserzione",
+                "regolazione",
+                "finzione",
+                "pressione"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "........... (46) è un fenomeno che si produce allorché le pareti di un corpo cavo soggette a una pressione esterna superiore a quella interna cedono di colpo, generalmente frantumandosi. Dal punto di vista fisico il fenomeno non ................(47) sostanzialmente da una esplosione, nella quale il fenomeno si produce perché si ha una ................(48) interna maggiore di quella esterna; in un caso e nell'altro gli effetti devastatori, a parte quelli dovuti alla proiezione di ................(49) delle pareti del corpo esploso o imploso, sono dovuti all'onda d'urto che si desta nell'aria. Tale fenomeno viene utilizzato per comprimere materiali ad alte densità in modo da portare la materia alla fase critica ovvero capace di sostenere una reazione a ................(50).",
+            "choices": [
+                "frammenti",
+                "ardenti",
+                "giacimenti",
+                "proiettili"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "........... (46) è un fenomeno che si produce allorché le pareti di un corpo cavo soggette a una pressione esterna superiore a quella interna cedono di colpo, generalmente frantumandosi. Dal punto di vista fisico il fenomeno non ................(47) sostanzialmente da una esplosione, nella quale il fenomeno si produce perché si ha una ................(48) interna maggiore di quella esterna; in un caso e nell'altro gli effetti devastatori, a parte quelli dovuti alla proiezione di ................(49) delle pareti del corpo esploso o imploso, sono dovuti all'onda d'urto che si desta nell'aria. Tale fenomeno viene utilizzato per comprimere materiali ad alte densità in modo da portare la materia alla fase critica ovvero capace di sostenere una reazione a ................(50).",
+            "choices": [
+                "dislivello",
+                "chimica",
+                "catena",
+                "fisica"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "Dai Greci sino all'incirca al Settecento l'idea dell'arte è fondata sulla separazione tra forma e ................(51): il valore dell'opera consiste in un particolare ................(52) della prima, in determinate funzioni sociali demandate al secondo. Ancorata a criteri di valutazione fissati a priori, a griglie di riferimento ................(53) entro cui collocare opere e autori, la critica letteraria e artistica ha carattere sistematico, tecnico e normativo. Nel 16° e 17° sec., con la nuova nozione di arte come \"creatività\", ................(54) del tutto individuale, e della singolarità dei modi espressivi. Tutte le ricerche che si designano col nome comprensivo di critica storica vertono sull'accertamento dei dati che spiegano l'opera pur senza determinarla: le circostanze della ................(55), gli eventi biografici dell'autore, le situazioni storiche e ambientali in cui visse, la sua educazione, i modelli letterari che si propose ecc.",
+            "choices": [
+                "topos",
+                "didattica",
+                "anti forma",
+                "contenuto"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "Dai Greci sino all'incirca al Settecento l'idea dell'arte è fondata sulla separazione tra forma e ................(51): il valore dell'opera consiste in un particolare ................(52) della prima, in determinate funzioni sociali demandate al secondo. Ancorata a criteri di valutazione fissati a priori, a griglie di riferimento ................(53) entro cui collocare opere e autori, la critica letteraria e artistica ha carattere sistematico, tecnico e normativo. Nel 16° e 17° sec., con la nuova nozione di arte come \"creatività\", ................(54) del tutto individuale, e della singolarità dei modi espressivi. Tutte le ricerche che si designano col nome comprensivo di critica storica vertono sull'accertamento dei dati che spiegano l'opera pur senza determinarla: le circostanze della ................(55), gli eventi biografici dell'autore, le situazioni storiche e ambientali in cui visse, la sua educazione, i modelli letterari che si propose ecc.",
+            "choices": [
+                "negazione",
+                "trattamento",
+                "ordinamento",
+                "analisi"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "Dai Greci sino all'incirca al Settecento l'idea dell'arte è fondata sulla separazione tra forma e ................(51): il valore dell'opera consiste in un particolare ................(52) della prima, in determinate funzioni sociali demandate al secondo. Ancorata a criteri di valutazione fissati a priori, a griglie di riferimento ................(53) entro cui collocare opere e autori, la critica letteraria e artistica ha carattere sistematico, tecnico e normativo. Nel 16° e 17° sec., con la nuova nozione di arte come \"creatività\", ................(54) del tutto individuale, e della singolarità dei modi espressivi. Tutte le ricerche che si designano col nome comprensivo di critica storica vertono sull'accertamento dei dati che spiegano l'opera pur senza determinarla: le circostanze della ................(55), gli eventi biografici dell'autore, le situazioni storiche e ambientali in cui visse, la sua educazione, i modelli letterari che si propose ecc.",
+            "choices": [
+                "abdicate",
+                "originate",
+                "affermate",
+                "prestabilite"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "Dai Greci sino all'incirca al Settecento l'idea dell'arte è fondata sulla separazione tra forma e ................(51): il valore dell'opera consiste in un particolare ................(52) della prima, in determinate funzioni sociali demandate al secondo. Ancorata a criteri di valutazione fissati a priori, a griglie di riferimento ................(53) entro cui collocare opere e autori, la critica letteraria e artistica ha carattere sistematico, tecnico e normativo. Nel 16° e 17° sec., con la nuova nozione di arte come \"creatività\", ................(54) del tutto individuale, e della singolarità dei modi espressivi. Tutte le ricerche che si designano col nome comprensivo di critica storica vertono sull'accertamento dei dati che spiegano l'opera pur senza determinarla: le circostanze della ................(55), gli eventi biografici dell'autore, le situazioni storiche e ambientali in cui visse, la sua educazione, i modelli letterari che si propose ecc.",
+            "choices": [
+                "manifestazione",
+                "ancoraggio",
+                "affidamento",
+                "conferma"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "Dai Greci sino all'incirca al Settecento l'idea dell'arte è fondata sulla separazione tra forma e ................(51): il valore dell'opera consiste in un particolare ................(52) della prima, in determinate funzioni sociali demandate al secondo. Ancorata a criteri di valutazione fissati a priori, a griglie di riferimento ................(53) entro cui collocare opere e autori, la critica letteraria e artistica ha carattere sistematico, tecnico e normativo. Nel 16° e 17° sec., con la nuova nozione di arte come \"creatività\", ................(54) del tutto individuale, e della singolarità dei modi espressivi. Tutte le ricerche che si designano col nome comprensivo di critica storica vertono sull'accertamento dei dati che spiegano l'opera pur senza determinarla: le circostanze della ................(55), gli eventi biografici dell'autore, le situazioni storiche e ambientali in cui visse, la sua educazione, i modelli letterari che si propose ecc.",
+            "choices": [
+                "reiterazione",
+                "verificazione",
+                "composizione",
+                "verbalizzazione"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "Che significa l'espressione \"per antonomasia\" utilizzata nel testo succitato?",
+            "choices": [
+                "1) per abbondanza",
+                "2) per eccellenza",
+                "3) per scritto",
+                "4) di fatto"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Nella Repubblica romana quale termine era riservata alle assemblee popolari?",
+            "choices": [
+                "1) lex",
+                "2) iura",
+                "3) leges",
+                "4) placuit"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Cosa potrebbe significare il termine brocardo nel testo?",
+            "choices": [
+                "1) tolleranza",
+                "2) massima",
+                "3) giudice",
+                "4) legge divina"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "A differenza della legge la consuetudine ha quale provenienza?",
+            "choices": [
+                "1) volontaria",
+                "2) premeditata",
+                "3) socio-politica",
+                "4) spontanea sociale"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Quale dei seguenti elementi non è una caratteristica fondamentale della legge?",
+            "choices": [
+                "1) volontarietà",
+                "2) generalità",
+                "3) astrattezza",
+                "4) indeterminatezza"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "Che significa nel testo succitato l'espressione \"alle soglie\"?",
+            "choices": [
+                "al passaggio",
+                "alla fine",
+                "all'inizio",
+                "di solo"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "In Grecia antica principalmente quale forma di governo era conosciuto?",
+            "choices": [
+                "monarchia",
+                "democrazia",
+                "aristocrazia",
+                "popolare"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Una volta distrutta le istituzioni romane d'Occidente in Europa si ritorna a che cosa?",
+            "choices": [
+                "barbarismo",
+                "assolutismo",
+                "monarchia limitata",
+                "gerarchia diretta"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Il feudalismo trasforma il rapporto fra il re e il suddito in quale fattore?",
+            "choices": [
+                "dominio",
+                "sovranità",
+                "parità",
+                "subordinazione"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "l'ordine gerarchico del Medioevo consisteva in una sorta di sovranità basata su ............",
+            "choices": [
+                "assolutismo",
+                "dualismo",
+                "monarchia",
+                "aristocrazia"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "I linguaggi di programmazione sono concentrati su che cosa?",
+            "choices": [
+                "forme",
+                "dati",
+                "concetti",
+                "programmi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Il tipo di dato in verità in che cosa consiste?",
+            "choices": [
+                "dato",
+                "immagine",
+                "linguaggio",
+                "chiave interpretativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "I linguaggi di programmazione attribuiscono nomi a dati tramite quale fattore?",
+            "choices": [
+                "caratteri",
+                "variabili",
+                "codici binari",
+                "sequenze"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "I dati sono rappresentati i memoria attraverso quale elemento?",
+            "choices": [
+                "sequenze binarie",
+                "immagini",
+                "pixel",
+                "variabili"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "L'esecuzione del programma è la parte fondamentale di............",
+            "choices": [
+                "memoria",
+                "istruzioni",
+                "linguaggi imperativi",
+                "linguaggio di macchina"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

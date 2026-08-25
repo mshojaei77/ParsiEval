@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Bringst du bitte ..............?",
+            "choices": [
+                "die Bluse in der Reinigung",
+                "in die Reinigung die Bluse",
+                "die Bluse in die Reinigung",
+                "in der Reinigung die Bluse"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Welcher Satz ist mit folgenden Wortgruppen ein richtiger Satz!\ngeben – Zimmerschlüssel – Ihnen – ich – noch",
+            "choices": [
+                "Ich gebe Ihnen noch den Zimmerschlüssel.",
+                "Ich gebe noch Ihnen den Zimmerschlüssel.",
+                "Ich gebe noch den Zimmerschlüssel Ihnen.",
+                "Ich gebe Ihnen dem Zimmerschlüssel noch."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Die neuen Schuhe ................ . Sie drücken.",
+            "choices": [
+                "kommen mir zu kurz",
+                "stehen mir zu weit",
+                "liegen mir so hoch",
+                "sind mir zu eng"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "....................... . Ich weiß nicht, was ich tun soll.",
+            "choices": [
+                "Ich will meine Hausaufgaben keinesfalls erledigen",
+                "Ihre Meinung interessiert mich gar nicht",
+                "Ich bin in einer schwierigen Situation",
+                "Dieses Buch gefällt mir sehr"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Welcher Satz ist mit folgenden Wortgruppen ein richtiger Satz!\nSommer – dies – viel – Touristen – kommen – Stadt – in",
+            "choices": [
+                "Im Sommer kommen viele Touristen in diese Stadt.",
+                "Im Sommer kommen viel Touristen in diese Stadt.",
+                "In den Sommer kommen viele Touristen in dieser Stadt.",
+                "In den Sommer kommen vielen Touristen in dieser Stadt."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Verkäufer und Käufer von Gütern kommen zusammen, ....................",
+            "choices": [
+                "damit ihre Waren nicht beschädigt werden",
+                "damit ihre Waren vermarktet werden",
+                "um sich miteinander zu unterhalten",
+                "um zu handeln"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "In einer ..................... unterrichten die Lehrer und die Schüler lernen etwas.",
+            "choices": [
+                "Schule",
+                "Werkstatt",
+                "Fahrschule",
+                "Universität"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Ein Ausländer ist ...........................",
+            "choices": [
+                "ein Tourist innerhalb des eigenen Staats",
+                "ein Mensch außerhalb des eigenen Landes",
+                "ein Individuum außerhalb der eigenen Stadt",
+                "eine Person innerhalb der eigenen Regierung"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Der Satz „.......................\" bedeutet „Die Krankheit ist unheilbar“?",
+            "choices": [
+                "Der Arzt kennt die Krankheit nicht",
+                "Die Krankheit lässt sich doch heilen",
+                "Die Krankheit lässt sich nicht mehr heilen",
+                "Die Heilung ist bei der Krankheit eine Frage der Zeit"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

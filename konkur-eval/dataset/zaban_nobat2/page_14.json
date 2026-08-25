@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Das ist eben die Frau, ........................ Auto man gestern gestohlen hat.",
+            "choices": [
+                "1) die das",
+                "2) der das",
+                "3) dessen",
+                "4) deren"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Die Kamera ist kaputt. Du kannst keine ........................ (Hinweis: Plural von Foto) machen.",
+            "choices": [
+                "1) Fotos",
+                "2) Foten",
+                "3) Fotoa",
+                "4) Foti"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "„Hier ist der Eintritt zu zahlen“ bedeutet: Hier ........................ man den Eintritt zahlen.",
+            "choices": [
+                "1) will",
+                "2) muss",
+                "3) möchte",
+                "4) darf"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Sie ........................ (Hinweis: lesen) gerne Bücher, die ich ihr gekauft habe.",
+            "choices": [
+                "1) leset",
+                "2) lest",
+                "3) liest",
+                "4) lieset"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Suchst du hier in der Nähe einen Anzug? Hier ist doch ........................ .",
+            "choices": [
+                "1) einer",
+                "2) eins",
+                "3) ein",
+                "4) eines"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Er stellt das Fahrrad ........................ Turm.",
+            "choices": [
+                "1) in dem",
+                "2) in den",
+                "3) hinter dem",
+                "4) hinter den"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Das Bild hängt seit langer Zeit ........................ Wand.",
+            "choices": [
+                "1) in dem",
+                "2) an dem",
+                "3) an der",
+                "4) in den"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Ich würde kommen, wenn ich Zeit ........................ .",
+            "choices": [
+                "1) hätte",
+                "2) habe",
+                "3) hatte",
+                "4) gehabt hätte"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Wir ........................ aus bestimmten Gründen erst gestern ........................ .",
+            "choices": [
+                "1) sind – umgezieht",
+                "2) haben – umgezieht",
+                "3) sind – umgezogen",
+                "4) haben – umgezogen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Was soll ich denn noch machen, ........................ er rechtzeitig da ist.",
+            "choices": [
+                "1) da",
+                "2) ob",
+                "3) zumal",
+                "4) damit"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Schmeckt die Suppe nicht? Nein, sie ist ........................ salzig.",
+            "choices": [
+                "1) zu",
+                "2) weit",
+                "3) viel",
+                "4) hoch"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Du kannst die notwendigen Informationen ........................ der Rezeption bekommen.",
+            "choices": [
+                "1) in",
+                "2) an",
+                "3) bei",
+                "4) auf"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Ihre Musik stört die Leute. Sie müssen leise sein. Warum das? Hier ........................ man doch Musik hören.",
+            "choices": [
+                "1) muss",
+                "2) darf",
+                "3) will",
+                "4) möchte"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "........................ ich bitte Ihre Telefonnummer haben?",
+            "choices": [
+                "1) Mag",
+                "2) Soll",
+                "3) Kann",
+                "4) Muss"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Ich bin gestern deswegen nicht gekommen, ........................ ich krank war.",
+            "choices": [
+                "1) weil",
+                "2) dass",
+                "3) bevor",
+                "4) zumal"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "Che significa l'espressione \"per antonomasia\" utilizzata nel testo succitato?",
+            "choices": [
+                "1) per abbondanza",
+                "2) per eccellenza",
+                "3) per scritto",
+                "4) di fatto"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Nella Repubblica romana quale termine era riservata alle assemblee popolari?",
+            "choices": [
+                "1) lex",
+                "2) iura",
+                "3) leges",
+                "4) placuit"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Cosa potrebbe significare il termine brocardo nel testo?",
+            "choices": [
+                "1) tolleranza",
+                "2) massima",
+                "3) giudice",
+                "4) legge divina"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "A differenza della legge la consuetudine ha quale provenienza?",
+            "choices": [
+                "1) volontaria",
+                "2) premeditata",
+                "3) socio-politica",
+                "4) spontanea sociale"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Quale dei seguenti elementi non è una caratteristica fondamentale della legge?",
+            "choices": [
+                "1) volontarietà",
+                "2) generalità",
+                "3) astrattezza",
+                "4) indeterminatezza"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

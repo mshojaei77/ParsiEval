@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "Der Text besagt, dass man am See …………… will.",
+            "choices": [
+                "auswandern",
+                "in der Sonne liegen",
+                "mit dem Rad fahren",
+                "mit einem Boot fahren"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Dem Inhalt des Textes entnimmt man, dass …………….",
+            "choices": [
+                "es im Wald nach Erde riecht",
+                "man sich m Wald gerne langweilt",
+                "der Wald ein angenehmes Wetter hat",
+                "das Wetter um Wald sehr regnerisch ist"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Der Text verweist implizit drauf, dass das Reh, das im Text erwähnt wird, …………… ist.",
+            "choices": [
+                "eine Blume",
+                "ein Tier",
+                "ein Baum",
+                "eine Pflanze"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Der Begriff „pflücken\", der im Text erwähnt wird, bedeutet dem Inhalt des Textes entsprechend: …………….",
+            "choices": [
+                "Sich bemühen, jemanden, etwas Verlorenes, Verstecktes zu finden",
+                "Jemandem einen oder mehrere Stöße mit der Faust versetzen",
+                "Eine einzelne Frucht von Baum oder Pflanze abnehmen",
+                "Auf Qualität, Funktionstüchtigkeit hin untersuchen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Das Wetter am Strand ist nach dem Inhalt des Textes …………….",
+            "choices": [
+                "kühl",
+                "sehr mild",
+                "sehr warm",
+                "regnerisch"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "…………… lebt jemand, der luxuriös lebt und entsprechend viel Geld ausgibt.",
+            "choices": [
+                "Arrogant",
+                "Ehrgeizig",
+                "Optimistisch",
+                "Auf großem Fuß"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Nach dem Inhalt des Textes bedeutet ein aufwändiges Leben ein …………… Leben.",
+            "choices": [
+                "turbulentes",
+                "luxuriöses",
+                "glanzloses",
+                "verwegenes"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Wenn jemand einen großen Aufwand betreibt, bedeutet das, dass …………….",
+            "choices": [
+                "er sehr reich ist",
+                "er viel Geld ausgibt",
+                "ihm etwas aufgefallen ist",
+                "ihm die Hände gebunden sind"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Wenn ……………, besteht die Gefahr, dass er mehr ausgibt, als ihm zur Verfügung steht.",
+            "choices": [
+                "jemand arm ist",
+                "jemandem etwas fehlt",
+                "jemand auf großem Fuß lebt",
+                "jemand finanziell in Bedrängnis gerät"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Mit dem Begriff „Einkommen\" im Text meint man …………….",
+            "choices": [
+                "das Wanderleben",
+                "das Geld, das man verdient",
+                "das aufwändige Leben, das man betreibt",
+                "den Zusammenhang zwischen dem aufwändigen und luxuriösen Leben"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

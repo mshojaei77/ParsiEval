@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": 7,
+            "question": "تابع $f$ با ضابطه $f(x) = \\frac{۵}{\\sqrt{mx^2 - ۸x + ۳۹}}$ روی $IR$ تعریف شده است. اگر برای یک مقدار $m$، بیشترین مقدار تابع برابر ۱ باشد، مقدار $[m]$ کدام است؟",
+            "choices": [
+                "۳",
+                "۲",
+                "۱",
+                "صفر"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "اگر بزرگترین عامل مشترک دو چند جمله ای $p(x) = x^۵ + ax^۳$ و $q(x) = x^۴ + ۲x^۳ + ۲x^۲$ ، دو جمله ای $x^n + x^۲$ باشد، مقدار $na$ کدام است؟",
+            "choices": [
+                "-۲",
+                "-۱",
+                "۲",
+                "۱"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "اگر $f(x) = \\begin{cases} \\frac{x-۱}{x+۱} & ۰ \\le x \\le ۲ \\\\ ۲x < ۰ & -۲ \\le x < ۰ \\end{cases}$ باشد، معادله $fof(x) = ۰$ چند ریشه دارد؟",
+            "choices": [
+                "۱",
+                "۲",
+                "۳",
+                "۴"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "تابع پیوسته $f$ یک به یک بوده و وارون خود را در نقطه $(a, f(a))$ قطع می‌کند. اگر $f(۰) = ۲$ باشد، مقدار $\\lim_{x \\to a} \\frac{f(x)}{x}$ کدام است؟",
+            "choices": [
+                "۱",
+                "۲",
+                "$a$",
+                "$f'(a)$"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "اگر $\\log_{۲} \\left| \\frac{\\log ۵}{\\log ۲} + \\log (۳x+۱) \\right| = \\frac{۱}{۲}$ باشد، مقدار $\\log_{\\sqrt{x}} x$ کدام است؟",
+            "choices": [
+                "$\\frac{۱}{۲}$",
+                "-۲",
+                "۲",
+                "$\\frac{۱}{\\sqrt{۲}}$"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "اگر $۲ \\sin \\alpha < \\sin \\alpha$ و $۰ < \\frac{\\cot \\alpha}{\\sin \\alpha}$ باشد، انتهای کمان $\\alpha$ در کدام ربع قرار دارد؟",
+            "choices": [
+                "اول",
+                "دوم",
+                "سوم",
+                "چهارم"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "حاصل عبارت $\\frac{\\sin (-۲۸۵^\\circ) + ۲ \\cos(-۱۰۵^\\circ)}{۲ \\sin(۱۶۵^\\circ) + ۳ \\sin(۳۷۵^\\circ)}$ کدام است؟",
+            "choices": [
+                "$۰.۲\\sqrt{۶}$",
+                "$۰.۴\\sqrt{۶}$",
+                "$۰.۲\\sqrt{۳}$",
+                "$۰.۴\\sqrt{۳}$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "appena; vorrei; chiamarti; sarò tornato; non; a casa.\n1) Vorrei chiamarti non appena sarò tornato a casa.\n2) Vorrei chiamarti appena non sarò tornato a casa.\n3) Non sarò chiamarti appena vorrei tornato a casa.\n4) Appena vorrei chiamarti non sarò tornato a casa.",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "mago; essere; la sera; sembrava; libri di chimica; quando; leggeva; un.\n1) Essere un mago sembrava quando leggeva libri di chimica la sera.\n2) La sera libri di chimica leggeva quando sembrava essere un mago.\n3) Sembrava essere un mago quando la sera leggeva libri di chimica.\n4) Un mago leggeva libri di chimica quando sembrava essere la sera.",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "che; cerca; situazioni; rischiose; la guida; difensiva; sulla; strada; è; di; anticipare; quella.\n1) Cerca di anticipare situazioni rischiose quella che è sulla strada la guida difensiva.\n2) La guida difensiva sulla strada quella è che cerca di anticipare situazioni rischiose.\n3) Quella è che cerca di anticipare situazioni rischiose la guida difensiva sulla strada.\n4) La guida difensiva è quella che cerca di anticipare situazioni rischiose sulla strada.",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "la; disabilità; tema; formato da; compiuto; rami diversi; è; senso; psicologico; di.\n1) La tema di disabilità è senso psicologico compiuto formato da rami diversi.\n2) La disabilità è tema psicologico di senso compiuto formato da rami diversi.\n3) La disabilità è senso formato da rami diversi di tema psicologico compiuto.\n4) Formato da rami diversi è senso di compiuto tema psicologico la disabilità.",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "fuggire; cercare; il fato; bisogna; accettare; non; di; da; esso.\n1) Il fato bisogna accettare da esso non cercare di fuggire.\n2) Non cercare di fuggire da esso il fato bisogna accettare.\n3) Non cercare di fuggire il fato bisogna accettare da esso.\n4) Bisogna accettare il fato non cercare di fuggire da esso.",
+            "choices": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Non esiste vento favorevole per il marinaio che non sa dove andare.",
+            "choices": [
+                "1) ottativa",
+                "2) concessione",
+                "3) derivazione",
+                "4) apoftegmatica"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "Ma perché credono che ci si possa fumare in ospedale?!",
+            "choices": [
+                "1) interrogazione retorica",
+                "2) affermativa",
+                "3) concessiva",
+                "4) dubitativa"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Prima che il gallo canti tu mi rinnegherai tre volte!",
+            "choices": [
+                "1) enunciazione",
+                "2) consolazione",
+                "3) previsione",
+                "4) induzione"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Avessi avuto i soldi, avrei comprato quel rustico.",
+            "choices": [
+                "1) condizione",
+                "2) ipotetica",
+                "3) affermativa",
+                "4) divinazione"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "Quando ha preso la macchina il padrone gli disse: \"Non la passerai liscia\".",
+            "choices": [
+                "1) intimidazione",
+                "2) maledizione",
+                "3) benedizione",
+                "4) negazione"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

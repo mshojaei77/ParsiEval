@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Marie: Bonjour, j'aimerais prendre un rendez-vous avec le docteur Pichon s'il vous plaît.\nSecrétaire: Oui, j'aurais des disponibilités du 15 à 11 heures, ça vous irait?\nMarie: 11 heures, c'est parfait.\nSecrétaire: Très bien.",
+            "choices": [
+                "Le docteur est en congé toute la semaine.",
+                "Marie prend un rendez-vous pour sa fille.",
+                "Marie n'est pas disponible pour 13 heures.",
+                "La secrétaire fixe un rendez-vous pour mardi 15 à 11 heures."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Cliente: Je voudrais essayer ces chaussures noires. Je fais du 38.\nVendeuse: Asseyez-vous, j'arrive tout de suite. Voilà, le cuir est un peu raide.\nCliente: Elles me font mal.\nVendeuse: Je vais chercher la taille au dessus. C'est mieux?\nCliente: Oui, Non, ce n'est pas ce que je cherche.\nVendeuse: Vous cherchez quoi exactement?\nCliente: J'ai besoin d'une paire de chaussures que je peux porter assez longtemps sans avoir mal aux pieds.\nVendeuse: Je vois; attendez j'ai exactement ce qu'il vous faut. Tenez!\nCliente: Oui, c'est incroyable; je suis très bien dedans. Elles sont combien?\nVendeuse: Elles sont soldées à 30%.\nCliente: Je vais les prendre.\nPourquoi la cliente ne choisit-elle pas la première paire?",
+            "choices": [
+                "Elle voudrait des chaussures avec lesquelles elle peut marcher longtemps.",
+                "La couleur des chaussures lui déplaît.",
+                "Elles ne sont pas agréables à porter.",
+                "Elles sont trop chères pour elle."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Cliente: Bonjour, je voudrais un billet pour Paris, s'il vous plaît.\nEmployé: Oui, vous partez quand?\nCliente: Le 2 juin, j'aimerais partir le matin.\nEmployé: Vous avez un train qui part à 8 h15, arrivée à Paris à 9h. Vous voyagez en 1ère ou en second.\nCliente: En second.\nEmployé: Vous avez une réduction?\nCliente: Non.\nEmployé: Alors ça nous fera 35 euros.",
+            "choices": [
+                "La cliente voudrait arriver le matin à Paris.",
+                "C'est un billet pour Annecy.",
+                "La cliente part le dix juin.",
+                "Le billet coûte 24 euros."
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

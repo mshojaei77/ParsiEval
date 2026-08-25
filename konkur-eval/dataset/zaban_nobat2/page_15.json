@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "id": 16,
+            "question": "Darf ich Sie heute zu einem Kaffee ..............................................?",
+            "choices": [
+                "1) einbiegen",
+                "2) einsetzen",
+                "3) einlegen",
+                "4) einladen"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Gehen Sie schon jeden Tag zu ...................................................... zur Arbeit?",
+            "choices": [
+                "1) Auto",
+                "2) Rad",
+                "3) Fuß",
+                "4) Karre"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Ich habe ............................................... . Wann können wir endlich essen?",
+            "choices": [
+                "1) Durst",
+                "2) Hunger",
+                "3) Aroma",
+                "4) Geschmack"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Es ist kalt. Ist die ............................................... kaputt?",
+            "choices": [
+                "1) Leuchte",
+                "2) Heizung",
+                "3) Kerze",
+                "4) Wärme"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Haben Sie bitte ein ............................................... gegen Magenschmerzen?",
+            "choices": [
+                "1) Dokument",
+                "2) Plätzchen",
+                "3) Objekt",
+                "4) Mittel"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Ich werde dieses Jahr mein Studium ..................................................... .",
+            "choices": [
+                "1) ausschließen",
+                "2) verschließen",
+                "3) abschließen",
+                "4) zuschließen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Lisa ist ............................................... . Sie kann heute aus diesem Grund nicht zur Schule gehen.",
+            "choices": [
+                "1) erkältet",
+                "2) ermuntert",
+                "3) neugierig",
+                "4) optimistisch"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Ich kann nicht laufen, weil mir der linke Fuß sehr ............................................... .",
+            "choices": [
+                "1) auffällt",
+                "2) wehtut",
+                "3) zumutet",
+                "4) verweigert"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Ist deine Brille jetzt kaputt? Nein, zum ............................................... ist sie noch in Ordnung.",
+            "choices": [
+                "1) Teufel",
+                "2) Ernst",
+                "3) Gott",
+                "4) Glück"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Das Brot ist noch ganz ............................................... . Ich habe es gerade gekauft.",
+            "choices": [
+                "1) roh",
+                "2) mies",
+                "3) frisch",
+                "4) verrottet"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Das Gegenteil von „hoch“ ist „...............................................“.",
+            "choices": [
+                "1) tief",
+                "2) kurz",
+                "3) klein",
+                "4) niedrig"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Der ............................................... für Kinder und Jugendliche bis 16 Jahre ist frei.",
+            "choices": [
+                "1) Ausschluss",
+                "2) Abgrund",
+                "3) Eintritt",
+                "4) Ansatz"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Martin kann sehr gut Klavier ............................................... .",
+            "choices": [
+                "1) singen",
+                "2) spielen",
+                "3) ansagen",
+                "4) abhören"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Meine Arbeit gefällt mir nicht mehr. Ich will heute ............................................... .",
+            "choices": [
+                "1) versagen",
+                "2) absagen",
+                "3) auslassen",
+                "4) kündigen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "„Tschüss, bis zum nächsten Mal“ bedeutet im Deutschen: Auf ............................................... !",
+            "choices": [
+                "1) Wiedersehen",
+                "2) Genesung",
+                "3) Nimmer",
+                "4) Jawohl"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Das Rätsel ist schwierig. Ich weiß die ............................................... nicht.",
+            "choices": [
+                "1) Anfrage",
+                "2) Antwort",
+                "3) Absage",
+                "4) Ausrede"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Können Sie sich bitte um unsere Pflanzen ...............................................? Wir sind nächste Woche im Urlaub.",
+            "choices": [
+                "1) streiten",
+                "2) erkundigen",
+                "3) verschätzen",
+                "4) kümmern"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Sind Sie „...............................................\" oder „männlich\"?",
+            "choices": [
+                "1) feminin",
+                "2) weiblich",
+                "3) maskulin",
+                "4) jungfräulich"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Ich will Ihnen hiermit herzlichen Glückwunsch zum Geburtstag ...............................................!",
+            "choices": [
+                "1) beilegen",
+                "2) aussagen",
+                "3) beisetzen",
+                "4) aussprechen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Hans will fit sein. Er geht jeden Tag ins ............................................... .",
+            "choices": [
+                "1) Fitnessstudio",
+                "2) Spielhaus",
+                "3) Stadion",
+                "4) Studio"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

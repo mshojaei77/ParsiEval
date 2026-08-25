@@ -1,0 +1,160 @@
+{
+    "questions": [
+        {
+            "id": 23,
+            "question": "At the risk of being called naive or accused of meddling in matters beyond their ............, the bishops spoke boldly about a matter that was apparently irrelevant to them.",
+            "choices": [
+                "spectrums",
+                "amplitude",
+                "dimensions",
+                "competence"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Mary's father .................... away her tears with a pad of his thumb and then kissed her forehead tenderly.",
+            "choices": [
+                "stroked",
+                "trickled",
+                "threw",
+                "cried"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Are you good at small ....................? Or do you find yourself at a loss for words when trying to make conversation with strangers and acquaintances?",
+            "choices": [
+                "expression",
+                "talk",
+                "dialogue",
+                "discussion"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "The program helps patients manage disturbing thoughts, like the idea that they cannot function without eight .................... hours of sleep.",
+            "choices": [
+                "durable",
+                "firm",
+                "solid",
+                "hoarse"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "I was very lucky as, by .................... accident, I stumbled on a solution that solved all my philosophical questions.",
+            "choices": [
+                "deliberative",
+                "predictive",
+                "arrogant",
+                "sheer"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "While there are still important disagreements to be worked out, negotiators are cautiously .................... that a final accord is within reach.",
+            "choices": [
+                "deterministic",
+                "optimistic",
+                "extensive",
+                "reliant"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "One attendant .................... to me that once we landed, the crew was going out on strike.",
+            "choices": [
+                "told",
+                "belonged",
+                "confided",
+                "denounced"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "When I asked him whether he was fine, he .................... an acknowledgment without even looking up, and continued to sulk.",
+            "choices": [
+                "buckled",
+                "beleaguered",
+                "grappled",
+                "grunted"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "They've told us they're now being advised to use their holiday .................... to cover the working time they've lost as a result of this mess.",
+            "choices": [
+                "entitlement",
+                "vocation",
+                "refractions",
+                "rationality"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "We were looking for the problem on the .................... of society, but it was always in our middle where we least expected it.",
+            "choices": [
+                "plows",
+                "ridges",
+                "fringes",
+                "furrows"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "He is the best judge of what he can do and I trust him ....................; he told me he can do the job, so I'm very confident.",
+            "choices": [
+                "bluntly",
+                "implicitly",
+                "densely",
+                "tangentially"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "Although he's a vastly .................... grappler with the complexities of art history, Sir Ernst Gombrich has managed to write what is perhaps the most readable survey of his thorny field.",
+            "choices": [
+                "erudite",
+                "pallid",
+                "arable",
+                "clandestine"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "It is common to cite the Armenian massacres in the early century, the world wars, the Holocaust, to .................... Stalin's crimes and to name Bosnia and Rwanda as evidence of this century's peculiar offenses against humanity.",
+            "choices": [
+                "preen",
+                "cower",
+                "obviate",
+                "adduce"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

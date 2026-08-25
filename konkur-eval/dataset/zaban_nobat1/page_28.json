@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 66,
+            "question": "Le texte ci-dessus est ....................",
+            "choices": [
+                "1) un discours",
+                "2) un récit de rêve",
+                "3) un compte-rendu",
+                "4) un rapport"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Où Jean passe-t-il ses vacances d'hiver?",
+            "choices": [
+                "1) A la montagne",
+                "2) Au bord de la mer",
+                "3) Chez ses grands-parents",
+                "4) Dans une colonie de vacances"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Jean et ses amis sont déçus .................. .",
+            "choices": [
+                "1) parce qu'ils n'ont pas pu skier",
+                "2) parce qu'ils sont tous tombés malades",
+                "3) à cause de la fracture de jambe de Jean",
+                "4) car il n'a pas assez neigé pendant leur séjour"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Jean est mécontent de se rendre compte qu'il s'agit ............... .",
+            "choices": [
+                "1) d'un désir",
+                "2) d'un film",
+                "3) d'un rêve",
+                "4) d'un accident"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Pourquoi Jean a-t-il réveillé ses amis?",
+            "choices": [
+                "1) Pour leur proposer des activités pour la journée",
+                "2) Pour leur annoncer qu'il neigeait",
+                "3) Pour le départ à la gare",
+                "4) Pour le petit-déjeuner"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

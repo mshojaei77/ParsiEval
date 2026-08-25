@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": 14,
+            "question": "حاصل عبارت $\\text{A} = \\sqrt{2}\\cos(210^\\circ)\\sin(243^\\circ) - \\sqrt{2}\\sin(135^\\circ)\\cos(153^\\circ)$ چند برابر $\\text{cos}(27^\\circ)$ است؟",
+            "choices": [
+                "۳٫۵",
+                "۲٫۵",
+                "۱٫۵",
+                "۰٫۵"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "معادله مثلثاتی $\\text{tan}2\\text{x} + \\text{tan}3\\text{x} = \\text{tan}5\\pi$ چند جواب در بازه $(\\circ, \\pi)$ دارد؟",
+            "choices": [
+                "۶",
+                "۵",
+                "۴",
+                "۳"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "حاصل $\\lim_{x \\to ra^+} \\frac{\\sqrt{2x - ra} + \\sqrt[3]{x^2 - 27a^3}}{\\sqrt{x^2 - qa^2}}$ کدام است؟ (a > 0)",
+            "choices": [
+                "$8$",
+                "$\\frac{2}{\\sqrt{a}}$",
+                "$\\frac{2}{\\sqrt[3]{3a}}$",
+                "$\\infty+$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "اگر $\\lim_{x \\to \\sqrt{6}^- \\frac{x}{x^2+ax+b}} = +\\infty$ باشد، مقدار $\\left[\\frac{b}{a}\\right]$ کدام است؟",
+            "choices": [
+                "-1",
+                "-2",
+                "1",
+                "2"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "نمودار تابع $\\text{y} = \\text{f(x)}$ به صورت زیر داده شده است. اگر $2 = \\lim_{x \\to \\infty} \\frac{\\text{f}^{-1}(\\text{x})}{2\\text{f}(\\text{x}) - \\text{af}^{-1}(\\text{x})}$ باشد، مقدار $\\text{a}$ کدام است؟",
+            "choices": [
+                "$\\sqrt{2}$",
+                "$1+\\sqrt{2}$",
+                "$-1+\\sqrt{2}$",
+                "$2\\sqrt{2}$"
+            ],
+            "answer_key": 2,
+            "figure": "figures/q18_fig.png"
+        },
+        {
+            "id": 19,
+            "question": "اگر تابع $\\text{f}$ با ضابطه $\\text{f(x)} = \\begin{cases} \\frac{x^2+|x|}{x^2+a|x|} & x \\neq 0 \\\\ \\frac{2a-1}{2a+2} & x = 0 \\end{cases}$ در $\\text{R}$ پیوسته باشد، مقدار $\\lim_{x \\to a^-} \\text{f(x)}$ کدام است؟",
+            "choices": [
+                "2",
+                "1",
+                "$\\frac{3}{4}$",
+                "$\\frac{3}{5}$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "حاصل $\\lim_{x \\to \\frac{\\pi}{2}} \\frac{\\sin^2 \\text{x} \\cot(\\frac{\\pi}{2} - \\frac{x}{2})}{\\text{x} - \\frac{\\pi}{2}}$ کدام است؟",
+            "choices": [
+                "3",
+                "2",
+                "-2",
+                "-3"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

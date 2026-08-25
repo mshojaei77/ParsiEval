@@ -1,0 +1,246 @@
+{
+  "last_updated": "2026-01-06 00:10:40",
+  "judge": "google/gemini-2.5-flash",
+  "models": [
+    {
+      "rank": 1,
+      "model": "qwen/qwen3-30b-a3b-instruct-2507",
+      "scores": {
+        "Overall": 42.1,
+        "Grammar": 49.8,
+        "Idiomatic": 42.7,
+        "Conciseness": 36.6,
+        "Politeness": 47.7,
+        "Naturalness": 42.9,
+        "Instruction Following": 60.5,
+        "Context Retention": 78.5,
+        "Safety": 81.5
+      }
+    },
+    {
+      "rank": 2,
+      "model": "mistralai/mistral-saba",
+      "scores": {
+        "Overall": 39.1,
+        "Grammar": 44.0,
+        "Idiomatic": 37.8,
+        "Conciseness": 36.5,
+        "Politeness": 43.8,
+        "Naturalness": 37.2,
+        "Instruction Following": 67.7,
+        "Context Retention": 84.9,
+        "Safety": 89.1
+      }
+    },
+    {
+      "rank": 3,
+      "model": "google/gemini-2.5-flash",
+      "scores": {
+        "Overall": 39.1,
+        "Grammar": 58.6,
+        "Idiomatic": 53.1,
+        "Conciseness": 34.4,
+        "Politeness": 56.2,
+        "Naturalness": 52.8,
+        "Instruction Following": 65.5,
+        "Context Retention": 76.7,
+        "Safety": 77.3
+      }
+    },
+    {
+      "rank": 4,
+      "model": "google/gemma-3-12b-it",
+      "scores": {
+        "Overall": 37.0,
+        "Grammar": 56.1,
+        "Idiomatic": 50.3,
+        "Conciseness": 29.1,
+        "Politeness": 54.3,
+        "Naturalness": 50.1,
+        "Instruction Following": 65.6,
+        "Context Retention": 85.9,
+        "Safety": 89.5
+      }
+    },
+    {
+      "rank": 5,
+      "model": "qwen/qwen3-next-80b-a3b-instruct",
+      "scores": {
+        "Overall": 35.5,
+        "Grammar": 51.8,
+        "Idiomatic": 45.6,
+        "Conciseness": 31.8,
+        "Politeness": 50.2,
+        "Naturalness": 46.8,
+        "Instruction Following": 56.8,
+        "Context Retention": 76.6,
+        "Safety": 81.5
+      }
+    },
+    {
+      "rank": 6,
+      "model": "google/gemma-3-4b-it",
+      "scores": {
+        "Overall": 34.6,
+        "Grammar": 48.5,
+        "Idiomatic": 42.5,
+        "Conciseness": 26.4,
+        "Politeness": 46.7,
+        "Naturalness": 42.0,
+        "Instruction Following": 57.7,
+        "Context Retention": 76.5,
+        "Safety": 86.4
+      }
+    },
+    {
+      "rank": 7,
+      "model": "google/gemma-3-27b-it",
+      "scores": {
+        "Overall": 32.9,
+        "Grammar": 50.2,
+        "Idiomatic": 45.5,
+        "Conciseness": 24.5,
+        "Politeness": 48.4,
+        "Naturalness": 44.8,
+        "Instruction Following": 56.5,
+        "Context Retention": 73.5,
+        "Safety": 83.1
+      }
+    },
+    {
+      "rank": 8,
+      "model": "google/gemma-3n-e4b-it",
+      "scores": {
+        "Overall": 31.7,
+        "Grammar": 45.1,
+        "Idiomatic": 39.7,
+        "Conciseness": 24.4,
+        "Politeness": 42.8,
+        "Naturalness": 39.1,
+        "Instruction Following": 49.1,
+        "Context Retention": 73.1,
+        "Safety": 77.0
+      }
+    },
+    {
+      "rank": 9,
+      "model": "baidu/ernie-4.5-21b-a3b",
+      "scores": {
+        "Overall": 27.6,
+        "Grammar": 30.0,
+        "Idiomatic": 25.9,
+        "Conciseness": 25.3,
+        "Politeness": 30.3,
+        "Naturalness": 25.9,
+        "Instruction Following": 47.1,
+        "Context Retention": 59.4,
+        "Safety": 70.3
+      }
+    },
+    {
+      "rank": 10,
+      "model": "ibm-granite/granite-4.0-h-micro",
+      "scores": {
+        "Overall": 14.9,
+        "Grammar": 14.9,
+        "Idiomatic": 12.8,
+        "Conciseness": 15.1,
+        "Politeness": 15.1,
+        "Naturalness": 12.8,
+        "Instruction Following": 23.8,
+        "Context Retention": 32.3,
+        "Safety": 67.8
+      }
+    },
+    {
+      "rank": 11,
+      "model": "qwen/qwen3-4b:free",
+      "scores": {
+        "Overall": 10.0,
+        "Grammar": 10.0,
+        "Idiomatic": 9.2,
+        "Conciseness": 13.3,
+        "Politeness": 10.0,
+        "Naturalness": 9.2,
+        "Instruction Following": 15.4,
+        "Context Retention": 17.1,
+        "Safety": 34.2
+      }
+    },
+    {
+      "rank": 12,
+      "model": "meta-llama/llama-3.2-3b-instruct",
+      "scores": {
+        "Overall": 9.3,
+        "Grammar": 9.3,
+        "Idiomatic": 8.7,
+        "Conciseness": 10.6,
+        "Politeness": 9.6,
+        "Naturalness": 8.7,
+        "Instruction Following": 12.2,
+        "Context Retention": 16.6,
+        "Safety": 78.0
+      }
+    },
+    {
+      "rank": 13,
+      "model": "mistralai/ministral-3b",
+      "scores": {
+        "Overall": 8.4,
+        "Grammar": 8.4,
+        "Idiomatic": 7.4,
+        "Conciseness": 8.7,
+        "Politeness": 8.4,
+        "Naturalness": 7.4,
+        "Instruction Following": 11.6,
+        "Context Retention": 13.9,
+        "Safety": 75.0
+      }
+    },
+    {
+      "rank": 14,
+      "model": "mistralai/mixtral-8x7b-instruct",
+      "scores": {
+        "Overall": 6.3,
+        "Grammar": 6.3,
+        "Idiomatic": 5.5,
+        "Conciseness": 6.1,
+        "Politeness": 6.3,
+        "Naturalness": 5.5,
+        "Instruction Following": 8.2,
+        "Context Retention": 15.0,
+        "Safety": 50.0
+      }
+    },
+    {
+      "rank": 15,
+      "model": "liquid/lfm-2.2-6b",
+      "scores": {
+        "Overall": 4.1,
+        "Grammar": 4.1,
+        "Idiomatic": 4.1,
+        "Conciseness": 4.1,
+        "Politeness": 4.1,
+        "Naturalness": 4.1,
+        "Instruction Following": 4.1,
+        "Context Retention": 4.1,
+        "Safety": 68.5
+      }
+    },
+    {
+      "rank": 16,
+      "model": "liquid/lfm2-8b-a1b",
+      "scores": {
+        "Overall": 3.9,
+        "Grammar": 3.9,
+        "Idiomatic": 3.7,
+        "Conciseness": 3.9,
+        "Politeness": 3.7,
+        "Naturalness": 3.7,
+        "Instruction Following": 3.9,
+        "Context Retention": 3.9,
+        "Safety": 59.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 61,
+            "question": "Hier, ma cousine Charlotte a eu .......................... .",
+            "choices": [
+                "1) 18 ans",
+                "2) 20 ans",
+                "3) 30 ans",
+                "4) 40 ans"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Chaque invité a dit un mot gentil comme ..........................",
+            "choices": [
+                "1) merci pour les cadeaux",
+                "2) tu as l'air tellement jeune",
+                "3) comme c'est bien décoré ici",
+                "4) c'est gentil de nous avoir invité"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Où avait-on commandé le gâteau d'anniversaire?",
+            "choices": [
+                "1) Chez le pâtissier",
+                "2) Au supermarché",
+                "3) Chez un traiteur",
+                "4) Chez le boulanger"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Quel est le dîner de la soirée?",
+            "choices": [
+                "1) Un repas gastronomique du restaurant",
+                "2) Un grand repas dans le salon",
+                "3) Un barbecue dans le jardin",
+                "4) Un buffet facile à manger"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Qui a déchiré l'emballage d'un petit cadeau?",
+            "choices": [
+                "1) Les enfants de Charlotte",
+                "2) Les chiens de Charlotte",
+                "3) Les chats de Charlotte",
+                "4) Les souris de la cuisine"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

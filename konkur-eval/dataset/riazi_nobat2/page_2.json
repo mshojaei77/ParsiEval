@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "کدام یک از دنباله های اعداد حقیقی زیر، همواره تشکیل یک دنباله هندسی می‌دهد؟",
+            "choices": [
+                "$a,a^2,a^3,...$",
+                "$a,1,\\frac{1}{a},...$",
+                "$a^2,a,1,...$",
+                "$1,a,a^2,...$"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "مقدار عبارت $\\frac{24x^3+36x^2+18x+3}{(4x^2+4x+1)^2}$ به ازای ریشه مثبت معادله $x^2+x=1$ کدام است؟",
+            "choices": [
+                "$0.1\\sqrt{5}$",
+                "$0.2\\sqrt{5}$",
+                "$0.3\\sqrt{5}$",
+                "$0.6\\sqrt{5}$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "ساده شده عبارت $[(A' \\cap B) \\cup (((B \\cap A) - B') \\cap (B \\cup A))]$ کدام است؟",
+            "choices": [
+                "$A-B$",
+                "$B-A$",
+                "$B$",
+                "$A$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "گزاره $r \\Rightarrow (p \\wedge q)$ هم ارز منطقی کدام گزاره است؟",
+            "choices": [
+                "$p \\Rightarrow (\\sim r \\Rightarrow \\sim q)$",
+                "$r \\Rightarrow (\\sim p \\Rightarrow \\sim q)$",
+                "$\\sim p \\Rightarrow (\\sim r \\Rightarrow \\sim q)$",
+                "$\\sim r \\Rightarrow (p \\Rightarrow q)$"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "نقاط $A(2-2a, 3)$ و $B(2-2a, a-2)$ دو نقطه متمایز با مؤلفه‌های طبیعی از یک سهمی هستند. اگر نقطه $S(b, b-2)$ رأس این سهمی باشد، فاصله نقطه برخورد سهمی با محور عرض‌ها تا مبدأ مختصات کدام است؟",
+            "choices": [
+                "$\\frac{13}{4}$",
+                "$\\frac{1}{4}$",
+                "$\\frac{1}{2}$",
+                "$\\frac{13}{2}$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "اگر عکس مجموع ریشه‌های معادله درجه دوم $4ax^2+bx+\\frac{1}{2}c=0$ برابر $log_4$ و $a$ واسطه حسابی $b$ و $c$ باشد، مقدار $(\\frac{1}{\\sqrt[3]{2}})^{\\frac{c}{a}}$ کدام است؟",
+            "choices": [
+                "$\\sqrt{5}$",
+                "$\\sqrt{2}$",
+                "$\\sqrt[3]{10}$",
+                "$\\sqrt{10}$"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "اگر معادله $|3x-2|=x^2-x+a$ دارای سه ریشه حقیقی باشد، ریشه بزرگتر معادله کدام است؟",
+            "choices": [
+                "4",
+                "4.5",
+                "5",
+                "5.5"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

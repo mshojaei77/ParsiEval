@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "id": 19,
+            "question": "Les paysans habitant dans .................... s'occupent plus facilement de leurs animaux.",
+            "choices": [
+                "un appartement",
+                "une ferme",
+                "un couvent",
+                "un studio"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Dans les films westerns, on voit les indiennes avec de jolies .....................",
+            "choices": [
+                "mèches",
+                "chignons",
+                "anglaises",
+                "tresses"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "...................., je n'oublie jamais d'acheter des légumes pour la soupe.",
+            "choices": [
+                "Au marché",
+                "À la boulangerie",
+                "À la crèmerie",
+                "À la boucherie"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Partout dans le monde, la canicule et les vagues de chaleur .................... constituent un risque sanitaire pour la population.",
+            "choices": [
+                "en été",
+                "en hiver",
+                "au printemps",
+                "à l'automne"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Les footballeurs portent .................... de foot lors des match.",
+            "choices": [
+                "un casque",
+                "des gants",
+                "un maillot",
+                "des survêtements"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Autrefois, on faisait du feu dans la .................... pour chauffer la maison.",
+            "choices": [
+                "radiateur",
+                "cheminée",
+                "puits",
+                "foyer"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Quand j'étais jeune, une abeille .................... et depuis ce jour là j'ai une allergie au miel.",
+            "choices": [
+                "m'a gratté",
+                "m'a mordu",
+                "m'a blessé",
+                "m'a piqué"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "En France, le repas du soir est traditionnellement .....................",
+            "choices": [
+                "des légumes",
+                "une soupe",
+                "des crudités",
+                "une viande"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Les alpinistes ont atteint le sommet de la .................... et ont battu leur record.",
+            "choices": [
+                "vallée",
+                "forêt",
+                "chute",
+                "montagne"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Pour assister aux spectacles de l'opéra de Paris, on devrait .....................",
+            "choices": [
+                "être comédien soi-même",
+                "parler plusieurs langues",
+                "avoir un abonnement",
+                "connaître les acteurs"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Les mineurs portent .................... sur la tête pour se protéger.",
+            "choices": [
+                "un casque",
+                "un bonnet",
+                "un béret",
+                "un toque"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "La banque doit accepter .................... mobile pour régler les factures.",
+            "choices": [
+                "le jeton",
+                "le paiement",
+                "le cachet",
+                "le financement"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "On construit .................... pour retenir une grande quantité d'eau.",
+            "choices": [
+                "un avenue",
+                "des rails",
+                "un barrage",
+                "une route"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Il est possible d'effectuer .................... dans une entreprise pour se préparer à la vie professionnelle.",
+            "choices": [
+                "une classe",
+                "une leçon",
+                "un cours",
+                "un stage"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Le médecin qui suit des malades et gère leur santé dans sa globalité est .....................",
+            "choices": [
+                "un généraliste",
+                "un psychologue",
+                "un dermatologue",
+                "un cardiologue"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "On admire aujourd'hui l'Ethiopie comme étant le berceau du meilleur .................... du monde.",
+            "choices": [
+                "gaz",
+                "thé",
+                "café",
+                "pétrole"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Pierre s'intéresse à la poésie et .................... par cœur des milliers de poèmes.",
+            "choices": [
+                "reconnaît",
+                "connaît",
+                "acquiert",
+                "sait"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

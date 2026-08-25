@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 41,
+            "question": "doit-il - facteur - quand - passer - le?",
+            "choices": [
+                "Le facteur quand doit-il passer?",
+                "Doit-il passer quand le facteur?",
+                "Quand le facteur doit-il passer?",
+                "Quand doit-il le facteur passer?"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "livre - l'auteur - de - n'est - connu - ce - pas - très",
+            "choices": [
+                "L'auteur de ce livre n'est pas très connu.",
+                "N'est pas très connu l'auteur de ce livre.",
+                "Très connu l'auteur de ce livre n'est pas.",
+                "L'auteur de ce livre connu n'est pas très."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "de - les - maison - sont - en - volets - la - peints - rouge",
+            "choices": [
+                "En rouge sont peints les volets de la maison.",
+                "Sont peints en rouge les volets de la maison.",
+                "Les volets de la maison en rouge sont peints.",
+                "Les volets de la maison sont peints en rouge."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "enfants - vont - à - ces - en - l'école - vélo",
+            "choices": [
+                "Vont à l'école ces enfants en vélo.",
+                "Ces enfants vont à l'école en vélo.",
+                "A l'école ces enfants en vélo vont.",
+                "A l'école vont ces enfants en vélo."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "mauvais - souvenir - plus - qu'un - ne - la - tempête - sera",
+            "choices": [
+                "Qu'un mauvais souvenir ne sera plus la tempête.",
+                "Un plus mauvais souvenir qu' la tempête ne sera.",
+                "La tempête ne sera plus qu'un mauvais souvenir.",
+                "La tempête ne sera qu'un plus mauvais souvenir."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Les ordinateurs nous obligent à adopter des \n...................(46) statiques et nous amènent à faire \ndes efforts musculaires peu naturels: des troubles \n...................(47) dans les bras, les épaules, \n...................(48) ou le dos. Les employés des métiers du tertiaire comme les secrétaires ou \nsimplement les accros aux jeux vidéos sont les premières victimes de ces maux dès qu'ils \n...................(49) leur ordinateur 3 ou 4 heures par jour. Les syndromes apparaissent au niveau \ndu ...................(50). Cela peut devenir très douloureux au point de ne plus pouvoir dormir \n...................(51) utiliser son bras. Pour prévenir ce genre de risque, quelques règles de bonnes \nconduites peuvent être \n...................(52). Il faut se tenir droit sur son siège et garder les \n...................(53) posés bien au sol. L'écran ne doit pas se situer trop bas ou trop haut par \nrapport à la hauteur des yeux. Quoi qu'il en \n...................(54) il convient de faire des pauses à \nintervalles réguliers, \n...................(55) les 30 à 35 minutes à peu près.",
+            "choices": [
+                "stations",
+                "postures",
+                "attitudes",
+                "conduites"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "Les ordinateurs nous obligent à adopter des \n...................(46) statiques et nous amènent à faire \ndes efforts musculaires peu naturels: des troubles \n...................(47) dans les bras, les épaules, \n...................(48) ou le dos. Les employés des métiers du tertiaire comme les secrétaires ou \nsimplement les accros aux jeux vidéos sont les premières victimes de ces maux dès qu'ils \n...................(49) leur ordinateur 3 ou 4 heures par jour. Les syndromes apparaissent au niveau \ndu ...................(50). Cela peut devenir très douloureux au point de ne plus pouvoir dormir \n...................(51) utiliser son bras. Pour prévenir ce genre de risque, quelques règles de bonnes \nconduites peuvent être \n...................(52). Il faut se tenir droit sur son siège et garder les \n...................(53) posés bien au sol. L'écran ne doit pas se situer trop bas ou trop haut par \nrapport à la hauteur des yeux. Quoi qu'il en \n...................(54) il convient de faire des pauses à \nintervalles réguliers, \n...................(55) les 30 à 35 minutes à peu près.",
+            "choices": [
+                "insouciants",
+                "sérieux",
+                "légers",
+                "banals"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "Les ordinateurs nous obligent à adopter des \n...................(46) statiques et nous amènent à faire \ndes efforts musculaires peu naturels: des troubles \n...................(47) dans les bras, les épaules, \n...................(48) ou le dos. Les employés des métiers du tertiaire comme les secrétaires ou \nsimplement les accros aux jeux vidéos sont les premières victimes de ces maux dès qu'ils \n...................(49) leur ordinateur 3 ou 4 heures par jour. Les syndromes apparaissent au niveau \ndu ...................(50). Cela peut devenir très douloureux au point de ne plus pouvoir dormir \n...................(51) utiliser son bras. Pour prévenir ce genre de risque, quelques règles de bonnes \nconduites peuvent être \n...................(52). Il faut se tenir droit sur son siège et garder les \n...................(53) posés bien au sol. L'écran ne doit pas se situer trop bas ou trop haut par \nrapport à la hauteur des yeux. Quoi qu'il en \n...................(54) il convient de faire des pauses à \nintervalles réguliers, \n...................(55) les 30 à 35 minutes à peu près.",
+            "choices": [
+                "le col",
+                "le cou",
+                "la gorge",
+                "la nuque"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "Les ordinateurs nous obligent à adopter des \n...................(46) statiques et nous amènent à faire \ndes efforts musculaires peu naturels: des troubles \n...................(47) dans les bras, les épaules, \n...................(48) ou le dos. Les employés des métiers du tertiaire comme les secrétaires ou \nsimplement les accros aux jeux vidéos sont les premières victimes de ces maux dès qu'ils \n...................(49) leur ordinateur 3 ou 4 heures par jour. Les syndromes apparaissent au niveau \ndu ...................(50). Cela peut devenir très douloureux au point de ne plus pouvoir dormir \n...................(51) utiliser son bras. Pour prévenir ce genre de risque, quelques règles de bonnes \nconduites peuvent être \n...................(52). Il faut se tenir droit sur son siège et garder les \n...................(53) posés bien au sol. L'écran ne doit pas se situer trop bas ou trop haut par \nrapport à la hauteur des yeux. Quoi qu'il en \n...................(54) il convient de faire des pauses à \nintervalles réguliers, \n...................(55) les 30 à 35 minutes à peu près.",
+            "choices": [
+                "utilisent",
+                "a utilisé",
+                "utiliseraient",
+                "avaient utilisé"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "Les ordinateurs nous obligent à adopter des \n...................(46) statiques et nous amènent à faire \ndes efforts musculaires peu naturels: des troubles \n...................(47) dans les bras, les épaules, \n...................(48) ou le dos. Les employés des métiers du tertiaire comme les secrétaires ou \nsimplement les accros aux jeux vidéos sont les premières victimes de ces maux dès qu'ils \n...................(49) leur ordinateur 3 ou 4 heures par jour. Les syndromes apparaissent au niveau \ndu ...................(50). Cela peut devenir très douloureux au point de ne plus pouvoir dormir \n...................(51) utiliser son bras. Pour prévenir ce genre de risque, quelques règles de bonnes \nconduites peuvent être \n...................(52). Il faut se tenir droit sur son siège et garder les \n...................(53) posés bien au sol. L'écran ne doit pas se situer trop bas ou trop haut par \nrapport à la hauteur des yeux. Quoi qu'il en \n...................(54) il convient de faire des pauses à \nintervalles réguliers, \n...................(55) les 30 à 35 minutes à peu près.",
+            "choices": [
+                "manche",
+                "jambe",
+                "poignet",
+                "poignée"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

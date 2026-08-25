@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "Come viene definita “la persona”?",
+            "choices": [
+                "1) una maschera teatrale che ci si indossa ai teatri",
+                "2) un comportamento che si impara nella società",
+                "3) un meccanismo difensivo per essere più bravi",
+                "4) un lato oscuro dell'essere umano"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Il pronome “ne”, sottolineato nel testo a che cosa si riferisce?",
+            "choices": [
+                "1) aspetti",
+                "2) processi",
+                "3) individui",
+                "4) l'archetipo della Persona"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Perché la persona è importante?",
+            "choices": [
+                "1) avvicina l'essenza al cuore",
+                "2) ci viene insegnata alle scuole",
+                "3) ci aiuta a nascondere gli aspetti oscuri",
+                "4) ci aiuta a proteggere la nostra essenza"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "In base a quale fenomeno si può definire l'origine antica della parola persona?",
+            "choices": [
+                "1) tragedia greca",
+                "2) teatro romano",
+                "3) archetipi prestorici",
+                "4) psicologia novecentesca"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Come funziona “la persona”?",
+            "choices": [
+                "1) ci si indossa come un vestito",
+                "2) nasconde il falso e dimostra il vero",
+                "3) svuota i lati oscuri di un individuo",
+                "4) funziona quando ci si sente in guaio"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "Qual è il contesto principale del testo?",
+            "choices": [
+                "1) centri del benessere",
+                "2) benessere dell'essere umano",
+                "3) comprensione dello stato fisico",
+                "4) il significato di vita di un individuo"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

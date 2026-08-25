@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 66,
+            "question": "The underlined word \"betrays\" in paragraph 1 is closest in meaning to ............................",
+            "choices": [
+                "proscribes",
+                "misleads",
+                "reneges",
+                "discloses"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "According to paragraph 2, which of the following probably best characterizes Bertha Mason in Charlotte Brontë's novel?",
+            "choices": [
+                "A domineering figure opposed to Romantic ideals",
+                "A mysterious figure confined in a place out of view",
+                "A conventional character representing Victorian reason",
+                "A violent character equally opposed to Victorianism and Romanticism"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "According to the passage, which of the following statements is true?",
+            "choices": [
+                "The Wordsworthian intellect and the Coleridgean torment embody two unprecedented and interrelated currents specifically within Victorian poetry.",
+                "The Victorian and Romantic spirits were, to a large extent, mutually reliant, with the former yielding itself to the sensible discipline of the latter.",
+                "Romanticism is a highly protean notion, eliciting a wide array of responses from many poets of the Victorian period, with Tennyson and Wordsworth portraying the period's polar extremes.",
+                "Although Lovejoy's idea of Romanticism did not attain universal agreement among subsequent critics for a long time, it nevertheless, in a sense, influenced some future critics' conception of Romanticism."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Which of the following statements can best be inferred from the passage?",
+            "choices": [
+                "The issue of literary periodization is a moot point, with some critics believing Romanticism preceded Victorian era and others believing otherwise.",
+                "Some literary critics adhered to the belief that the development of literary phenomena could be shaped and colored by foreign political events.",
+                "The different interpretations of certain Romantic poets by their contemporaries and subsequent critics reveal the inherent futility of categorizing literary periods in general.",
+                "The Reform Bill of 1832 was primarily a literary manifesto distributed by the Victorian poets, proclaiming the death of Romanticism and calling for a profound transformation in the political system."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "In which position marked by [1], [2], [3] or [4], can the following sentence best be inserted in the passage?\nThis decline was often read through the fate of what was called \"the big six Romantic poets.\"",
+            "choices": [
+                "[4]",
+                "[3]",
+                "[2]",
+                "[1]"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

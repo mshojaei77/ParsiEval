@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 62,
+            "question": "Daniel s'est approché de la scène par ......................... .",
+            "choices": [
+                "Léo",
+                "la foule",
+                "le chanteur",
+                "lui-même"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Pourquoi y-a-t il une tâche bleue sur le cou de Daniel?\n1) Il s'est blessé en dansant",
+            "choices": [
+                "Il s'est blessé en dansant",
+                "Le service d'ordre lui a fait mal",
+                "Les spectateurs assis là lui ont fait mal",
+                "La bousculade dans la salle l'a blessé"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Daniel .......................... du concert.",
+            "choices": [
+                "se souvient très bien",
+                "ne se rappelle absolument de rien",
+                "ne se souvient pas de grand chose",
+                "se rappelle seulement une chanson"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Après le concert, .......................... .",
+            "choices": [
+                "Daniel ne veut plus entendre parler de concert",
+                "Daniel décide de ne plus aller au concert",
+                "Daniel s'est fâché avec son ami Léo",
+                "Daniel veut aller dormir"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "Les défilés sont diffusés .......................... .",
+            "choices": [
+                "sur Internet",
+                "dans la presse",
+                "à la télévision",
+                "sur les télévisions privées"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Pour le carnaval les enfants fabriquent .......................... avec leurs parents.",
+            "choices": [
+                "des tailleurs",
+                "des costumes",
+                "des smokings",
+                "des ensembles"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Que mange-t-on pendant le Mardi gras en France?",
+            "choices": [
+                "Une bûche",
+                "De la dinde",
+                "Des châtaignes",
+                "Des crêpes"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Les participants défilent .......................... .",
+            "choices": [
+                "à pied et en char",
+                "en voiture",
+                "en car",
+                "en bus"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Pendant le défilé, .......................... proposent de quoi manger aux participants.",
+            "choices": [
+                "des buffets",
+                "des restaurants",
+                "des snack-bars ambulants",
+                "des restaurants gastronomiques"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

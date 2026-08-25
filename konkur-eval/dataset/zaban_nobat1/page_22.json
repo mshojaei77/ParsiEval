@@ -1,0 +1,220 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Pendant la fête de la musique, beaucoup de ............................. ont lieu dans les mairies.",
+            "choices": [
+                "1) récitals",
+                "2) récitale",
+                "3) récitales",
+                "4) récitaux"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Voilà une nouvelle vraiment ............................. qui apparaît dans les sociales média.",
+            "choices": [
+                "1) surprenant",
+                "2) surprenantes",
+                "3) surprenants",
+                "4) surprenante"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Sophie et Jeanne, ............................. sont des amies d'enfance.",
+            "choices": [
+                "1) il",
+                "2) eux",
+                "3) elles",
+                "4) elle"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Tu as déjà été ............................. Chine pour signer des contrats.",
+            "choices": [
+                "1) à la",
+                "2) au",
+                "3) en",
+                "4) à"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Pierre donnait son adresse quand soudain la charge de son portable ............................. .",
+            "choices": [
+                "1) est terminée",
+                "2) a été terminée",
+                "3) terminait",
+                "4) termine"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Il faut que vous ............................. votre leçon pour la prochaine séance.",
+            "choices": [
+                "1) sachiez",
+                "2) sachez",
+                "3) savez",
+                "4) saviez"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Le serveur recevra un pourboire quand il ............................. les clients.",
+            "choices": [
+                "1) sert bien",
+                "2) a bien servi",
+                "3) servira bien",
+                "4) aura bien servi"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Ce sont les crises économiques ............................. le pays souffre.",
+            "choices": [
+                "1) dont",
+                "2) où",
+                "3) que",
+                "4) qui"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Si le cycliste n'était pas tombé, son adversaire ............................. la course.",
+            "choices": [
+                "1) ne gagnerait pas",
+                "2) n'aurait pas gagné",
+                "3) ne gagne pas",
+                "4) n'a pas gagné"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Lorsqu'un diabétique a des vertiges, on doit ............................. consulter un médecin.",
+            "choices": [
+                "1) brusquement",
+                "2) exactement",
+                "3) immédiatement",
+                "4) lentement"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "On comprend ............................. la grammaire si on fait des exercices.",
+            "choices": [
+                "1) bon",
+                "2) mieux",
+                "3) meilleur",
+                "4) la meilleure"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Du travail ............................. beaucoup en ce moment.",
+            "choices": [
+                "1) je l'ai",
+                "2) j'y ai",
+                "3) je lui ai",
+                "4) j'en ai"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Les services qu'elle a ............................. sont innombrables.",
+            "choices": [
+                "1) rendus",
+                "2) rendu",
+                "3) rendue",
+                "4) rendues"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "J'aime bien les sandales; je trouve que ............................. ne sont pas aussi jolies.",
+            "choices": [
+                "1) la mienne",
+                "2) les miennes",
+                "3) les miens",
+                "4) le mien"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Les enfants ont couru vers leurs parents dès qu'ils les ............................. .",
+            "choices": [
+                "1) verront",
+                "2) voient",
+                "3) voyaient",
+                "4) avaient vus"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Ce vase en porcelaine est très précieux: n'y ............................. pas!",
+            "choices": [
+                "1) sens",
+                "2) tâte",
+                "3) touche",
+                "4) palpe"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "On peut se marier à la ............................. à condition d'avoir une habitation dans la commune où on réside.",
+            "choices": [
+                "1) mairie",
+                "2) préfecture",
+                "3) municipalité",
+                "4) collectivité"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Pour les élèves en difficultés scolaires, les ............................. sont à effectif restreint.",
+            "choices": [
+                "1) leçons",
+                "2) cours",
+                "3) classes",
+                "4) séminaires"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

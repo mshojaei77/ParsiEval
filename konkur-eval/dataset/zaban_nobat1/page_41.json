@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 62,
+            "question": "Quali sono i principali aspetti di una vita sana?\n1) condurre studi psicologici\n2) mentale, fisica e relazionale\n3) accettazione dei propri limiti\n4) costruire dei legami con la gente",
+            "choices": [
+                "1) condurre studi psicologici",
+                "2) mentale, fisica e relazionale",
+                "3) accettazione dei propri limiti",
+                "4) costruire dei legami con la gente"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Quale può essere un punto di vista più adeguato per un disabile?\n1) vedere la propria disabilità come un'altra abilità\n2) definire la vita in base al vigore fisico\n3) studiare i meccanismi mentali\n4) adeguarsi alla società",
+            "choices": [
+                "1) vedere la propria disabilità come un'altra abilità",
+                "2) definire la vita in base al vigore fisico",
+                "3) studiare i meccanismi mentali",
+                "4) adeguarsi alla società"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Che significa il termine _olistico_ utilizzato nel testo?",
+            "choices": [
+                "1) arbitrario",
+                "2) contestuale",
+                "3) onnicomprensivo",
+                "4) comportamentale"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Cosa significa un _trattamento riabilitativo_?\n1) disciplina ospedaliera\n2) percorso di ricapitolazione\n3) trattamento dei centri del benessere\n4) percorso terapeutico che consente di recuperare le capacità",
+            "choices": [
+                "1) disciplina ospedaliera",
+                "2) percorso di ricapitolazione",
+                "3) trattamento dei centri del benessere",
+                "4) percorso terapeutico che consente di recuperare le capacità"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "La definizione dell'esistere al contrario dell'essere è basata su ..................... .",
+            "choices": [
+                "1) idealità",
+                "2) divinità",
+                "3) dipendenza",
+                "4) universalità"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "L'ontologia di solito si riferisce a quale ambito di scienze umane?",
+            "choices": [
+                "1) matematica",
+                "2) teologia",
+                "3) logica",
+                "4) fisica"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "L'ontologia nell'età moderna discusse fra l'altro di quale elemento?",
+            "choices": [
+                "1) psicologia",
+                "2) scienze esatte",
+                "3) analisi matematica",
+                "4) soggetto pensante"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "la relazione fra il soggetto e l'oggetto è un discorso tipicamente ............................ .",
+            "choices": [
+                "1) ontologico",
+                "2) platonico",
+                "3) umanistico",
+                "4) interdisciplinare"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "la manifestazione dell'essere viene percepita fra l'atro tramite quale fenomeno?",
+            "choices": [
+                "1) la dimensione surreale",
+                "2) i calcoli matematici",
+                "3) l'indagine teosofica",
+                "4) i sensi e la mente"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "The president will travel to the Hawaiian island \nMonday to meet the mayor.",
+            "choices": [
+                "as",
+                "in",
+                "at",
+                "on"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "There is a motorcycle in the picture that he says was used \nfruits to his father's store.",
+            "choices": [
+                "to carry",
+                "to carrying",
+                "as carrying",
+                "to be carried"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "The technology of neuroscience is \nto genetically engineer insect brains.",
+            "choices": [
+                "enough advanced",
+                "advanced enough",
+                "such advanced that",
+                "advanced such that"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "\nmany rich countries have great vaccination programs, many poor ones face a huge challenge in accessing vaccines.",
+            "choices": [
+                "But",
+                "Despite",
+                "While",
+                "In spite of"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Nothing is quite \nreading a wordbook aloud to a toddler for the $13^{th}$ time.",
+            "choices": [
+                "most bored in",
+                "so boring as",
+                "as bored as",
+                "as boring than"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "The approval of the treatment, which is proposed by an international drug maker, gives doctors \noption for patients suffering from insomnia.",
+            "choices": [
+                "other",
+                "a few",
+                "several",
+                "another"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "I voted reluctantly for the current CEO \nmy fears for what a new one might do to our company.",
+            "choices": [
+                "as for",
+                "since",
+                "because of",
+                "because"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "The idea of this approach is to use different levels of modeling, \nto study phenomena at a certain length scale.",
+            "choices": [
+                "each designed",
+                "both designing",
+                "which designed",
+                "that designing"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "It is my hope \na richer mathematical language for describing the development of relationships can lead to a world where our institutions value the work of creating connection as much as we do.",
+            "choices": [
+                "that by developing",
+                "that developing",
+                "in the development of",
+                "of the development of"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "That day in Pittsburgh, they were elaborating on something they \nbefore, regarding the importance of the new discovery.",
+            "choices": [
+                "say",
+                "were said",
+                "should say",
+                "had said"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "In a moment of desperation, \nwould never be able to write again, I started listening to music on my phone, lying on the floor.",
+            "choices": [
+                "I was fearing",
+                "and feared I",
+                "fearing I",
+                "I feared"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

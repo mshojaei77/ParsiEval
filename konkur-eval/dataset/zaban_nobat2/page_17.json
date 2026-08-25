@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "id": 45,
+            "question": "… ist eine Stadt mit mindestens 100.000 Einwohnern.",
+            "choices": [
+                "Eine Großstadt",
+                "Eine Residenz",
+                "Ein Staat",
+                "Ein Land"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Hans lebt und arbeitet in Deutschland. Die Eltern von Hans leben nicht in Deutschland. Sie leben in Italien. Heute möchte er seine Eltern dort ….",
+            "choices": [
+                "anschauen",
+                "besichtigen",
+                "ansehen",
+                "besuchen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "er … nicht gern. Also …",
+            "choices": [
+                "sitzt",
+                "fällt",
+                "fliegt",
+                "verschwindet"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "… Hans mit dem Zug nach Italien fahren.",
+            "choices": [
+                "soll",
+                "darf",
+                "mag",
+                "will"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "Um 9 Uhr steht er am Bahnhof und … auf den Zug. Aber der Zug kommt nicht.",
+            "choices": [
+                "legt",
+                "hofft",
+                "setzt",
+                "wartet"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "Wann kommt der Zug? Hans … es nicht. Jetzt ist es 10:15 Uhr. Da ist der Zug!",
+            "choices": [
+                "weiß",
+                "erzwingt",
+                "beantwortet",
+                "verschwendet"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "Er fährt in den Bahnhof. Dann hält er und die Türen ….",
+            "choices": [
+                "sitzen fest",
+                "dauern an",
+                "gehen weg",
+                "schließen auf"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "Hans steigt ein. Er geht in den Zug und … einen Platz. Da ist einer frei. Hans setzt sich auf den Platz und der Zug fährt los.",
+            "choices": [
+                "besucht",
+                "sucht",
+                "verfehlt",
+                "verliert"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "Nach vier Stunden … der Zug in Zürich.",
+            "choices": [
+                "hält",
+                "landet",
+                "versagt",
+                "brodelt"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "Hier muss Hans in einen Zug nach Italien ….",
+            "choices": [
+                "umwandeln",
+                "umsetzen",
+                "umsteigen",
+                "umfahren"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "Also steigt er aus und wartet im Bahnhof. Dann hört Hans eine …: „Der Zug nach Mailand um 15 Uhr kommt heute nicht.\" Oh, nein! Was soll Hans jetzt machen?",
+            "choices": [
+                "Durchsage",
+                "Aussage",
+                "Ansage",
+                "Absage"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": 126,
+            "question": "ضریب تغییرات داده‌های $1, 1, 0.8, 1.2, 1.16, 1.16$ کدام است؟",
+            "choices": [
+                "$\\frac{1}{2\\sqrt{3}}$",
+                "$\\frac{1}{3\\sqrt{5}}$",
+                "$\\frac{1}{6\\sqrt{3}}$",
+                "$\\frac{1}{7\\sqrt{5}}$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 127,
+            "question": "نمودار تابع با ضابطه $f(x) = \\begin{cases} \\frac{2x^2+ax+b}{4x-c} & x \\ge 1 \\\\ \\frac{4-x}{2} & x < 1 \\end{cases}$ به صورت زیر رسم شده است. مقدار $a+b$ کدام است؟",
+            "choices": [
+                "۴",
+                "۱",
+                "-۱",
+                "-۴"
+            ],
+            "answer_key": 1,
+            "figure": "figures/q127_fig.png"
+        },
+        {
+            "id": 128,
+            "question": "تابع با ضابطه $f(x) = 2\\left[\\frac{2-x}{3}\\right] + a\\left[\\frac{x+2}{2}\\right]$ در نقطه $x=-2$ حد دارد. مقدار $\\left[\\frac{a}{3}\\right]$ کدام است؟",
+            "choices": [
+                "۳",
+                "۲",
+                "۱",
+                "صفر"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 129,
+            "question": "اگر $\\lim_{x \\to 1^-} \\frac{1-k[x]}{x^2-1} = \\infty$ باشد، نقاط $(k\\pi, \\cos k\\pi)$ در کدام ناحیه محورهای مختصات قرار دارند؟",
+            "choices": [
+                "اول",
+                "دوم",
+                "سوم",
+                "چهارم"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 130,
+            "question": " تابع با ضابطه $f(x) = \\begin{cases} \\frac{x^2+mx+n}{a-x} & x \\ne a \\\\ 2 & x = a \\end{cases}$ روی $\\mathbb{R}$ پیوسته است. اگر $f(2) = 0$ باشد، مقدار $n-m$ کدام است؟",
+            "choices": [
+                "-۲",
+                "-۴",
+                "۱۲",
+                "۱۴"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 131,
+            "question": "خط $y+ax=2$ در نقطه‌ای به طول ۴ بر نمودار تابع $f$ مماس است. اگر $f'(4) + f''(4) = -1$ باشد، مقدار $f'(4)$ کدام است؟",
+            "choices": [
+                "۱",
+                "$0.6$",
+                "$-0.6$",
+                "-۱"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 132,
+            "question": "خط $d$ از مبدأ مختصات میگذرد و بر نمودار تابع $f(x) = 2\\sqrt{x}(4x^2+3)$ مماس است. شیب خط $d$ چقدر است؟",
+            "choices": [
+                "$4\\sqrt{2}$",
+                "$8\\sqrt{2}$",
+                "$6$",
+                "۱۲"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

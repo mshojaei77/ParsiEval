@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Indicate la forma corretta del passato remoto alla prima persona del verbo aprire.",
+            "choices": [
+                "1) aprì",
+                "2) aprei",
+                "3) aprii",
+                "4) apristi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Benché ................... tutta la notte, la strada non è allagata.",
+            "choices": [
+                "1) avesse piovuto",
+                "2) abbia piovuto",
+                "3) ebbe nevicato",
+                "4) piova"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Credo che loro non ti ........................ durante la conferenza.",
+            "choices": [
+                "1) possano ascoltare",
+                "2) potessero sentire",
+                "3) ascoltassero",
+                "4) sentissero"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Arianna ........................ quel cammino già molte volte; eppure, ogni volta si sorprendeva.",
+            "choices": [
+                "1) avrebbe percorso",
+                "2) volesse percorso",
+                "3) ebbe percorso",
+                "4) aveva percorso"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Se fossi venuto anche tu, noi ........................ una macchina più grande.",
+            "choices": [
+                "1) avremo portato",
+                "2) avevamo prenotato",
+                "3) avevamo portato",
+                "4) avremmo prenotato"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "la nostra segretaria è esausta, magari Lei ........................ rivedere i resoconti.",
+            "choices": [
+                "1) potesse",
+                "2) avreste potuto",
+                "3) fosse potuto",
+                "4) ebbe potuto"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Sono tornata indietro per riprendere l'ombrello ma non riesco a ricordare ................... .",
+            "choices": [
+                "1) quale sarebbe",
+                "2) quale sia",
+                "3) qual è",
+                "4) qual'è"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Quale tra queste frasi è grammaticalmente scorretta?",
+            "choices": [
+                "1) qual che sia",
+                "2) gli dei pagani",
+                "3) diligentemente attivo",
+                "4) affianco al computer"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Quale di queste frasi è grammaticalmente corretta?",
+            "choices": [
+                "1) siamo in ritardo, dovremmo accelerare un po'",
+                "2) benché sono stanco, ti verrò a salutare",
+                "3) ho passato la serata con un'amico",
+                "4) indi percui andrò in palestra"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Non voglio portare ........................ perché sono troppo pesanti.",
+            "choices": [
+                "1) né quello né questo",
+                "2) nè questi nè quei",
+                "3) né questo né quello",
+                "4) ne quei ne questi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Mi sarebbe piaciuto che tu ........................ alle questioni finanziarie della famiglia.",
+            "choices": [
+                "1) non foste distratto",
+                "2) fossi stato più attento",
+                "3) ebbi attenzione",
+                "4) saresti attento"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Quale è l'unica frase che non contiene un errore strutturale o semantica?",
+            "choices": [
+                "1) ha fatto da capo espiatorio",
+                "2) questa volta sono d'accordo con te",
+                "3) normalemente andasti in giro con questo cane",
+                "4) a me mi dispiace il tuo comportamento abbominevole"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "........................ persiani i più famosi furono Ciro e Dario.",
+            "choices": [
+                "1) a",
+                "2) da",
+                "3) dei",
+                "4) degli"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Quel giorno una parte ........................ soldati ........................ sana e salva all'accampamento.",
+            "choices": [
+                "1) dei - giungono",
+                "2) dai - giunge",
+                "3) di - giunsero",
+                "4) dei - giunse"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Era attribuzione del censore ........................ dal senato coloro ........................ vita fosse vergognosa.",
+            "choices": [
+                "1) espellere - la cui",
+                "2) forzasse - di cui",
+                "3) caciasse - cui",
+                "4) espellesse - la cui"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.\n\n",
+            "choices": [
+                "The country which the two champions will meet and fighting for the gold medal is located in South Africa.",
+                "The country which the two champions will meet to fight for the gold medal located in South Africa.",
+                "The country where the two champions will meet to fight for the gold medal is located in South Africa.",
+                "The country where the two champions will meet and fighting for the gold medal located in South Africa."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "",
+            "choices": [
+                "Being independent is not as same as cutting off all ties with family and friends and abandoning those whom love you.",
+                "Being independent is not the same as cutting off all ties with family and friends and abandoning those who love you.",
+                "To be independent is not as same as cutting off all ties with family and friends, abandoning those that love you.",
+                "To be independent is not the same as cutting off all ties with family and friends, abandoning those love you."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "",
+            "choices": [
+                "They have rarely gone into debt for buying their holdings, which means that they do not have to sell land or buildings at low prices and ensuring cash flow.",
+                "They rarely have gone into debt to buy their holdings, that means they do not have to sell land or buildings at low prices, ensuring cash flow.",
+                "Rarely they have gone into debt for buying their holdings, meaning that they do not have to sell land or buildings at low prices to ensure cash flow.",
+                "Rarely have they gone into debt to buy their holdings, which means that they do not have to sell land or buildings at low prices to ensure cash flow."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "",
+            "choices": [
+                "Given that temperatures in the area of the fire expected to reach anywhere from the upper 80s to just shy of 100, and depending on the smoke cover, said Scott Rowe, a meteorologist with the National Weather Service.",
+                "That temperatures in the area of the fire were expected to reach anywhere from the upper 80s to just short of 100, and depended on the smoke cover, said Scott Rowe, who was a meteorologist with the National Weather Service.",
+                "Temperatures in the area of the fire expected to reach anywhere from the upper 80s to just short of 100, depending on the smoke cover, said Scott Rowe, who was a meteorologist with the National Weather Service.",
+                "Temperatures in the area of the fire were expected to reach anywhere from the upper 80s to just shy of 100, depending on the smoke cover, said Scott Rowe, a meteorologist with the National Weather Service."
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

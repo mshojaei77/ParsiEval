@@ -1,0 +1,71 @@
+{
+    "questions": [
+        {
+            "id": 40,
+            "question": "1) Jane's frantic and weird behavior ought to not take you by surprise, particularly because she has recently lost her other significant on account of a horrible accident, leaving its mark on her personal and professional life.\n2) Jane's frantic and weird behavior ought not have taken you by surprise, particularly she has lost recently her other significant as a result of a horrible accident, leaving its mark on her personal and professional life.\n3) Jane's frantic and weird behavior ought not to have taken you by surprise, particularly as she has recently lost her significant other as a result of a horrible accident that has left its mark on her personal and professional life.\n4) Jane's frantic and weird behavior ought not take you by surprise, particularly since she has lost recently her significant other on account of a horrible accident that has left its mark on her personal and professional life.",
+            "choices": [],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "A: Hey, Joe! Do you know who ................................(41) about Vicky's surprise retirement party?\nB: Well, I'm not sure; but if I had to guess, I think it would be Harry.\nA: So do I! The guy's so talkative; ................................(42) in his mouth!\nB: I think we must talk to him. After all, it's not his first time, and someone has to address the\n................................(43) in the room!",
+            "choices": [
+                "1) rang a bell",
+                "2) poured the water",
+                "3) spilled the beans",
+                "4) cleaned the clock"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "A: Hey, Joe! Do you know who ................................(41) about Vicky's surprise retirement party?\nB: Well, I'm not sure; but if I had to guess, I think it would be Harry.\nA: So do I! The guy's so talkative; ................................(42) in his mouth!\nB: I think we must talk to him. After all, it's not his first time, and someone has to address the\n................................(43) in the room!",
+            "choices": [
+                "1) food wouldn't stay",
+                "2) snow wouldn't thaw",
+                "3) tongue wouldn't turn",
+                "4) butter wouldn't melt"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "A: Hey, Joe! Do you know who ................................(41) about Vicky's surprise retirement party?\nB: Well, I'm not sure; but if I had to guess, I think it would be Harry.\nA: So do I! The guy's so talkative; ................................(42) in his mouth!\nB: I think we must talk to him. After all, it's not his first time, and someone has to address the\n................................(43) in the room!",
+            "choices": [
+                "1) elephant",
+                "2) person",
+                "3) bull",
+                "4) problem"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "A: I'm so glad that Dave and Mike have decided to forget about the past and ............................(44).\nB: Same here! They were such good friends before that meaningless argument.\nA: That's right! I remember that they used to be thick as ............................(45) in the old days.",
+            "choices": [
+                "1) throw down the gauntlet",
+                "2) bury the hatchet",
+                "3) line their pockets",
+                "4) make ends meet"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "A: I'm so glad that Dave and Mike have decided to forget about the past and ............................(44).\nB: Same here! They were such good friends before that meaningless argument.\nA: That's right! I remember that they used to be thick as ............................(45) in the old days.",
+            "choices": [
+                "1) thieves",
+                "2) grease",
+                "3) soup",
+                "4) thorns"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

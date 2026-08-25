@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 8,
+            "question": "نقطه $(۳)$S روی نیم دایره شکل زیر داده شده است. اگر طول وتر PS برابر شعاع نیم دایره باشد، مقدار a کدام است؟",
+            "choices": [
+                "$1 (1)$",
+                "$\\frac{1}{2} (2)$",
+                "$\\sqrt{3} (3)$",
+                "$\\frac{\\sqrt{3}}{2} (4)$"
+            ],
+            "answer_key": 3,
+            "figure": "figures/q8_fig.png"
+        },
+        {
+            "id": 9,
+            "question": "اگر $f(x) = \\begin{cases} x+1 & x>2 \\\\ -3x+7 & x \\le 2 \\end{cases}$ و $g(x) = \\begin{cases} -x+4 & f(x) \\ge 0 \\\\ x-4 & f(x) < 0 \\end{cases}$ باشد، مقدار $fog(-4)$ کدام است؟",
+            "choices": [
+                "$19 (1)$",
+                "$9 (2)$",
+                "$-15 (3)$",
+                "$-5 (4)$"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "تابع $f$ با ضابطه $f(x) = 6x - \\sqrt{x-2\\sqrt{x-10}+15}$ در یک همسایگی از $a$, وارون پذیر است. اگر $fof(a)=a$ باشد، مقدار $f(a-9)$ کدام است؟",
+            "choices": [
+                "$25 (1)$",
+                "$27 (2)$",
+                "$32 (3)$",
+                "$34 (4)$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "شکل زیر، نمودار تابع $f(x) = \\log_b(ax+b)$ را نشان میدهد. مقدار $f^{-1}(-2)$ کدام است؟",
+            "choices": [
+                "$\\frac{4}{9} (1)$",
+                "$\\frac{9}{2} (2)$",
+                "$\\frac{5}{18} (3)$",
+                "$\\frac{7}{18} (4)$"
+            ],
+            "answer_key": 1,
+            "figure": "figures/q11_fig.png"
+        },
+        {
+            "id": 12,
+            "question": "اگر انتهای کمان $\\alpha$ در ناحیه چهارم دایره مثلثاتی باشد، حاصل عبارت $(\\frac{1}{1 + \\cos\\alpha}) (\\sqrt{1 + \\cot^2\\alpha} + \\frac{1}{\\tan\\alpha})$ کدام است؟",
+            "choices": [
+                "$\\cos\\alpha (1)$",
+                "$\\sin\\alpha (2)$",
+                "$-\\cos\\alpha (3)$",
+                "$-\\sin\\alpha (4)$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "اگر $\\tan(\\alpha + 12^{\\circ}) = \\frac{\\sqrt{3}}{4}$ باشد، مقدار $\\cot(18^{\\circ}-\\alpha)$ کدام است؟",
+            "choices": [
+                "$\\frac{5\\sqrt{3}}{3} (1)$",
+                "$\\frac{5\\sqrt{3}}{5} (2)$",
+                "$\\frac{\\sqrt{3}}{15} (3)$",
+                "$\\frac{5\\sqrt{3}}{3} (4)$"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

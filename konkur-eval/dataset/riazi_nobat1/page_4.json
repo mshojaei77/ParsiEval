@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 14,
+            "question": "در نیم دایره شکل زیر، مقدار $\\tan\\alpha$ کدام است؟",
+            "choices": [
+                "$۰.۲\\sqrt{۳}$",
+                "$۰.۳\\sqrt{۳}$",
+                "$۰.۴\\sqrt{۳}$",
+                "$۰.۵\\sqrt{۳}$"
+            ],
+            "answer_key": 1,
+            "figure": "figures/q14_fig.png"
+        },
+        {
+            "id": 15,
+            "question": "اگر $\\lim_{x \\to 0} \\frac{k + \\cos(\\sqrt{a}x)}{kx^r} = ۳$ باشد، مقدار $\\frac{a}{k}$ کدام است؟",
+            "choices": [
+                "۶",
+                "۳",
+                "-۳",
+                "-۶"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "نمودار تابع $f(x) = \\frac{a^۲x^۲ - ۲x + ۱}{(x+a)(mx - ۲)}$ در همسایگی $x = -a$ به صورت شکل زیر است. اگر $y = -۴$ مجانب افقی تابع $f$ باشد، مقدار $a$ کدام است؟",
+            "choices": [
+                "-۲",
+                "-۴",
+                "۲",
+                "۴"
+            ],
+            "answer_key": 3,
+            "figure": "figures/q16_fig.png"
+        },
+        {
+            "id": 17,
+            "question": "حاصل $\\lim_{x \\to \\pi^-} \\frac{\\cot x}{|x - \\pi|}$ کدام است؟",
+            "choices": [
+                "صفر",
+                "۱",
+                "$\\infty +$",
+                "$\\infty -$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "تابع ناصفر $f$ با ضابطه $f(x) = \\frac{\\sqrt{۳|ax + a|}}{|x^۲ + (m - ۲)x + a^۲|}$ روی $\\mathbb{R} - \\{a\\}$ تعریف شده و برای هر $x \\ne a$ پیوسته است. اگر $\\lim_{x \\to a} f(x)$ موجود باشد، مقدار آن کدام است؟",
+            "choices": [
+                "$\\sqrt{۳}$",
+                "$\\frac{۱}{\\sqrt{۳}}$",
+                "$\\frac{۲}{\\sqrt{۳}}$",
+                "$\\frac{\\sqrt{۳}}{۲}$"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

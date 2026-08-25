@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "Dem Inhalt des Textes entnimmt man, dass es sich beim Ich-Erzähler um einen ................ handelt.",
+            "choices": [
+                "1) Arzt",
+                "2) Patienten",
+                "3) Krankenpfleger",
+                "4) Psychologen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Was macht der Ich-Erzähler im Krankenhaus?\n1) Er kümmert sich ständig um die Kranken.\n2) Er bearbeitet die Urkunden von Ärzten.\n3) Er behandelt die Akten von Kranken.\n4) Er ist für den Zivildient zuständig.",
+            "choices": [
+                "1) Er kümmert sich ständig um die Kranken.",
+                "2) Er bearbeitet die Urkunden von Ärzten.",
+                "3) Er behandelt die Akten von Kranken.",
+                "4) Er ist für den Zivildient zuständig."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Was gehört zu den Aufgaben des Ich-Erzählers?\n1) Er bereitet die Kranken auf schlafen vor.\n2) Er verbietet den Kranken jegliches Waschen.\n3) Er lässt die Kranken schlafen und hilft beim Putzen.\n4) Er hilft einigen Kranken beim Waschen und gibt ihnen Frühstück.",
+            "choices": [
+                "1) Er bereitet die Kranken auf schlafen vor.",
+                "2) Er verbietet den Kranken jegliches Waschen.",
+                "3) Er lässt die Kranken schlafen und hilft beim Putzen.",
+                "4) Er hilft einigen Kranken beim Waschen und gibt ihnen Frühstück."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Was machen die Zivildienstleistenden und Praktikanten? Sie ................",
+            "choices": [
+                "1) machen den Zivildienst und bringen den Kranken in einem Krankenhaus die Medikamente",
+                "2) machen eine Ausbildung und helfen den Kranken in einem Krankenhaus",
+                "3) sind diejenigen, die im Krankenhaus Medikamente bekommen müssen",
+                "4) helfen den Ärzten bei einer Operation in einem Krankenhaus"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Übergabe ist nach dem Inhalt des Textes ................",
+            "choices": [
+                "1) eine Option für alle Ärzte",
+                "2) eine Pflicht für alle Kranken",
+                "3) dann möglich, wenn die Arbeitszeit endet",
+                "4) dann möglich, wenn man seine Arbeitszeit beginnt"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

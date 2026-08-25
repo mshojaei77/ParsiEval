@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Welche Satzreihenfolge ist richtig?",
+            "choices": [
+                "In meinem Schrank die Kleider habe ich in Ordnung gebracht.",
+                "Die Kleider in meinem Schrank habe ich in Ordnung gebracht.",
+                "In Ordnung habe ich in meinem Schrank die Kleider gebracht.",
+                "In Ordnung ich habe gebracht in meinem Schrank die Kleider."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Welche Satzstruktur ist richtig? Obwohl ........................ .",
+            "choices": [
+                "ich weiß, dass du bei mir bist, bekomme ich manchmal Angst",
+                "ich weiß, dass du bei mir bist, ich bekomme Angst manchmal",
+                "weiß ich, dass du bei mir bist, ich bekomme manchmal Angst",
+                "weiß ich, dass du bei mir bist, bekomme ich Angst manchmal"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Welche Option ist für folgendes Beispiel falsch?\nGestern hat sie mich unterwegs gesehen. Sie ist aber nicht stehen geblieben, um mich zu grüßen.",
+            "choices": [
+                "Sie hat mich gestern unterwegs gesehen, trotzdem ist sie nicht stehen geblieben, um mich zu grüßen.",
+                "Obwohl sie mich gestern unterwegs gesehen hat, ist sie nicht stehen geblieben, um mich zu grüßen.",
+                "Sie hat mich gestern unterwegs gesehen, trotzdem sie ist nicht stehen geblieben, um mich zu grüßen.",
+                "Auch wenn sie mich gestern unterwegs gesehen hat, ist sie nicht stehen geblieben, um mich zu grüßen."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Welche Haupt- und Nebensatzkombination ist richtig?",
+            "choices": [
+                "Etwas freundlicher vielleicht ich werde beim nächsten Mal zu den Gästen sein, um die Beziehungen zu pflegen.",
+                "Beim nächsten Mal ich werde vielleicht etwas freundlicher zu den Gästen sein, um die Beziehungen zu pflegen.",
+                "Ich werde beim nächsten Mal etwas freundlicher zu den Gästen vielleicht sein, um die Beziehungen zu pflegen.",
+                "Um die Beziehungen zu pflegen, werde ich vielleicht beim nächsten Versuch etwas freundlicher zu den Gästen sein."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Ergänzen Sie den folgenden Satz!\nSobald man ihnen mitgeteilt hat, ...................., sind sie verschwunden.",
+            "choices": [
+                "dass sie nicht hier bleiben zu dürfen",
+                "nicht hier bleiben zu dürfen",
+                "hier nicht bleiben dürfen",
+                "nicht hier bleiben dürfen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Er hat dich längst ........................ . Sie ist schließlich ein alter Hase.",
+            "choices": [
+                "nicht mehr gesehen",
+                "mit seinen Worten gekränkt",
+                "vor diesen Schwierigkeiten gewarnt",
+                "mit den anderen immer wieder verwechselt"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

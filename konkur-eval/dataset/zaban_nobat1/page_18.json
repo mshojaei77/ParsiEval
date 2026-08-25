@@ -1,0 +1,172 @@
+{
+    "questions": [
+        {
+            "id": 42,
+            "question": "Kommen wir jetzt bitte zum Boden der Tatsache und ....................!\n1) bleiben auf dem Teppich\n3) erleben wir unser blaues Wunder",
+            "choices": [
+                "bleiben auf dem Teppich",
+                "sitzen wir nicht auf Nadeln",
+                "erleben wir unser blaues Wunder",
+                "lassen uns nicht aus der Ruhe bringen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Ihr habt euch nach einer langen Trennung nicht gesehen. Sagt mal! Könnt ihr euch ...........?\n1) mindestens diesmal wieder verzanken\n3) erneut voneinander trennen",
+            "choices": [
+                "mindestens diesmal wieder verzanken",
+                "wiederum damit auseinandersetzen",
+                "erneut voneinander trennen",
+                "wieder vertragen"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "„Das ist alles kalter Kaffee\" bedeutet: Das ist ............................ .\n1) etwas Uninteressantes\n3) ist sehr üppig",
+            "choices": [
+                "etwas Uninteressantes",
+                "nicht mehr aktuell",
+                "ist sehr üppig",
+                "sehr brisant"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "Welche Option passt zu „Er kann davon ein Lied singen.\"? Er kann ....................\n1) über etwas aus eigener unangenehmer Erfahrung berichten\n2) sehr leidenschaftlich mit dem Singen auskommen\n3) jemandem mit einem Lied Freude machen\n4) über ein Ereignis viel und lange berichten",
+            "choices": [
+                "über etwas aus eigener unangenehmer Erfahrung berichten",
+                "sehr leidenschaftlich mit dem Singen auskommen",
+                "jemandem mit einem Lied Freude machen",
+                "über ein Ereignis viel und lange berichten"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 46,
+            "question": "Seit mehr als einem halben Jahrhundert haben die westlichen Wissenschaftler das Studium der Mythen in eine neue Perspektive ....................(46) Diese neue Perspektive ....................(47) sich von der etwa des 19. Jahrhunderts deutlich. Sie ....................(48) den Mythos nicht mehr wie ihre Vorgänger im üblichen Sinne des Wortes, d. h. als „Fabel\", „Erfindung\", „Fiktion\". Sie nahmen ihn so, wie er in den archaischen Gesellschaften ....................(49) wurde, in denen der Mythos eine „wahre Geschichte\" und außerdem höchst kostbare, heilige, exemplarische und bedeutsame Geschichte ....................(50). Doch dieser neue semantische ....................(51), der dem Wort „Mythos\" zugestanden wurde, lässt seine Verwendung in der Alltagssprache recht zweideutig ....................(52). Denn das Wort wird heute ebenso im Sinn von „Fiktion\" oder „Illusion\" ....................(53). In der Antike bezeichnete aber das Wort mythos, das im Gegensatz zu logos sowie später zu historia ....................(54), schließlich alles, was nicht wirklich ....................(55) kann.\n\n1) gestürzt",
+            "choices": [
+                "gestürzt",
+                "gerückt",
+                "verwickelt",
+                "geschoben"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "1) zierte",
+            "choices": [
+                "zierte",
+                "beklemmte",
+                "verschätzte",
+                "unterschied"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "1) belohnten",
+            "choices": [
+                "belohnten",
+                "bestritten",
+                "behandelten",
+                "bezifferten"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "1) vertauscht",
+            "choices": [
+                "vertauscht",
+                "verstanden",
+                "verlegt",
+                "vertilgt"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "1) besetzt",
+            "choices": [
+                "besetzt",
+                "berufen",
+                "bedeutet",
+                "bezeichnet"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "1) Wert",
+            "choices": [
+                "Wert",
+                "Zustand",
+                "Schein",
+                "Ansatz"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "1) absagen",
+            "choices": [
+                "absagen",
+                "abwarten",
+                "erscheinen",
+                "ausmachen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "1) erneuert",
+            "choices": [
+                "erneuert",
+                "gebraucht",
+                "ausgesetzt",
+                "ergriffen"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "1) ging",
+            "choices": [
+                "ging",
+                "lag",
+                "saß",
+                "stand"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "1) existieren",
+            "choices": [
+                "existieren",
+                "fehlen",
+                "atmen",
+                "absagen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

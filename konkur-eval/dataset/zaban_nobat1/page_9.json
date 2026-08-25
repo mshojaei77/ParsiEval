@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 61,
+            "question": "All of the following are mentioned in paragraph 1 EXCEPT ....................\n1) a gas that can lead to the greenhouse effect\n2) two gases that are part of Earth's atmosphere\n3) a gas other than carbon dioxide found in Venus' atmosphere\n4) the way greenhouse gases contribute to warming of the Earth",
+            "choices": [
+                "a gas that can lead to the greenhouse effect",
+                "two gases that are part of Earth's atmosphere",
+                "a gas other than carbon dioxide found in Venus' atmosphere",
+                "the way greenhouse gases contribute to warming of the Earth"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Which of the following best describes the scientists' prediction about people's life on Earth at the end of the 21st century mentioned in paragraph 2?",
+            "choices": [
+                "Unimportant",
+                "Hopeful",
+                "Ambivalent",
+                "Alarming"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Which of the following pairs of techniques is used in paragraph 2?\n1) Statistics and Anecdote\n3) Definition and Cause & effect\n2) Cause & effect and Statistics\n4) Anecdote and Definition",
+            "choices": [
+                "Statistics and Anecdote",
+                "Cause & effect and Statistics",
+                "Definition and Cause & effect",
+                "Anecdote and Definition"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "The passage provides sufficient information to answer which of the following questions?\nI. What is the most important human activity contributing to the greenhouse effect now?\nII. What were the causes for the extinction of mastodons and dinosaurs?\nIII. Is the phenomenon known as greenhouse effect confined to planet Earth?\n1) Only III\n2) I and III\n3) Only II\n4) I and II",
+            "choices": [
+                "Only III",
+                "I and III",
+                "Only II",
+                "I and II"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "According to the passage, which of the following statements is NOT true?\n1) Data pertaining to the global average temperature in 1986-2005 on Earth have been collected and are now available.\n2) Minor changes in the atmospheric concentration of greenhouse gases can result in significant alterations to Earth's temperature and climate.\n3) Although greenhouse gases constitute a small fraction of Earth's atmosphere, they exert a significant impact on Earth's climate.\n4) Throughout the course of the 20th century, the concentration of carbon dioxide in the Earth's atmosphere approximately doubled.",
+            "choices": [
+                "Data pertaining to the global average temperature in 1986-2005 on Earth have been collected and are now available.",
+                "Minor changes in the atmospheric concentration of greenhouse gases can result in significant alterations to Earth's temperature and climate.",
+                "Although greenhouse gases constitute a small fraction of Earth's atmosphere, they exert a significant impact on Earth's climate.",
+                "Throughout the course of the 20th century, the concentration of carbon dioxide in the Earth's atmosphere approximately doubled."
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

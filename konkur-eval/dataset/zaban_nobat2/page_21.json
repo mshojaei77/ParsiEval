@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "id": 21,
+            "question": "j'ai commandé des steaks à ................................ pour le dîner de ce soir.",
+            "choices": [
+                "la boucherie",
+                "la crémerie",
+                "l'épicerie",
+                "la boulangerie"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Il faut être vigilant dès les premiers mois de ................................ pour les épisodes caniculaires où les températures montent rapidement.",
+            "choices": [
+                "l'automne",
+                "le printemps",
+                "l'hiver",
+                "l'été"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Lors d'un match de foot, les gardiens de but doivent porter des ................................ pour se protéger les mains.",
+            "choices": [
+                "gants",
+                "genouillères",
+                "chaussures",
+                "sous gants"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Dans une habitation standarde, on devrait avoir ................................ dans chaque pièce pour une température égale partout.",
+            "choices": [
+                "une poile",
+                "un radiateur",
+                "une cheminée",
+                "un chauffage"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Pour valider le mariage, chacun des deux ................................ exprime sa volonté d'épouser l'autre.",
+            "choices": [
+                "amis",
+                "époux",
+                "fiancés",
+                "copains"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "En France, chaque repas se termine par ................................\n.",
+            "choices": [
+                "le bouillon",
+                "le fromage",
+                "la soupe",
+                "le potage"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": ".............................. n'est pas toujours calme, au moment des tempêtes les vagues deviennent dangereuses.",
+            "choices": [
+                "Le sommet",
+                "La montagne",
+                "La plage",
+                "La mer"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "Beaucoup pensent que pour un bon film, il faudrait avoir ................................",
+            "choices": [
+                "des grandes salles",
+                "trop de gros plans",
+                "une bonne scénario",
+                "une bonne chanson"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Les ouvriers réclament souvent une augmentation de ................................",
+            "choices": [
+                "chômage",
+                "salaire",
+                "grève",
+                "durée de travail"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Selon les statistiques, un Français ................................ 6 Watts par heure d'électricité chaque jours.",
+            "choices": [
+                "ingère",
+                "produit",
+                "absorbe",
+                "consomme"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "................................ avec le téléphone mobile est possible grâce à l'application comme Google Pay, Samsung.",
+            "choices": [
+                "Le paiement",
+                "Le dépense",
+                "L'investissement",
+                "Le financement"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "Certaines entreprises proposent des ................................ aux étudiants pour leur faire connaître la vie professionnelle.",
+            "choices": [
+                "entraînements",
+                "voyages",
+                "stages",
+                "vacances"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Le médecin spécialiste qui procède à l'examen, au diagnostic et au traitement des personnes atteintes de maladie du cœur est un ................................",
+            "choices": [
+                "cardiologue",
+                "dermatologue",
+                "généraliste",
+                "pédiatre"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "En France, on boit du ................................ estimé fort mais sa consommation est normale dans la société.",
+            "choices": [
+                "thé",
+                "café",
+                "potion",
+                "tisane"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Marc va commencer son travail dans la nouvelle société: il ne la ................................ pas encore.",
+            "choices": [
+                "sait",
+                "reconnaît",
+                "identifie",
+                "connaît"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

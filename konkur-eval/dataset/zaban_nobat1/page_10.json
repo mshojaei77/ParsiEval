@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "id": 66,
+            "question": "The underlined word \"culmination\" in paragraph 1 is closest in meaning to ................... .",
+            "choices": [
+                "decline",
+                "longest era",
+                "high point",
+                "exemption"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "All of the following are mentioned in paragraph 1 EXCEPT ............................ .",
+            "choices": [
+                "the century in which renaissance began in Italy",
+                "the decade in which the Renaissance ended in Italy",
+                "a name referring to a family of rulers who reigned in England",
+                "an event proposed as the beginning point for the English Renaissance"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

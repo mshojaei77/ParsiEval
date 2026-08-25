@@ -1,0 +1,119 @@
+{
+    "questions": [
+        {
+            "id": 51,
+            "question": "1) jamais",
+            "choices": [
+                "2) plus",
+                "3) rien",
+                "4) ni"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "1) appliquer",
+            "choices": [
+                "2) applique",
+                "3) appliquées",
+                "4) appliqué"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "1) jambes",
+            "choices": [
+                "2) cuisses",
+                "3) genoux",
+                "4) pieds"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "1) était",
+            "choices": [
+                "2) soit",
+                "3) est",
+                "4) sera"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "1) tout",
+            "choices": [
+                "2) toute",
+                "3) toutes",
+                "4) tous"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 56,
+            "question": "Quand ont-ils lieu les jeux paralympiques?",
+            "choices": [
+                "1) Tous les quatre ans",
+                "2) Tous les ans",
+                "3) Tous les deux ans",
+                "4) Tous les huit ans"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "De quelles couleurs sont les mascottes?",
+            "choices": [
+                "1) Vertes",
+                "2) Blanches",
+                "3) Noires",
+                "4) Rouges"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Que représente la mascotte des jeux olympiques de Paris?",
+            "choices": [
+                "1) Les bonnets phrygiens",
+                "2) Le chapeau des maires",
+                "3) Le chapeau porté au 19 ème siècle",
+                "4) Le chapeau des rois"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Que symbolise les mascottes des jeux de Paris?",
+            "choices": [
+                "1) La ville de Paris",
+                "2) La révolution française",
+                "3) L'égalité entre les sportifs et sportives",
+                "4) La liberté et la révolution dans le sport"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Les jeux olympiques de Paris 2024 ont comme ambition de ...............",
+            "choices": [
+                "1) encourager les sportifs handicapés",
+                "2) se différencier avec les jeux précédents",
+                "3) mettre en marche la révolution par le sport",
+                "4) de favoriser certains sports et certains pays"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

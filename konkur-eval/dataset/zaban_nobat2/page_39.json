@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 61,
+            "question": "Che significa nel testo succitato l'espressione \"alle soglie\"?",
+            "choices": [
+                "al passaggio",
+                "alla fine",
+                "all'inizio",
+                "di solo"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "In Grecia antica principalmente quale forma di governo era conosciuto?",
+            "choices": [
+                "monarchia",
+                "democrazia",
+                "aristocrazia",
+                "popolare"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Una volta distrutta le istituzioni romane d'Occidente in Europa si ritorna a che cosa?",
+            "choices": [
+                "barbarismo",
+                "assolutismo",
+                "monarchia limitata",
+                "gerarchia diretta"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Il feudalismo trasforma il rapporto fra il re e il suddito in quale fattore?",
+            "choices": [
+                "dominio",
+                "sovranità",
+                "parità",
+                "subordinazione"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "l'ordine gerarchico del Medioevo consisteva in una sorta di sovranità basata su ............",
+            "choices": [
+                "assolutismo",
+                "dualismo",
+                "monarchia",
+                "aristocrazia"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 66,
+            "question": "I linguaggi di programmazione sono concentrati su che cosa?",
+            "choices": [
+                "forme",
+                "dati",
+                "concetti",
+                "programmi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Il tipo di dato in verità in che cosa consiste?",
+            "choices": [
+                "dato",
+                "immagine",
+                "linguaggio",
+                "chiave interpretativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "I linguaggi di programmazione attribuiscono nomi a dati tramite quale fattore?",
+            "choices": [
+                "caratteri",
+                "variabili",
+                "codici binari",
+                "sequenze"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "I dati sono rappresentati i memoria attraverso quale elemento?",
+            "choices": [
+                "sequenze binarie",
+                "immagini",
+                "pixel",
+                "variabili"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "L'esecuzione del programma è la parte fondamentale di............",
+            "choices": [
+                "memoria",
+                "istruzioni",
+                "linguaggi imperativi",
+                "linguaggio di macchina"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

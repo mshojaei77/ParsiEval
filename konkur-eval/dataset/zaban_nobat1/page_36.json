@@ -1,0 +1,220 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Mi chiedeva se .................... uno sconto di minuito .................... 10%.\n1) le avrei dato - del\n2) le avevo dato - del\n3) le avrei dato - dal\n4) le avevo dato - dal",
+            "choices": [
+                "le avrei dato - del",
+                "le avevo dato - del",
+                "le avrei dato - dal",
+                "le avevo dato - dal"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": ".................... avevamo fame siamo andati .................... lui per pranzo.\n1) Siccome - a\n2) Siccome - da\n3) Benché - da\n4) Perché - con",
+            "choices": [
+                "Siccome - a",
+                "Siccome - da",
+                "Benché - da",
+                "Perché - con"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": ".................... chiamarti prima della partita ma come sempre ho dimenticato.\n1) Ho voluto\n2) Avevo voluto\n3) Avrei voluto\n4) Volevo",
+            "choices": [
+                "Ho voluto",
+                "Avevo voluto",
+                "Avrei voluto",
+                "Volevo"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "...................., come si dice in giro, dar retta ai propri genitori può qualche volta aiutarci, purtroppo a volte i loro consigli possono essere perfino pericolosi.\n1) Perché\n2) Purché\n3) Sebbene\n4) Finanche",
+            "choices": [
+                "Perché",
+                "Purché",
+                "Sebbene",
+                "Finanche"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Sarà pure un calciatore preparato, ma oggi .................... del tutto svogliato.\n1) appare\n2) è apparso\n3) fu apparso\n4) sarà apparso",
+            "choices": [
+                "appare",
+                "è apparso",
+                "fu apparso",
+                "sarà apparso"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Se volete una pizza da .................... questo è il posto perfetto.\n1) asporto\n2) asporti\n3) asportare via\n4) potare con noi",
+            "choices": [
+                "asporto",
+                "asporti",
+                "asportare via",
+                "potare con noi"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Che .................... male, era evidente; perciò gli dissi che .................... io.\n1) era - guidavo\n2) fosse - guidavo\n3) era - avrei guidato\n4) stesse - avrei guidato",
+            "choices": [
+                "era - guidavo",
+                "fosse - guidavo",
+                "era - avrei guidato",
+                "stesse - avrei guidato"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Immagino che a quest'ora i nostri colleghi già .................... a Verona.\n1) arrivarono\n2) arriverebbero\n3) saranno arrivati\n4) fossero arrivati",
+            "choices": [
+                "arrivarono",
+                "arriverebbero",
+                "saranno arrivati",
+                "fossero arrivati"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Come consigliato .................... ottimo fare sport prima di andare in vacanza al mare.\n1) sarà\n2) fosse\n3) sarebbe stato\n4) fosse stato",
+            "choices": [
+                "sarà",
+                "fosse",
+                "sarebbe stato",
+                "fosse stato"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "In sostanza, la morale della storia è che, senza morale, non .................... la nostra storia.\n1) ci costruiamo\n2) vi costruiamo\n3) avremmo costruiti\n4) ci si costruiamo",
+            "choices": [
+                "ci costruiamo",
+                "vi costruiamo",
+                "avremmo costruiti",
+                "ci si costruiamo"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Rimediare .................... malattie è talora davvero difficile.\n1) per certe\n2) di certe\n3) da certe\n4) a certe",
+            "choices": [
+                "per certe",
+                "di certe",
+                "da certe",
+                "a certe"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": ".................... tengo molto perché insieme .................... divertiamo.\n1) Ci - si\n2) Io - ci\n3) Ci - ci\n4) Gli - ci",
+            "choices": [
+                "Ci - si",
+                "Io - ci",
+                "Ci - ci",
+                "Gli - ci"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Non scrivo per essere divertente, ma solo perché .................... sento costretto.\n1) me lo\n2) mi ci\n3) me ne\n4) me la",
+            "choices": [
+                "me lo",
+                "mi ci",
+                "me ne",
+                "me la"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Se sapevi come avrebbe parlato quel giorno, non .................... con te?\n1) lo portasti\n2) lo portassi\n3) lo porti\n4) lo portavi",
+            "choices": [
+                "lo portasti",
+                "lo portassi",
+                "lo porti",
+                "lo portavi"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Una volta il professore ...................., nella società era veramente qualcuno.\n1) fosse rispettato\n2) era rispettato\n3) sarà rispettato\n4) sia rispettato",
+            "choices": [
+                "fosse rispettato",
+                "era rispettato",
+                "sarà rispettato",
+                "sia rispettato"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Ho migliorato il mio italiano .................... per non essere ancora come un principiante.\n1) alacre\n2) moderato\n3) mediocre\n4) innovativo",
+            "choices": [
+                "alacre",
+                "moderato",
+                "mediocre",
+                "innovativo"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "La zoologia è ramo delle scienze biologiche che studia la vita del mondo animale, in tutte le sue ....................\n1) manifestazioni\n2) deduzioni\n3) delazioni\n4) induzioni",
+            "choices": [
+                "manifestazioni",
+                "deduzioni",
+                "delazioni",
+                "induzioni"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Il locatario .................... a trasferire l'oggetto di locazione ai terzi.\n1) non è tenuto\n2) non è rinunciato\n3) non è biasimato\n4) non è autorizzato",
+            "choices": [
+                "non è tenuto",
+                "non è rinunciato",
+                "non è biasimato",
+                "non è autorizzato"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

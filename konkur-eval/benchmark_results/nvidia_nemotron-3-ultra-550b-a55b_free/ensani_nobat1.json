@@ -1,0 +1,4 @@
+{"id": "ensani_nobat1_1", "exam_name": "ensani_nobat1", "llm_answer": null, "key": 4, "correct": 0, "error": "Vision not supported: Error code: 404 - {'error': {'message': 'No endpoints found that support image input', 'code': 404}}", "model": "nvidia/nemotron-3-ultra-550b-a55b:free", "has_image": true, "skipped": true}
+{"id": "ensani_nobat1_2", "exam_name": "ensani_nobat1", "llm_answer": null, "key": 3, "correct": 0, "error": "Skipped: Model does not support vision", "model": "nvidia/nemotron-3-ultra-550b-a55b:free", "has_image": true, "skipped": true}
+{"id": "ensani_nobat1_3", "exam_name": "ensani_nobat1", "llm_answer": 2, "key": 2, "correct": 1, "error": "", "model": "nvidia/nemotron-3-ultra-550b-a55b:free", "has_image": false, "skipped": false}
+{"id": "ensani_nobat1_4", "exam_name": "ensani_nobat1", "llm_answer": 4, "key": 4, "correct": 1, "error": "", "model": "nvidia/nemotron-3-ultra-550b-a55b:free", "has_image": false, "skipped": false}

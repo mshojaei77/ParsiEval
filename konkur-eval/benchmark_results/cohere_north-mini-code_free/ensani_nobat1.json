@@ -1,0 +1,3 @@
+{"id": "ensani_nobat1_1", "exam_name": "ensani_nobat1", "llm_answer": null, "key": 4, "correct": 0, "error": "Vision not supported: Error code: 404 - {'error': {'message': 'No endpoints found that support image input', 'code': 404}}", "model": "cohere/north-mini-code:free", "has_image": true, "skipped": true}
+{"id": "ensani_nobat1_2", "exam_name": "ensani_nobat1", "llm_answer": null, "key": 3, "correct": 0, "error": "Skipped: Model does not support vision", "model": "cohere/north-mini-code:free", "has_image": true, "skipped": true}
+{"id": "ensani_nobat1_3", "exam_name": "ensani_nobat1", "llm_answer": 1, "key": 2, "correct": 0, "error": "", "model": "cohere/north-mini-code:free", "has_image": false, "skipped": false}

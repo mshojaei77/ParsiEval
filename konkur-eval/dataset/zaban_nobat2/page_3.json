@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "id": 12,
+            "question": "A recent study shows that black children were hospitalized at a rate five \r\nwhite children.",
+            "choices": [
+                "times that of",
+                "timed those for",
+                "timed that for",
+                "times those of"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "...................... seems so far to be a safe and effective vaccine candidate, it appears that humanity may be the winner again this time around, albeit with a dreadful loss of life.",
+            "choices": [
+                "That the emergence of it",
+                "With the emergence of what",
+                "Given that it's emergence",
+                "Its emergence"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "All people can attain the highest achievements possible for mankind, ...................... learn about the specific mental mechanisms which can be employed to realize dreams.",
+            "choices": [
+                "provided, that is, that they",
+                "providing that be what they",
+                "providing that, which they should",
+                "provided, that is, which they should"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Richard Hamilton, an inventive mathematician ...................... helped advance understanding of the fundamental nature of three-dimensional space, died on Sept. 29 in Manhattan.",
+            "choices": [
+                "who devised the Ricci flow which was an equation",
+                "devised the Ricci flow that was an equation which",
+                "who devised the Ricci flow, an equation that",
+                "devised the Ricci flow, an equation which"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Indeed, the dates that truly made a ...................... in our lives aren't always the ones we know by heart.",
+            "choices": [
+                "function",
+                "preparation",
+                "reference",
+                "difference"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "The information presented in this video goes some way towards \r\ninternational corporations in the food you eat every day. the role of",
+            "choices": [
+                "spending",
+                "explaining",
+                "attracting",
+                "requiring"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "Not everything is clear yet, but it is good that we have a/an \r\nof what we want to do. idea of our dream",
+            "choices": [
+                "final",
+                "entire",
+                "general",
+                "wrong"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Almost all universities saw a record rise in the number of students who \r\nadmission. for",
+            "choices": [
+                "applied",
+                "wanted",
+                "interested",
+                "invited"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "She was very ...................... as she didn't give up and managed to solve all her problems when there was nobody to help her.",
+            "choices": [
+                "humble",
+                "silent",
+                "brave",
+                "bald"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Shops and banks were closed amid growing ...................... that a political standoff between protesters and the government was about to begin in Thailand.",
+            "choices": [
+                "anxiety",
+                "separation",
+                "flexibility",
+                "poverty"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Congratulations to Ed on this well-deserved ...................... to what I believe is the most unique and meaningful position in the world of professional sports.",
+            "choices": [
+                "victory",
+                "promotion",
+                "perfection",
+                "competition"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

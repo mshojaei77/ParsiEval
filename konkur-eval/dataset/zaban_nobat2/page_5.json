@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "A good language learner that he is motivated, he must learn becoming more self-confident.",
+                "As a good language learner who is motivated and must learn to become more self-confident.",
+                "A good language learner should be motivated and he must learn to become more self-confident.",
+                "Being a good language learner, he must be motivated and to learn becoming more self-confident."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "In order to realize our responsibility towards people and nature in the future, we will continue to develop our strategies.",
+                "In order to realizing our responsibility towards people and nature in the future, our strategies we will continue developing.",
+                "We will continue developing our strategies so that realizing our responsibility to people and nature in the future.",
+                "We will continue to develop our strategies which they are to realize our responsibility to people and nature in the future."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "Given that I do not wish to be a source of scorn by friends and professional colleagues, investing a lot to keep up to date with technologies emerging.",
+                "Not wishing to be a source of scorn for friends and professional colleagues, I invest a lot in keeping up to date with emerging technologies.",
+                "Having invested a lot in keeping up to date with emerging technologies, as I wish not being a source of scorn by friends and professional colleagues.",
+                "I invest a lot to keep up to date with technologies emerging, who do not wish being a source of scorn for friends and professional colleagues."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Choose the sentence with the best word order for each of the following series. Then mark the correct choice on your answer sheet.",
+            "choices": [
+                "It was an investigative reporter who was accused of being economic with the truth in his dealings with the police while investigating and alleged a plot exposed a celebrity who was kidnapped.",
+                "An investigative reporter was charged with being economic with the truth in his dealings with the police while they were investigating an alleged plot where a celebrity was exposed to have been kidnapped.",
+                "That an investigative reporter was charged with being economical with the truth in his dealings with the police who investigated an alleged plot exposed by the paper, suggested to kidnap a celebrity.",
+                "An investigative reporter was accused of being economical with the truth in his dealings with the police when they were investigating an alleged plot exposed by the paper to kidnap a celebrity."
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

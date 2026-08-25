@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 61,
+            "question": "Das 19. Jahrhundert war für die Prägung des bildungspolitischen Ideals der Erziehung ....................",
+            "choices": [
+                "wichtig",
+                "irrelevant",
+                "überflüssig",
+                "zweierlei zu bewerten"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Für Wilhelm von Humboldt bedarf das Fachbereich „Pädagogik\" sowie die damit verbundene Aufgabe der Erziehung ....................",
+            "choices": [
+                "keiner Neugestaltung im Sinne des neuhumanistischen Geistes",
+                "einer Neugestaltung im Sinne des neuhumanistischen Geistes",
+                "keiner Neugestaltung im eigentlichen Sinne",
+                "einer Neugestaltung im eigentlichen Sinne"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "Das klassische Persönlichkeitsideal sollte ....................",
+            "choices": [
+                "dem neuhumanistischen Bildungsideal als Bildungsgut überlegen sein",
+                "dem neuhumanistischen Bildungsideal als Bildungsgut unterlegen sein",
+                "neben dem neuhumanistischen Bildungsideal als Bildungsgut bestimmend sein",
+                "mit dem neuhumanistischen Bildungsideal als Bildungsgut einen Kontrast bilden"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "Die neuhumanistische Bildungsreform entstand als Antwort auf die zunehmende Charakterbildung der deutschen Universität ....................",
+            "choices": [
+                "zugunsten der Entstehung einer Fachschule zur Ausbildung des Nachwuchses",
+                "zugunsten der Entstehung einer Fachschule zur Ausbildung von Eltern",
+                "zur Begründung einer Fachschule zur Ausbildung aller Schichten",
+                "zur Etablierung einer Fachschule zur Ausbildung der Lehrkräfte"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 65,
+            "question": "Die kritische Distanz von der Wirklichkeit der sich entwickelnden bürgerlichen Gesellschaft war ....................",
+            "choices": [
+                "keineswegs kontrovers",
+                "im humanistischen Geiste verankert",
+                "eine Antwort der Universität als Fachschule",
+                "markant für die neuhumanistische Bildungsreform"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

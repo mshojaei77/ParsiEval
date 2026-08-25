@@ -1,0 +1,3445 @@
+{
+  "last_updated": "2026-07-21 01:51:07",
+  "primary_metric": "text_only",
+  "exam_order": [
+    "ensani_nobat1",
+    "ensani_nobat2",
+    "honar_nobat1",
+    "honar_nobat2",
+    "riazi_nobat1",
+    "riazi_nobat2",
+    "tajrobi_nobat1",
+    "tajrobi_nobat2",
+    "zaban_nobat1",
+    "zaban_nobat2"
+  ],
+  "models": [
+    {
+      "rank": 1,
+      "model": "openai/gpt-oss-120b",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 53.59877488514548,
+          "correct": 350,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 45.103092783505154,
+          "correct": 350,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 45.16129032258064,
+            "correct": 84,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 42.0,
+            "correct": 84,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 60.91954022988506,
+            "correct": 53,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 42.06349206349206,
+            "correct": 53,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 68.69565217391305,
+            "correct": 79,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 54.48275862068965,
+            "correct": 79,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 58.38509316770186,
+            "correct": 94,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 48.205128205128204,
+            "correct": 94,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 38.46153846153847,
+            "correct": 40,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 36.36363636363637,
+            "correct": 40,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "model": "openai/gpt-oss-safeguard-20b",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 50.995405819295556,
+          "correct": 333,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 42.91237113402062,
+          "correct": 333,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 44.623655913978496,
+            "correct": 83,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 41.5,
+            "correct": 83,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 48.275862068965516,
+            "correct": 42,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 33.33333333333333,
+            "correct": 42,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 66.95652173913044,
+            "correct": 77,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 53.103448275862064,
+            "correct": 77,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 54.037267080745345,
+            "correct": 87,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 44.61538461538462,
+            "correct": 87,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 42.30769230769231,
+            "correct": 44,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 40.0,
+            "correct": 44,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "model": "qwen/qwen3-vl-235b-a22b-instruct",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 50.535987748851454,
+          "correct": 330,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 48.71134020618557,
+          "correct": 378,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 52.1505376344086,
+            "correct": 97,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 51.5,
+            "correct": 103,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 54.02298850574713,
+            "correct": 47,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 49.2063492063492,
+            "correct": 62,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 60.0,
+            "correct": 69,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 54.48275862068965,
+            "correct": 79,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 46.58385093167702,
+            "correct": 75,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 45.64102564102564,
+            "correct": 89,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 40.38461538461539,
+            "correct": 42,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 40.909090909090914,
+            "correct": 45,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "model": "moonshotai/kimi-k2-0905",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 47.166921898928024,
+          "correct": 308,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 39.69072164948454,
+          "correct": 308,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 45.16129032258064,
+            "correct": 84,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 42.0,
+            "correct": 84,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 57.47126436781609,
+            "correct": 50,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 39.682539682539684,
+            "correct": 50,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 52.17391304347826,
+            "correct": 60,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 41.37931034482759,
+            "correct": 60,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 44.72049689440994,
+            "correct": 72,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 36.92307692307693,
+            "correct": 72,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 40.38461538461539,
+            "correct": 42,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 38.18181818181819,
+            "correct": 42,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "model": "qwen/qwen3-next-80b-a3b-instruct",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 45.78866768759571,
+          "correct": 299,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 38.53092783505155,
+          "correct": 299,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 46.236559139784944,
+            "correct": 86,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 43.0,
+            "correct": 86,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 50.57471264367817,
+            "correct": 44,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 34.92063492063492,
+            "correct": 44,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 47.82608695652174,
+            "correct": 55,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 37.93103448275862,
+            "correct": 55,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 46.58385093167702,
+            "correct": 75,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 38.46153846153847,
+            "correct": 75,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 37.5,
+            "correct": 39,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 35.45454545454545,
+            "correct": 39,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "model": "mistralai/devstral-2512:free",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 43.797856049004594,
+          "correct": 286,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 36.855670103092784,
+          "correct": 286,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 45.69892473118279,
+            "correct": 85,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 42.5,
+            "correct": 85,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 55.172413793103445,
+            "correct": 48,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 38.095238095238095,
+            "correct": 48,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 44.34782608695652,
+            "correct": 51,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 35.172413793103445,
+            "correct": 51,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 39.130434782608695,
+            "correct": 63,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 32.30769230769231,
+            "correct": 63,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 37.5,
+            "correct": 39,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 35.45454545454545,
+            "correct": 39,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "model": "qwen/qwen3-vl-30b-a3b-instruct",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 43.644716692189895,
+          "correct": 285,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 42.13917525773196,
+          "correct": 327,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 41.39784946236559,
+            "correct": 77,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 42.0,
+            "correct": 84,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 39.08045977011494,
+            "correct": 34,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 36.507936507936506,
+            "correct": 46,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 46.95652173913044,
+            "correct": 54,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 43.44827586206896,
+            "correct": 63,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 50.31055900621118,
+            "correct": 81,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 47.69230769230769,
+            "correct": 93,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 37.5,
+            "correct": 39,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 37.27272727272727,
+            "correct": 41,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "model": "deepseek/deepseek-v3.2",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 42.003231017770595,
+          "correct": 260,
+          "total": 619
+        },
+        "standard": {
+          "accuracy": 35.32608695652174,
+          "correct": 260,
+          "total": 736
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 40.32258064516129,
+            "correct": 75,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 37.5,
+            "correct": 75,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 50.57471264367817,
+            "correct": 44,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 34.92063492063492,
+            "correct": 44,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 45.21739130434783,
+            "correct": 52,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 35.86206896551724,
+            "correct": 52,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 44.099378881987576,
+            "correct": 71,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 36.41025641025641,
+            "correct": 71,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 25.71428571428571,
+            "correct": 18,
+            "total": 70
+          },
+          "standard": {
+            "accuracy": 25.71428571428571,
+            "correct": 18,
+            "total": 70
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "model": "google/gemma-3-27b-it",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 41.807044410413475,
+          "correct": 273,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 40.20618556701031,
+          "correct": 312,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 40.32258064516129,
+            "correct": 75,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 40.5,
+            "correct": 81,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 48.275862068965516,
+            "correct": 42,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 45.23809523809524,
+            "correct": 57,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 44.34782608695652,
+            "correct": 51,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 40.689655172413794,
+            "correct": 59,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 39.75155279503105,
+            "correct": 64,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 37.43589743589744,
+            "correct": 73,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 39.42307692307692,
+            "correct": 41,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 38.18181818181819,
+            "correct": 42,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "model": "meta-llama/llama-3.1-70b-instruct",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 40.73506891271057,
+          "correct": 266,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 34.27835051546392,
+          "correct": 266,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 43.01075268817204,
+            "correct": 80,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 40.0,
+            "correct": 80,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 49.42528735632184,
+            "correct": 43,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 34.12698412698413,
+            "correct": 43,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 42.608695652173914,
+            "correct": 49,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 33.793103448275865,
+            "correct": 49,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 34.161490683229815,
+            "correct": 55,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 28.205128205128204,
+            "correct": 55,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 37.5,
+            "correct": 39,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 35.45454545454545,
+            "correct": 39,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "model": "mistralai/ministral-14b-2512",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 39.81623277182236,
+          "correct": 260,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 38.91752577319588,
+          "correct": 302,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 38.17204301075269,
+            "correct": 71,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 37.5,
+            "correct": 75,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 43.67816091954023,
+            "correct": 38,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 38.88888888888889,
+            "correct": 49,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 35.65217391304348,
+            "correct": 41,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 35.86206896551724,
+            "correct": 52,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 39.75155279503105,
+            "correct": 64,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 40.0,
+            "correct": 78,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 44.230769230769226,
+            "correct": 46,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 43.63636363636363,
+            "correct": 48,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "model": "meta-llama/llama-4-maverick",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 39.50995405819295,
+          "correct": 258,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 37.24226804123711,
+          "correct": 289,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 43.54838709677419,
+            "correct": 81,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 42.5,
+            "correct": 85,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 50.57471264367817,
+            "correct": 44,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 46.03174603174603,
+            "correct": 58,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 30.434782608695656,
+            "correct": 35,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 27.586206896551722,
+            "correct": 40,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 37.267080745341616,
+            "correct": 60,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 33.84615384615385,
+            "correct": 66,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 36.53846153846153,
+            "correct": 38,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 36.36363636363637,
+            "correct": 40,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "model": "mistralai/mistral-saba",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 37.519142419601835,
+          "correct": 245,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 31.572164948453608,
+          "correct": 245,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 37.634408602150536,
+            "correct": 70,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 35.0,
+            "correct": 70,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 41.37931034482759,
+            "correct": 36,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 28.57142857142857,
+            "correct": 36,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 37.391304347826086,
+            "correct": 43,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 29.655172413793103,
+            "correct": 43,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 37.267080745341616,
+            "correct": 60,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 30.76923076923077,
+            "correct": 60,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 34.61538461538461,
+            "correct": 36,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 32.72727272727273,
+            "correct": 36,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "model": "xiaomi/mimo-v2-flash:free",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 37.36600306278714,
+          "correct": 244,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 31.443298969072163,
+          "correct": 244,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 42.473118279569896,
+            "correct": 79,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 39.5,
+            "correct": 79,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 39.08045977011494,
+            "correct": 34,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 26.984126984126984,
+            "correct": 34,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 40.0,
+            "correct": 46,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 31.724137931034484,
+            "correct": 46,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 33.54037267080746,
+            "correct": 54,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 27.692307692307693,
+            "correct": 54,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 29.807692307692307,
+            "correct": 31,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 28.18181818181818,
+            "correct": 31,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "model": "mistralai/mixtral-8x22b-instruct",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 36.447166921898926,
+          "correct": 238,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 30.670103092783506,
+          "correct": 238,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 37.096774193548384,
+            "correct": 69,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 34.5,
+            "correct": 69,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 41.37931034482759,
+            "correct": 36,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 28.57142857142857,
+            "correct": 36,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 33.04347826086956,
+            "correct": 38,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 26.20689655172414,
+            "correct": 38,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 36.64596273291926,
+            "correct": 59,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 30.256410256410255,
+            "correct": 59,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 34.61538461538461,
+            "correct": 36,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 32.72727272727273,
+            "correct": 36,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "model": "google/gemma-3n-e4b-it",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 33.996937212863706,
+          "correct": 222,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 28.60824742268041,
+          "correct": 222,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 35.483870967741936,
+            "correct": 66,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 33.0,
+            "correct": 66,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 39.08045977011494,
+            "correct": 34,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 26.984126984126984,
+            "correct": 34,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 34.78260869565217,
+            "correct": 40,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 27.586206896551722,
+            "correct": 40,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 28.57142857142857,
+            "correct": 46,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 23.589743589743588,
+            "correct": 46,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 34.61538461538461,
+            "correct": 36,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 32.72727272727273,
+            "correct": 36,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "model": "google/gemma-3-4b-it",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 33.537519142419605,
+          "correct": 219,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 33.76288659793815,
+          "correct": 262,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 30.64516129032258,
+            "correct": 57,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 31.0,
+            "correct": 62,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 41.37931034482759,
+            "correct": 36,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 41.269841269841265,
+            "correct": 52,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 29.565217391304348,
+            "correct": 34,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 28.27586206896552,
+            "correct": 41,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 32.298136645962735,
+            "correct": 52,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 33.33333333333333,
+            "correct": 65,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 38.46153846153847,
+            "correct": 40,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 38.18181818181819,
+            "correct": 42,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "model": "cohere/command-r7b-12-2024",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 31.546707503828486,
+          "correct": 206,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 26.54639175257732,
+          "correct": 206,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 32.795698924731184,
+            "correct": 61,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 30.5,
+            "correct": 61,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 35.63218390804598,
+            "correct": 31,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 24.6031746031746,
+            "correct": 31,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 22.608695652173914,
+            "correct": 26,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 17.93103448275862,
+            "correct": 26,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 34.78260869565217,
+            "correct": 56,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 28.717948717948715,
+            "correct": 56,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 30.76923076923077,
+            "correct": 32,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 29.09090909090909,
+            "correct": 32,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "model": "mistralai/ministral-8b",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 31.240428790199083,
+          "correct": 204,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 26.288659793814436,
+          "correct": 204,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 30.64516129032258,
+            "correct": 57,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 28.499999999999996,
+            "correct": 57,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 31.03448275862069,
+            "correct": 27,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 21.428571428571427,
+            "correct": 27,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 33.91304347826087,
+            "correct": 39,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 26.89655172413793,
+            "correct": 39,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 27.95031055900621,
+            "correct": 45,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 23.076923076923077,
+            "correct": 45,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 34.61538461538461,
+            "correct": 36,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 32.72727272727273,
+            "correct": 36,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "model": "mistralai/ministral-3b-2512",
+      "vision_capable": true,
+      "overall": {
+        "text_only": {
+          "accuracy": 31.02918586789555,
+          "correct": 202,
+          "total": 651
+        },
+        "standard": {
+          "accuracy": 30.283505154639172,
+          "correct": 235,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 28.804347826086957,
+            "correct": 53,
+            "total": 184
+          },
+          "standard": {
+            "accuracy": 27.500000000000004,
+            "correct": 55,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 39.08045977011494,
+            "correct": 34,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 33.33333333333333,
+            "correct": 42,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 28.695652173913043,
+            "correct": 33,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 28.965517241379313,
+            "correct": 42,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 28.57142857142857,
+            "correct": 46,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 29.743589743589745,
+            "correct": 58,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 34.61538461538461,
+            "correct": 36,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 34.54545454545455,
+            "correct": 38,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "model": "mistralai/mistral-nemo",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 30.93415007656968,
+          "correct": 202,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 26.03092783505155,
+          "correct": 202,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 30.107526881720432,
+            "correct": 56,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 28.000000000000004,
+            "correct": 56,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 35.63218390804598,
+            "correct": 31,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 24.6031746031746,
+            "correct": 31,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 31.30434782608696,
+            "correct": 36,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 24.82758620689655,
+            "correct": 36,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 26.08695652173913,
+            "correct": 42,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 21.53846153846154,
+            "correct": 42,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 35.57692307692308,
+            "correct": 37,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 33.63636363636363,
+            "correct": 37,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 30.16845329249617,
+          "correct": 197,
+          "total": 653
+        },
+        "standard": {
+          "accuracy": 25.386597938144327,
+          "correct": 197,
+          "total": 776
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 30.107526881720432,
+            "correct": 56,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 28.000000000000004,
+            "correct": 56,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 39.08045977011494,
+            "correct": 34,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 26.984126984126984,
+            "correct": 34,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 26.956521739130434,
+            "correct": 31,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 21.379310344827587,
+            "correct": 31,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 31.05590062111801,
+            "correct": 50,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 25.64102564102564,
+            "correct": 50,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 25.0,
+            "correct": 26,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 23.636363636363637,
+            "correct": 26,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 0
+          }
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "model": "openrouter/owl-alpha",
+      "vision_capable": false,
+      "overall": {
+        "text_only": {
+          "accuracy": 0.0,
+          "correct": 0,
+          "total": 1171
+        },
+        "standard": {
+          "accuracy": 0.0,
+          "correct": 0,
+          "total": 1396
+        }
+      },
+      "per_exam": [
+        {
+          "exam_name": "ensani_nobat1",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 186
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 200
+          }
+        },
+        {
+          "exam_name": "ensani_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 147
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 160
+          }
+        },
+        {
+          "exam_name": "honar_nobat1",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 87
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 126
+          }
+        },
+        {
+          "exam_name": "honar_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 67
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 100
+          }
+        },
+        {
+          "exam_name": "riazi_nobat1",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 115
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 145
+          }
+        },
+        {
+          "exam_name": "riazi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 78
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 105
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat1",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 161
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 195
+          }
+        },
+        {
+          "exam_name": "tajrobi_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 156
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 185
+          }
+        },
+        {
+          "exam_name": "zaban_nobat1",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 104
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 110
+          }
+        },
+        {
+          "exam_name": "zaban_nobat2",
+          "text_only": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 70
+          },
+          "standard": {
+            "accuracy": 0.0,
+            "correct": 0,
+            "total": 70
+          }
+        }
+      ]
+    }
+  ]
+}

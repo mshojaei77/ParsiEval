@@ -1,0 +1,208 @@
+{
+    "questions": [
+        {
+            "id": 19,
+            "question": "...................... abbia sempre piovuto, non ho passato una brutta vacanza.\n1) Anche\n2) Dacché\n3) Anche se\n4) Quantunque",
+            "choices": [
+                "1) Anche",
+                "2) Dacché",
+                "3) Anche se",
+                "4) Quantunque"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Il carnevale è una festa in cui ci si veste ...................... particolari e per arrivare poi al tempo di ...................... .\n1) abiti - farsa\n2) costumi - disdetto\n3) costumi - digiuno\n4) parrucca - lusinghe",
+            "choices": [
+                "1) abiti - farsa",
+                "2) costumi - disdetto",
+                "3) costumi - digiuno",
+                "4) parrucca - lusinghe"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 21,
+            "question": "Come mi ha racconto lui non aprì ...................... non l'ebbe riconosciuto.\n1) finché\n2) affinché\n3) anche se\n4) allo scopo che",
+            "choices": [
+                "1) finché",
+                "2) affinché",
+                "3) anche se",
+                "4) allo scopo che"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 22,
+            "question": "Questa studentessa per il presente semestre ...................... ancora gli studi in Italia e la prossima primavera ritorna al suo paese.\n1) conclude\n2) continua\n3) finisce\n4) cessa",
+            "choices": [
+                "1) conclude",
+                "2) continua",
+                "3) finisce",
+                "4) cessa"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Questo atto viene ...................... tra le parti e ...................... dei figli minorenni è a carico della madre.\n1) regolato - mantenere\n2) scaduto - l'affidamento\n3) stipulato - l'affidamento\n4) avvisato - l'andamento",
+            "choices": [
+                "1) regolato - mantenere",
+                "2) scaduto - l'affidamento",
+                "3) stipulato - l'affidamento",
+                "4) avvisato - l'andamento"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "Una persona intelligente deve leggere tra le righe perché per andare oltre ai limiti bisogna ...................... .\n1) parlare chiaramente senza giri di parole\n2) intuire ciò che non è detto o scritto espressamente\n3) agire apertamente senza nascondere le proprie intenzioni\n4) poter pretendere da qualcuno risultati superiori alle sue possibilità",
+            "choices": [
+                "1) parlare chiaramente senza giri di parole",
+                "2) intuire ciò che non è detto o scritto espressamente",
+                "3) agire apertamente senza nascondere le proprie intenzioni",
+                "4) poter pretendere da qualcuno risultati superiori alle sue possibilità"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "Come consigliato, si deve leggere ...................... per ...................... la mente.\n1) quotidiani - almanaccare\n2) giornali - arzigogolare\n3) quotidiani - esercitare\n4) scaffali - manipolare",
+            "choices": [
+                "1) quotidiani - almanaccare",
+                "2) giornali - arzigogolare",
+                "3) quotidiani - esercitare",
+                "4) scaffali - manipolare"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "...................... una assistente per esercitare l'italiano in cambio di una camera in una famiglia tedesca.\n1) vendesi\n2) in cerca\n3) trovasi\n4) cercasi",
+            "choices": [
+                "1) vendesi",
+                "2) in cerca",
+                "3) trovasi",
+                "4) cercasi"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "La consorte ...................... ad ogni suo diritto in cambio dell'affidamento dei figli.\n1) ha rinunciato\n2) ha straniato\n3) ha accettato\n4) ha lasciato",
+            "choices": [
+                "1) ha rinunciato",
+                "2) ha straniato",
+                "3) ha accettato",
+                "4) ha lasciato"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "La polizia non è riuscita a ...................... nessun indizio dopo la vicenda di cui ti ho parlato.\n1) inviare\n2) reperire\n3) avvertire\n4) formulare",
+            "choices": [
+                "1) inviare",
+                "2) reperire",
+                "3) avvertire",
+                "4) formulare"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "Nel calcolo delle probabilità il fattore ...................... è sinonimo di casuale o stocastico.\n1) sublime\n2) perentorio\n3) divisore\n4) aleatorio",
+            "choices": [
+                "1) sublime",
+                "2) perentorio",
+                "3) divisore",
+                "4) aleatorio"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "Quale risposta è sinonimo della parte sottolineata?\nCiò premesso, ci troviamo di fronte a proposte insufficienti, ciniche ed ipocrite.\n1) detto ciò\n2) al contrario\n3) malgrado tale fatto\n4) col permesso",
+            "choices": [
+                "1) detto ciò",
+                "2) al contrario",
+                "3) malgrado tale fatto",
+                "4) col permesso"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "A causa di problemi di salute ha richiesto un mese di ...................... al dipartimento.\n1) distacco\n2) congedo\n3) pausa\n4) ripresa",
+            "choices": [
+                "1) distacco",
+                "2) congedo",
+                "3) pausa",
+                "4) ripresa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "...................... quello buono a ...................... che non poteva neppure risolvere i suoi problemi?\n1) hai presente - tutto\n2) hai ricordato - tutto\n3) hai presente - nulla\n4) ti memorizzi - nulla",
+            "choices": [
+                "1) hai presente - tutto",
+                "2) hai ricordato - tutto",
+                "3) hai presente - nulla",
+                "4) ti memorizzi - nulla"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Maria vide Luca e gli si sedette ...................... .\n1) da fianco\n2) fianco\n3) affianco\n4) a fianco",
+            "choices": [
+                "1) da fianco",
+                "2) fianco",
+                "3) affianco",
+                "4) a fianco"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "...................... dei prigionieri risuonavano nel prigione.\n1) Le grida\n2) Le gride\n3) I gridi\n4) I grida",
+            "choices": [
+                "1) Le grida",
+                "2) Le gride",
+                "3) I gridi",
+                "4) I grida"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "Ci sono diversi ...................... in cui si coltivano ...................... come riso.\n1) fabbriche - piatti\n2) prati - alimenti\n3) terreni - pietanze\n4) fattorie - ricette",
+            "choices": [
+                "1) fabbriche - piatti",
+                "2) prati - alimenti",
+                "3) terreni - pietanze",
+                "4) fattorie - ricette"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

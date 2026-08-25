@@ -1,0 +1,244 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Son père s'endormait toujours pendant les .................... de piano.",
+            "choices": [
+                "1) récitale",
+                "2) récitales",
+                "3) récitals",
+                "4) récitaux"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Suzanne travaille très bien, elle est la .................... de sa classe.",
+            "choices": [
+                "1) premier",
+                "2) première",
+                "3) premières",
+                "4) premiers"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Cet exercice de grammaire, .................... est maintenant terminé.",
+            "choices": [
+                "1) il",
+                "2) elle",
+                "3) lui",
+                "4) on"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Julien vit .................... Russie depuis 2019.",
+            "choices": [
+                "1) à la",
+                "2) la",
+                "3) au",
+                "4) en"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Il ne faudrait pas que vous .................... votre passeport.",
+            "choices": [
+                "1) oubliez",
+                "2) oubliiez",
+                "3) oublieriez",
+                "4) oublierez"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Nous ferons une fête quand mes parents .................... en voyage.",
+            "choices": [
+                "1) seront partis",
+                "2) partirons",
+                "3) partent",
+                "4) partaient"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "Hier, je chargeais mon portable, quand soudain, le voyant de l'alimentation .....................",
+            "choices": [
+                "1) s'éteignait",
+                "2) s'éteint",
+                "3) s'éteignera",
+                "4) s'est éteint"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "Si j'étais à ta place, .................... de travailler pour un patron harceleur.",
+            "choices": [
+                "1) j'arrêtais",
+                "2) j'arrêterai",
+                "3) j'arrêterais",
+                "4) j'arrête"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Elle parle d'un voyage .................... je ne me souviens absolument pas.",
+            "choices": [
+                "1) où",
+                "2) dont",
+                "3) qui",
+                "4) que"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "Quand on a une douleur vive dans la poitrine, on doit .................... consulter un médecin.",
+            "choices": [
+                "1) brutalement",
+                "2) violemment",
+                "3) gentiment",
+                "4) immédiatement"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Je n'ai pas d'idée, mais si tu as une .................... solution, je t'écoute.",
+            "choices": [
+                "1) meilleur",
+                "2) mieux",
+                "3) meilleure",
+                "4) bien"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "N'oublie pas que ce soir nous allons au cinéma, il faut .................... être de bonne heure.",
+            "choices": [
+                "1) y",
+                "2) en",
+                "3) l'",
+                "4) lui"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Les dégâts qu'a .................... la tempête s'élèvent à plusieurs milliers de dollars.",
+            "choices": [
+                "1) causé",
+                "2) causées",
+                "3) causer",
+                "4) causés"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Vous prenez vos vacances l'été, eux, ils prennent .................... l'hiver.",
+            "choices": [
+                "1) leurs",
+                "2) la leur",
+                "3) les leurs",
+                "4) le leur"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Tu as mis cette robe en soie que je .................... pour ton anniversaire.",
+            "choices": [
+                "1) t'avais offerte",
+                "2) t'offre",
+                "3) t'offrirai",
+                "4) t'ai offert"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Le médecin .................... le pouls afin de connaître la rapidité du battement de cœur.",
+            "choices": [
+                "1) utilise",
+                "2) tâte",
+                "3) situe",
+                "4) ressent"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Il est obligatoire de se marier .................... en France.",
+            "choices": [
+                "1) à la mairie",
+                "2) à la préfecture",
+                "3) au commissariat",
+                "4) à la poste"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "La rentrée des .................... aura lieu le 2 septembre à Paris.",
+            "choices": [
+                "1) séminaires",
+                "2) classes",
+                "3) leçons",
+                "4) cours"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Malheureusement, leur maison a brûlé dans une incendie; ils vivent pour le moment dans .................... de leur jardin.",
+            "choices": [
+                "1) le couvent",
+                "2) le bungalow",
+                "3) le pavillon",
+                "4) la cabane"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Yannick est africain, il a des cheveux .....................",
+            "choices": [
+                "1) fins",
+                "2) raides",
+                "3) frisés",
+                "4) souples"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

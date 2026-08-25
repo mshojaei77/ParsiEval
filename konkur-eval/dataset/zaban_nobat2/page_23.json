@@ -1,0 +1,88 @@
+{
+    "questions": [
+        {
+            "id": 39,
+            "question": "Alice: pourrais-je encaisser ce chèque?\nEmployé: C'est à votre nom?\nAlice: Oui, je voudrais de grosses coupures.\nEmployé: Très bien. Il me faut votre carte d'identité et votre adresse s'il vous plaît.\nAlice: Voici ma carte et j' habite 20 rue de Lille, à Paris.\nEmployé: C'est bien, vous êtes en règle.\n1) Alice souhaiterait changer un chèque de voyage.\n2) Alice aimerait changer de l'argent.\n3) Alice voudrait encaisser un chèque.\n4) Alice n'a pas ses papiers.",
+            "choices": [
+                "Alice souhaiterait changer un chèque de voyage.",
+                "Alice aimerait changer de l'argent.",
+                "Alice voudrait encaisser un chèque.",
+                "Alice n'a pas ses papiers."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Marc: Je vais prendre la formule à 15 euros.\nServeur: Oui, comme entrée?\nMarc: La salade au fromage.\nServeur: Oui, et comme plat?\nMarc: Le plat du jour, qu'est-ce que c'est?\nServeur: Le saumon grillé ou le steak frites.\nMarc: Je vais prendre le steak.\nServeur: Comme dessert, il y a le fondant au chocolat ou la tarte tatain.\nMarc: Je prendrais la tarte tatain.\nServeur: Vous prenez une boisson?\nMarc: Une carafe d'eau, s'il vous plaît.\n\n1) Le client choisit le menu.\n3) Le client ne prend pas de boisson.\n2) Le plat de jour est la pizza.\n4) La cliente prend la formule à 15 euros.",
+            "choices": [
+                "Le client choisit le menu.",
+                "Le plat de jour est la pizza.",
+                "Le client ne prend pas de boisson.",
+                "La cliente prend la formule à 15 euros."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "match – arrivée – au – club – ce – joueur – a – depuis – son – réalisé – meilleur – son\n1) A réalisé son meilleur match ce joueur depuis son arrivée au club.\n2) Depuis son arrivée au club ce joueur a réalisé son meilleur match.\n3) Ce joueur depuis son arrivée au club a réalisé son meilleur match.\n4) Son meilleur match a réalisé ce joueur depuis son arrivée au club.",
+            "choices": [
+                "A réalisé son meilleur match ce joueur depuis son arrivée au club.",
+                "Depuis son arrivée au club ce joueur a réalisé son meilleur match.",
+                "Ce joueur depuis son arrivée au club a réalisé son meilleur match.",
+                "Son meilleur match a réalisé ce joueur depuis son arrivée au club."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "est – Helene – Paul – la – de – sœur\n1) La sœur de Paul Hélène est.\n2) Est Hélène la sœur de Paul.\n3) Hélène est la sœur de Paul.\n4) Hélène la sœur est de Paul.",
+            "choices": [
+                "La sœur de Paul Hélène est.",
+                "Est Hélène la sœur de Paul.",
+                "Hélène est la sœur de Paul.",
+                "Hélène la sœur est de Paul."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "enfants-jouent-dans-pré-les-trois-le\n1) Les trois enfants jouent dans le pré.\n2) Jouent dans le pré les trois enfants.\n3) Dans le pré jouent les trois enfants.\n4) Les trois enfants dans le pré jouent.",
+            "choices": [
+                "Les trois enfants jouent dans le pré.",
+                "Jouent dans le pré les trois enfants.",
+                "Dans le pré jouent les trois enfants.",
+                "Les trois enfants dans le pré jouent."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "mon – livre – jaunies – sont – les – de – pages – le – temps – par\n1) Jaunies par le temps les pages de mon livre sont.\n2) Les pages de mon livre sont jaunies par le temps.\n3) Sont jaunies par le temps les pages de mon livre.\n4) Par le temps sont jaunies les pages de mon livre.",
+            "choices": [
+                "Jaunies par le temps les pages de mon livre sont.",
+                "Les pages de mon livre sont jaunies par le temps.",
+                "Sont jaunies par le temps les pages de mon livre.",
+                "Par le temps sont jaunies les pages de mon livre."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "la – pourquoi – bleue – est-elle – mer?\n1) La mer pourquoi est-elle bleue?\n2) Pourquoi bleue est-elle la mer?\n3) Bleue la mer est-elle pourquoi?\n4) Pourquoi la mer est-elle bleue?",
+            "choices": [
+                "La mer pourquoi est-elle bleue?",
+                "Pourquoi bleue est-elle la mer?",
+                "Bleue la mer est-elle pourquoi?",
+                "Pourquoi la mer est-elle bleue?"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

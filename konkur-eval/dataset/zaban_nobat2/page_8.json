@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "The underlined word \"its\" in paragraph 1 refers to ...............",
+            "choices": [
+                "surface",
+                "century",
+                "the Pacific",
+                "the world"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "The underlined word \"vastness\" in paragraph 1 is closest in meaning to ...............",
+            "choices": [
+                "length",
+                "greatness",
+                "history",
+                "climate"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "According to paragraph 2, which of the following shows the correct chronological order of events?",
+            "choices": [
+                "The sailing of three ships under Magellan's command before Balboa's death",
+                "The Mariana Islands taking their current name before Magellan's death",
+                "Magellan reaching the Mariana Islands after Balboa's death",
+                "Balboa's birth after the Ladrones islands taking their name"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "All of the following words are mentioned in the passage EXCEPT ...............",
+            "choices": [
+                "coast",
+                "Hawaii",
+                "Panama",
+                "thievery"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "According to the passage, which of the following statements is true?",
+            "choices": [
+                "Pacific Islanders employed their knowledge of oceanography to export food to South America.",
+                "On his way to the Mariana Islands, Magellan sailed past three islets, which had no native residents.",
+                "Voyagers from the Indonesian islands never set foot into the central Pacific before the 16th century.",
+                "Balboa and Magellan named the Pacific Ocean and the Ladrones islands respectively."
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

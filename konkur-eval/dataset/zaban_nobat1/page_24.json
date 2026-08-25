@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "Quelle est la maladie de Pascal?",
+            "choices": [
+                "L'anxiété",
+                "La grippe",
+                "La migraine",
+                "Le rhume"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Vendeuse: Bonjour Madame. Comment puis-je vous aider?\nCliente: Bonjour, je voudrais acheter une robe.\nVendeuse: ..................................\nCliente: J'aimerais trouver une robe simple, peut-être de la soie?\nVendeuse: De quelle couleur?\nCliente: À motifs blancs ou multicolore avec des fleurs.\n1) Que prenez-vous?\n3) Comment la trouvez-vous?\n2) Combien coûte-elle?\n4) Quel genre de robe désirez-vous?",
+            "choices": [
+                "Que prenez-vous?",
+                "Combien coûte-elle?",
+                "Comment la trouvez-vous?",
+                "Quel genre de robe désirez-vous?"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "Voyageur: Bonjour Monsieur, je voudrais un aller simple pour Nice s'il vous plaît pour cet après midi?\nEmployé: Il y a un train à 16h10 et un autre à 17h5.\nVoyageur: celui de 17h5 s'il vous plaît.\nEmployé: ça fait 83 euros.\nVoyageur: Voilà.\nEmployé: Bon voyage!\n1) Le billet coûte 80 euros.\n3) C'est un billet pour Paris.\n2) Le voyageur part pour Nice.\n4) Le voyageur prend le train de 16h10.",
+            "choices": [
+                "Le billet coûte 80 euros.",
+                "Le voyageur part pour Nice.",
+                "C'est un billet pour Paris.",
+                "Le voyageur prend le train de 16h10."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "Marc: Bonjour Monsieur, je souhaiterais ouvrir un compte, pourriez-vous me renseigner?\nEmployé: Vous devez prendre rendez-vous avec un conseiller et venir avec une pièce d'identité et un justificatif de domicile.\nMarc: Ah oui, pas de problème. J'aimerais pouvoir consulter mes comptes sur Internet, c’est possible?\nEmployé: Bien sûr, en vous connectant sur notre site, vous aurez un code pour ça.\n\n1) Marc a besoin d'un justificatif de domicile pour ouvrir un compte à la banque.\n2) Il faut une autorisation de la préfecture pour ouvrir un compte bancaire.\n3) Marc pourrait ouvrir un compte bancaire sur Internet.\n4) Marc peut ouvrir un compte tout de suite.",
+            "choices": [
+                "Marc a besoin d'un justificatif de domicile pour ouvrir un compte à la banque.",
+                "Il faut une autorisation de la préfecture pour ouvrir un compte bancaire.",
+                "Marc pourrait ouvrir un compte bancaire sur Internet.",
+                "Marc peut ouvrir un compte tout de suite."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "Serveur: Bonjour, une table pour deux?\nClient: Oui, nous sommes deux.\nServeur: Très bien, installez-vous. Voici le menu. Vous avez choisi?\nClient: Oui, on prendra une terrine campagnarde.\nServeur: Oui, et en plat principal?\nClient: Des steaks frites bien cuites.\nQu'est-ce que le client prend comme plat principal?",
+            "choices": [
+                "Le saumon",
+                "Le steak frites",
+                "Le poulet frites",
+                "La pizza"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

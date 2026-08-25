@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "id": 68,
+            "question": "According to the passage, which of the following statements is true?",
+            "choices": [
+                "The works of English Renaissance writers, such as Shakespeare and Wyatt, generally circulated in manuscripts prior to their publication, with drama emerging as a particularly significant legacy of this era.",
+                "England enjoyed a rich legacy of Latin literary production, a tradition that flourished increasingly with the advent of the printing press, which became prevalent by the mid-16th century.",
+                "The English Renaissance commenced significantly later than its Italian counterpart, and then transitioned into Mannerism and Baroque styles by about the 1550s, ultimately reaching its conclusion in the 17th century.",
+                "There exists a broad scholarly consensus that Italian masters such as Michelangelo and Donatello exerted a profound and transformative influence on their English counterparts during the Renaissance."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Which of the following statements can best be inferred from the passage?",
+            "choices": [
+                "Jacob Burckhardt was a prominent historian during the Renaissance period renowned for his scholarship, particularly his popularization of the term \"Renaissance\" in the 19th century.",
+                "Scholars contend that the inception of the Renaissance first in Italy is intrinsically linked to the nation's longer monarchic tradition in comparison to other European nations.",
+                "The verse epic The Faerie Queene, penned by Edmund Spenser, exerted a profound influence on subsequent literary works and stood as the most popular literary masterpiece of the Renaissance period.",
+                "The so-called \"Renaissance\" emerged as a general phenomenon, manifesting itself through various forms of artistic expressions across Europe—for instance in Italy and England sometime from the 14th to 17th centuries."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "In which position marked by [1], [2], [3] or [4], can the following sentence best be inserted in the passage?\nLike most of northern Europe, England saw little of these developments until more than a century later.",
+            "choices": [
+                "[1]",
+                "[2]",
+                "[3]",
+                "[4]"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

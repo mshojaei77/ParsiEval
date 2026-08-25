@@ -1,0 +1,172 @@
+{
+    "questions": [
+        {
+            "id": 22,
+            "question": "The minimum .................... that should be required of individuals offering investment counsel services to the public have recently been announced.",
+            "choices": [
+                "portions",
+                "wages",
+                "installments",
+                "qualifications"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 23,
+            "question": "Slave-owners worked their slaves hard, demanded complete .................... from them, and disciplined those who ignored their owners' orders.",
+            "choices": [
+                "exchange",
+                "destiny",
+                "obedience",
+                "dominance"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 24,
+            "question": "The hardwood floors in our house are badly .................... in several places because my children pushed and pulled the heavy furniture as they were playing.",
+            "choices": [
+                "paved",
+                "scratched",
+                "constructed",
+                "evaporated"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 25,
+            "question": "If the territorial .................... of this country is threatened, we will certainly use all the means at our disposal to protect it.",
+            "choices": [
+                "integrity",
+                "dispute",
+                "commonplace",
+                "shelter"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 26,
+            "question": "Don't let a/an .................... matter like applesauce grow a millimeter larger than it has to. Be diplomatic and ask your father to order both varieties.",
+            "choices": [
+                "trifling",
+                "detailed",
+                "disinterested",
+                "unconcerned"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 27,
+            "question": "Though not many citizens would openly sympathize with their motives or methods, the courage of the rebels has won .................... admiration at all levels in Britain.",
+            "choices": [
+                "protruding",
+                "sorted",
+                "invisible",
+                "sneaking"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 28,
+            "question": "The age of the automobile and the truck have put this historic crossroad city between East and West into an almost .................... traffic jam.",
+            "choices": [
+                "retrospective",
+                "submissive",
+                "permanent",
+                "pedantic"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 29,
+            "question": "After they .................... into a new policy without thinking it through, the U.N. officials tried to rationalize it in vain.",
+            "choices": [
+                "apprehended",
+                "burgeoned",
+                "exacerbated",
+                "blundered"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 30,
+            "question": "As Australian officials planned to cut Medicare by at least $250 billion as part of their proposal to balance the budget by the year 2024, social activists in healthcare .................... alarm.",
+            "choices": [
+                "registered",
+                "documented",
+                "validated",
+                "inscribed"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 31,
+            "question": "Her stubborn .................... may be one reason for her entrance into the New York City Marathon. Not everyone believes it's wise for her to run so soon after that terrible accident.",
+            "choices": [
+                "strike",
+                "streak",
+                "stripe",
+                "staple"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 32,
+            "question": "In many cases, the statute does not say precisely what agencies should do, giving them considerable ...................., in interpreting the law and developing regulations.",
+            "choices": [
+                "latitude",
+                "remuneration",
+                "blandishment",
+                "conflation"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 33,
+            "question": "Political analysts said that it reflected the .................... nature of this rebellion—that is, it was not a well-formed coup but a protest without a plan or internal organization.",
+            "choices": [
+                "facetious",
+                "inchoate",
+                "peremptory",
+                "panegyric"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "If you stay up late at night, you may fall into a loop of ....................—or repetitive intrusive thoughts with no satisfactory outcome.",
+            "choices": [
+                "circumlocution",
+                "insomnia",
+                "rumination",
+                "debacle"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 35,
+            "question": "His account of the siege of Jericho is completely .................... by his apparent ignorance of the British excavations of a decade ago which proved that the so-called \"walls of Jericho\" are actually a thousand years older than the time of Joshua.",
+            "choices": [
+                "corroborated",
+                "stratified",
+                "exculpated",
+                "vitiated"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

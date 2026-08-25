@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "id": 10,
+            "question": "In vieler Hinsicht konntest du ihm ..................., nur diesbezüglich nicht?\n1) geholfen sein\n2) geholfen haben\n3) zu helfen sein\n4) zu helfen zu haben",
+            "choices": [
+                "geholfen sein",
+                "geholfen haben",
+                "zu helfen sein",
+                "zu helfen zu haben"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "................... liegt ein solcher Sinn, dass wir uns ausgerechnet heute begegnen!\n1) Darüber\n2) Dabei\n3) Dazu\n4) Darin",
+            "choices": [
+                "Darüber",
+                "Dabei",
+                "Dazu",
+                "Darin"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 12,
+            "question": "Kausale Zusammenhänge im Kontext zu verstehen, ist in der Regel nicht so schwer, ...................\n1) denn einige Gründe können in demselben Text erwähnt werden\n2) obwohl einige Gründe in demselben Text erwähnt werden können\n3) während einige Gründe in demselben Text erwähnt werden können\n4) trotzdem können einige Gründe in demselben Text erwähnt werden",
+            "choices": [
+                "denn einige Gründe können in demselben Text erwähnt werden",
+                "obwohl einige Gründe in demselben Text erwähnt werden können",
+                "während einige Gründe in demselben Text erwähnt werden können",
+                "trotzdem können einige Gründe in demselben Text erwähnt werden"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 13,
+            "question": "Welcher Haupt-und Nebensatz ist im Konjunktiv II?\n1) Wenn man bedenken würde, könnte man sehr leicht den Grund dieses Ereignisses feststellen.\n2) Wenn man bedenke, könnte man sehr leicht den Grund dieses Ereignisses feststellen.\n3) Wenn man bedenke, könne man sehr leicht den Grund dieses Ereignisses feststellen.\n4) Wenn man bedachte, könne man sehr leicht den Grund dieses Ereignisses feststellen.",
+            "choices": [
+                "Wenn man bedenken würde, könnte man sehr leicht den Grund dieses Ereignisses feststellen.",
+                "Wenn man bedenke, könnte man sehr leicht den Grund dieses Ereignisses feststellen.",
+                "Wenn man bedenke, könne man sehr leicht den Grund dieses Ereignisses feststellen.",
+                "Wenn man bedachte, könne man sehr leicht den Grund dieses Ereignisses feststellen."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 14,
+            "question": "Könnten Sie bitte ................... dieser Schriftstellerin buchstabieren?\n1) den vollständigen Name\n2) dem vollständige Name\n3) den vollständigen Namen\n4) dem vollständigen Namen",
+            "choices": [
+                "den vollständigen Name",
+                "dem vollständige Name",
+                "den vollständigen Namen",
+                "dem vollständigen Namen"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 15,
+            "question": "Jenes Krankenhaus, von dem du sprichst, ist längst evakuiert worden. Weit und breit sieht man dort ...................\n1) kein Patient\n2) keinen Patient\n3) kein Patienten\n4) keinen Patienten",
+            "choices": [
+                "kein Patient",
+                "keinen Patient",
+                "kein Patienten",
+                "keinen Patienten"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 16,
+            "question": "Sieh da! Was für eine tolle Überraschung! Das ................... deiner Kindheit steht da!\nWillst du nicht zu ihm gehen?\n1) Tort\n2) Idol\n3) Sinnbild\n4) Individuum",
+            "choices": [
+                "Tort",
+                "Idol",
+                "Sinnbild",
+                "Individuum"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 17,
+            "question": "Seit sieben Stunden ist das Flugzeug überfällig. Länger kann man nicht im Flughafen ...................\n1) warten\n2) landen\n3) aussitzen\n4) absagen",
+            "choices": [
+                "warten",
+                "landen",
+                "aussitzen",
+                "absagen"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 18,
+            "question": "................... lassen wir diesmal die Karten verkehrt mischen. So können wir auch endlich mal wieder etwas Spaß haben!\n1) Abwendungshalber\n2) Ablenkungshalber\n3) Abweichungshalber\n4) Abwechslungshalber",
+            "choices": [
+                "Abwendungshalber",
+                "Ablenkungshalber",
+                "Abweichungshalber",
+                "Abwechslungshalber"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 19,
+            "question": "Die ................... Auseinandersetzung mit dem Thema ist kein gutes Zeichen für die aktuelle Lage der Wissenschaft hierzulande.\n1) mangelhafte\n2) turbulente\n3) makellose\n4) markante",
+            "choices": [
+                "mangelhafte",
+                "turbulente",
+                "makellose",
+                "markante"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 20,
+            "question": "Welche Wortgruppe passt nicht zusammen?\n1) großzügig – freigebig – gebefreudig\n2) liederlich – nachlässig – ungenau\n3) betroffen – betrübt – betrogen\n4) spontan – impulsiv – unüberlegt",
+            "choices": [
+                "großzügig – freigebig – gebefreudig",
+                "liederlich – nachlässig – ungenau",
+                "betroffen – betrübt – betrogen",
+                "spontan – impulsiv – unüberlegt"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

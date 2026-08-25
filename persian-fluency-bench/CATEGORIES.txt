@@ -1,0 +1,27 @@
+Persian Fluency Bench: Goals and Purposes
+
+Persian Fluency Bench measures linguistic fluency in Modern Native Persian (Farsi). It evaluates how convincingly a model communicates like a real Iranian across the two registers that matter in daily life, spanning 10 everyday domains that people most often need help with:
+
+1. Health & Medical
+2. Education & Learning
+3. Shopping & E-commerce
+4. Travel & Tourism
+5. Banking & Finance
+6. Food & Restaurants / Cooking
+7. Technology & Internet
+8. Career & Workplace
+9. Transportation & Cars
+10. Sports & Entertainment
+
+Every domain is covered in both tracks: casual cases (chats, talking, replying) and formal cases (writing books, articles, letters).
+
+1. Casual Register (chats, talking, replying)
+- Goal: Assess whether the model speaks like a real native in everyday conversation: natural Tehrani colloquial Persian (mahavireh), correct colloquial grammar, idioms, Taarof politeness, warmth, humor, and human hesitations/fillers.
+- Purpose: In real chats, voice replies, and spoken interactions, users instantly detect robotic or machine-translated Persian and disengage. Formal (ketabi) phrasing in a casual chat breaks rapport immediately. This track verifies the model sounds like a competent native speaker, not a textbook or a translation engine.
+
+2. Formal Register (writing books, articles, letters)
+- Goal: Assess whether the model can write eloquent standard written Persian (fasih-e ma'yar): precise grammar, coherent structure, literary elegance, and appropriate official/literary tone for books, articles, formal letters, and business correspondence.
+- Purpose: Professional writing demands the opposite register from chat. A model that answers everything in slang fails at work; one that writes everything stiffly fails at conversation. This track verifies command of elevated written Persian without translationese.
+
+Why register awareness matters:
+The true test of native fluency is switching registers correctly. Each benchmark case declares its expected register, and responses are scored on register appropriateness alongside grammar, idiomatic quality, conciseness, politeness, naturalness, instruction following, context retention, and safety. A top-performing model must nail both registers - warm mahavireh when chatting, polished fasih when writing - with zero translationese and zero AI self-references.

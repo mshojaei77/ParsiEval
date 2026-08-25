@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "id": 65,
+            "question": "According to the passage, which of the following statements is NOT true?",
+            "choices": [
+                "Data on temperature gathered from weather stations assist scientists in determining the global average annual temperature at the Earth's surface.",
+                "Frequently confused with weather, climate is better defined as the underlying conditions that lead to weather patterns.",
+                "Climate is characterized by continuous fluctuations in what may be called geological history, i.e., particularly short intervals.",
+                "Scientists track alterations in climate by measuring average temperatures and analyzing their fluctuation over time."
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Writing a research paper is generally \n......................... difficult as teaching at university; that is, their levels of difficulty are similar.",
+            "choices": [
+                "enough",
+                "too",
+                "such",
+                "as"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "Whenever I cannot understand the meaning of a word, I look it ......................... in a dictionary so that I can understand what the book is saying.",
+            "choices": [
+                "down",
+                "after",
+                "for",
+                "up"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "To know his perspective on time ......................... during the pandemic, and what we can do about it, I spoke to Tim Urban, the author of the blog “Wait But Why.\"",
+            "choices": [
+                "lost",
+                "are lost",
+                "to lose",
+                "which loses"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "After their meeting, they became closer friends and he thought he could talk ......................... about his problems to his friend.",
+            "choices": [
+                "little",
+                "a little",
+                "several",
+                "any"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "This is the process ......................... the seller can be sure that the Bitcoins he or she is receiving are real.",
+            "choices": [
+                "by which",
+                "by that",
+                "that",
+                "for it"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "New Year holidays are in just a few weeks and I look forward ......................... time with family.",
+            "choices": [
+                "that spending",
+                "to spending",
+                "to spend",
+                "for to spend"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": "......................... for the villagers who rallied to save it, the lighthouse would have been auctioned off decades ago.\n\n\n\n\n\n",
+            "choices": [
+                "Whether or not was",
+                "If there wasn’t",
+                "Were it not",
+                "Given that"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": "You always need cash flow to stay in business, ......................... you often hear the phrase “cash is king.\"",
+            "choices": [
+                "because that",
+                "that is due to",
+                "as for what",
+                "which is why"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "They prefer depositing their money in a single account ......................... it in several different ones.",
+            "choices": [
+                "than putting",
+                "and to put",
+                "to putting",
+                "that put"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 10,
+            "question": "She won’t stop talking about conspiracy theories, ......................... my attempts to explain that they are false and dangerous.",
+            "choices": [
+                "despite",
+                "though",
+                "in spite",
+                "contrary"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 11,
+            "question": "Each member contributes original musical compositions to the group, ......................... their friend and mentor, Mr. Coleman.",
+            "choices": [
+                "has so",
+                "as does",
+                "as do",
+                "have done so"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

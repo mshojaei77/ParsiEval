@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "id": 61,
+            "question": "According to paragraph 1, heat-trapping greenhouse gases resulting from human activities contributed to all of the following EXCEPT ............ .\n1) sea level changes\n2) an increase in global warming\n3) destruction of animals' environments\n4) an increase in energy consumption",
+            "choices": [
+                "sea level changes",
+                "an increase in global warming",
+                "destruction of animals' environments",
+                "an increase in energy consumption"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 62,
+            "question": "Which of the following pairs of techniques is used in paragraph 2?\n1) Comparison and Exemplification\n2) Exemplification and Statistics\n3) Rhetorical question and Comparison\n4) Statistics and Rhetorical question",
+            "choices": [
+                "Comparison and Exemplification",
+                "Exemplification and Statistics",
+                "Rhetorical question and Comparison",
+                "Statistics and Rhetorical question"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 63,
+            "question": "According to paragraph 3, which of the following best describes the writer's opinion about the possibility of estimating the Earth's temperature belonging to centuries ago?\n1) Indifference\n2) Disagreement\n3) Skepticism\n4) Agreement",
+            "choices": [
+                "Indifference",
+                "Disagreement",
+                "Skepticism",
+                "Agreement"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 64,
+            "question": "The passage provides sufficient information to answer which of the following questions?\nI. What technological development took place in the 1880s, resulting in the establishment of weather stations around the world?\nII. What are the names of some greenhouse gases that trap heat, with adverse ecological consequences?\nIII. Are climatic conditions in any discernible way influenced by the properties of the atmosphere?\n1) Only I\n2) Only III\n3) I and II\n4) II and III",
+            "choices": [
+                "Only I",
+                "Only III",
+                "I and II",
+                "II and III"
+            ],
+            "answer_key": 2,
+            "figure": null
+        }
+    ]
+}

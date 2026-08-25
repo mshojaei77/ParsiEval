@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "اگر مجموع ۹ جمله اول یک دنباله هندسی با قدر نسبت صحیح ۷۳ برابر مجموع ۳ جمله اول آن باشد، جمله سوم این دنباله چند برابر جمله اول آن است؟",
+            "choices": [
+                "۳",
+                "۴",
+                "۸",
+                "۹"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": "اگر $\\frac{10}{x^2+1} + x^2 = ۹$ باشد، مقدار $(x^2+1)^2 + \\frac{100}{(x^2+1)^2}$ کدام است؟",
+            "choices": [
+                "۹۸",
+                "۹۰",
+                "۸۸",
+                "۸۰"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "A و B دو زیر مجموعه از مجموعه مرجع U هستند. اگر $A \\cup B' \\subseteq A \\cap B$ باشد، کدام مورد همواره برقرار است؟",
+            "choices": [
+                "$B = U$",
+                "$A = U$",
+                "$B = A$",
+                "$A = \\emptyset$"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "گزاره $\\neg p \\Leftrightarrow q$ هم ارز منطقی کدام گزاره است؟",
+            "choices": [
+                "$\\neg (p \\lor q) \\land (\\neg p \\land q)$",
+                "$\\neg [\\neg (\\neg p \\lor q) \\lor (\\neg p \\land q)]$",
+                "$(\\neg p \\lor q) \\land (p \\lor q)$",
+                "$\\neg [\\neg (\\neg p \\land q) \\land (\\neg p \\lor q)]$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "اگر $\\alpha$ و $\\beta$ ریشه های معادله $x^2 - ۵x + ۲ = ۰$ باشند، مقدار $\\frac{۴\\alpha + \\beta^۵}{\\alpha^۲}$ کدام است؟",
+            "choices": [
+                "۲۱",
+                "۲۰",
+                "۱۹",
+                "۱۸"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "در مربع شکل زیر، $CD = ED$ و نقطه F وسط پاره خط BE قرار دارد. اگر $AF = ۵$ باشد، مساحت چهارضلعی ADEF کدام است؟",
+            "choices": [
+                "۱۰",
+                "۱۵",
+                "۲۰",
+                "۲۵"
+            ],
+            "answer_key": 2,
+            "figure": "figures/q6_fig.png"
+        }
+    ]
+}

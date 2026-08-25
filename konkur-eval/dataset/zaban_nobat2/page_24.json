@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 46,
+            "question": "Je suis présentement en congé ..........................(46) pour épuisement professionnel. Je suis trop",
+            "choices": [
+                "1) de maternité",
+                "2) obligatoire",
+                "3) de maladie",
+                "4) payé"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 47,
+            "question": "..........................(47), angoissée, j'ai une boule dans l'estomac, je tremble. J'ai peur ..........................(48) retourner au travail. J'ai peur que ça ne ..........................(49) jamais. Je suis perfectionniste, je n'aime pas ..........................(50) travaillent mal. Je suis très ..........................(51) envers moi et les autres. De plus, j'ai toujours peur de ce que les autres vont penser, comment vont-ils me percevoir?\nJe ne prends ..........................(52) médicament pour le moment. Je ne veux pas devenir dépendante de ces ..........................(53). Je dois seulement prendre soin de moi, me reposer. Comment se repose-t-on? Moi qui ..........................(54) habituée à mener une vie de front avec le mari et les enfants, je veux toujours que ma maison ..........................(55) impeccable, que tout soit parfait. Je me sens seule avec mes problèmes, pourquoi ça arrive à moi?\n47- 1) concentrée",
+            "choices": [
+                "1) concentrée",
+                "2) stressée",
+                "3) détendue",
+                "4) contente"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 48,
+            "question": "48- 1) par",
+            "choices": [
+                "1) par",
+                "2) pour",
+                "3) de",
+                "4) à"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 49,
+            "question": "49- 1) revienne",
+            "choices": [
+                "1) revienne",
+                "2) revenu",
+                "3) revenir",
+                "4) revient"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 50,
+            "question": "50- 1) celui-ci",
+            "choices": [
+                "1) celui-ci",
+                "2) ce qui",
+                "3) ceux-ci",
+                "4) ceux qui"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 51,
+            "question": "51- 1) exigeantes",
+            "choices": [
+                "1) exigeantes",
+                "2) exigeante",
+                "3) exigeant",
+                "4) exiger"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 52,
+            "question": "52- 1) jamais",
+            "choices": [
+                "1) jamais",
+                "2) plusieurs",
+                "3) aucun",
+                "4) chacun"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 53,
+            "question": "53- 1) substances",
+            "choices": [
+                "1) substances",
+                "2) mélanges",
+                "3) particules",
+                "4) éléments"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 54,
+            "question": "54- 1) sommes",
+            "choices": [
+                "1) sommes",
+                "2) est",
+                "3) ai",
+                "4) suis"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 55,
+            "question": "55- 1) serais",
+            "choices": [
+                "1) serais",
+                "2) soit",
+                "3) est",
+                "4) sera"
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

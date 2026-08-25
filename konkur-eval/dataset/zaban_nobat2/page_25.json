@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {
+            "id": 56,
+            "question": "Où s'est déroulé l'Olympiade cette année?",
+            "choices": [
+                "À Los Angeles",
+                "À Tokyo",
+                "À Paris",
+                "À Londres"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 57,
+            "question": "Qu'est-ce que les athlètes sont allés chercher à l'Olympiade?",
+            "choices": [
+                "Remporter une médaille et améliorer des performances",
+                "Rencontrer les autres Européens",
+                "Voyager à l'étranger",
+                "Gagner de l'argent"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 58,
+            "question": "Quelles activités culturelles peuvent faire les visiteurs en dehors des compétitions?",
+            "choices": [
+                "Aller au cinéma",
+                "Visiter les châteaux",
+                "Faire des interviews",
+                "Visiter les musées et goûter la cuisine"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 59,
+            "question": "Que célèbre-t-on pendant l'Olympiade?",
+            "choices": [
+                "La réussite de différents pays",
+                "La jeunesse et sa persévérance",
+                "Le talent, le travail acharné et l'esprit sportif",
+                "Le budget consacré aux entraînements des athlètes"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 60,
+            "question": "Comment les spectateurs montrent-ils leur soutien?",
+            "choices": [
+                "En participant aux activités sportives",
+                "En assistant aux différents matchs",
+                "En critiquant les athlètes",
+                "En animant les stades"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 61,
+            "question": "Daniel boîte à cause de .................... qui est enflée.",
+            "choices": [
+                "son orteil",
+                "son pied",
+                "sa main",
+                "sa tête"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

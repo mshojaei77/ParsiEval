@@ -1,0 +1,112 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Warum dachtet ihr, .................... man hier keine Ruhe hat? Hier ist ja alles still.",
+            "choices": [
+                "ob",
+                "dass",
+                "weil",
+                "wenn"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 2,
+            "question": ".................... die Gefahr besteht, dort muss man hingehen, um mit ihr konfrontiert zu werden.",
+            "choices": [
+                "Was",
+                "Worin",
+                "Wohin",
+                "Woher"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 3,
+            "question": "Die .................... Fortschritte des letzten Jahrhunderts finden wir im Bereich der objektiven bzw. empirischen Wissenschaften und der technischen Fächer.",
+            "choices": [
+                "prägnanteste",
+                "am prägnanteste",
+                "prägnantesten",
+                "am prägnantesten"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 4,
+            "question": "Dieses wiederholt in deinen Malereien auftretende Motiv, .................... bewusst bist, kenne ich leider noch nicht.",
+            "choices": [
+                "dessen du dir",
+                "dem du dich",
+                "dessen du dich",
+                "dem du dir"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 5,
+            "question": "Welcher Satz ist Zustandspassiv?\n1) Du bist krank geworden.\n2) Das Fenster ist geschlossen.\n3) Das Auto lässt sich reparieren.\n4) Die Tür darf nicht geschlossen werden.",
+            "choices": [
+                "Du bist krank geworden.",
+                "Das Fenster ist geschlossen.",
+                "Das Auto lässt sich reparieren.",
+                "Die Tür darf nicht geschlossen werden."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 6,
+            "question": "Zum einen muss er nach Hause gehen, zum anderen will er hier bleiben. Welche Entscheidung .................... er treffen?",
+            "choices": [
+                "will",
+                "mag",
+                "darf",
+                "soll"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 7,
+            "question": ".................... habe ich Italienisch gelernt.",
+            "choices": [
+                "Aufgrund eines Buches",
+                "Gemäß einem Buch",
+                "Anhand eines Buchs",
+                "An einem Buch"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 8,
+            "question": ".................... eines Unfalls kamen gestern Nacht zwei Menschen ums Leben.",
+            "choices": [
+                "Trotz",
+                "Kraft",
+                "Anhand",
+                "Während"
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 9,
+            "question": "Welche Passivform passt zu dem folgenden Satz?\nMan geht davon aus, dass die Räuber den Ort verlassen haben.\n1) Man wird davon ausgehen, dass der Ort der Räuber verlassen wird.\n2) Es wird davon ausgegangen, dass der Ort der Räuber verlassen wird.\n3) Es wird davon ausgegangen, dass die Räuber den Ort verlassen haben.\n4) Man muss davon ausgegangen werden, dass die Räuber den Ort verlassen haben.",
+            "choices": [
+                "Man wird davon ausgehen, dass der Ort der Räuber verlassen wird.",
+                "Es wird davon ausgegangen, dass der Ort der Räuber verlassen wird.",
+                "Es wird davon ausgegangen, dass die Räuber den Ort verlassen haben.",
+                "Man muss davon ausgegangen werden, dass die Räuber den Ort verlassen haben."
+            ],
+            "answer_key": 3,
+            "figure": null
+        }
+    ]
+}

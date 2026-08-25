@@ -1,0 +1,64 @@
+{
+    "questions": [
+        {
+            "id": 66,
+            "question": "Welche Option ist im Hinblick auf obigen Text zutreffend?",
+            "choices": [
+                "Die einzelnen europäischen Völker existieren nicht mehr.",
+                "Der kulturelle Reichtum Europas gehörte zur Vergangenheit.",
+                "Europa möchte sich zukünftig als eine Einheit in der Vielheit darstellen.",
+                "Nur die Deutschen, Franzosen, Polen, Schweden, Italiener, Spanier und weitere europäische Völker gelten heutzutage als Europäerinnen und Europäer."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 67,
+            "question": "Das Modell der Europäischen Union ...........................",
+            "choices": [
+                "präsentiert sich als ein Modell für eine ökonomisch äußerst erfolgreiche Integration von Vielfalt",
+                "präsentiert sich als ein Modell für eine historisch äußerst erfolgreiche Integration von Vielfalt",
+                "zeigt keinen weltoffenen, aber einen wirtschaftlich mächtigen Kontinent",
+                "ist keine potente wirtschaftliche und weltpolitische Macht"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 68,
+            "question": "Welche Option ist mit Blick auf obigen Text falsch?",
+            "choices": [
+                "Europa hat viele Gesichter.",
+                "Die negative Seite Europas lag lange im Schatten und musste erst entlarvt werden.",
+                "Obwohl das positive Gesicht Europas übertrieben dargestellt wird, hat es noch eine andere, eher negative Dimension.",
+                "Das Gleichgewicht der positiven und negativen Seiten Europas lässt uns keine verborgenen Facetten übrigbleiben."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 69,
+            "question": "Die Zuwanderer werden in Europa ...........................",
+            "choices": [
+                "immer gut toleriert",
+                "idealistisch integriert",
+                "(oft) unerwünscht sein",
+                "einheimisch und als Europäer angesehen"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 70,
+            "question": "Der zum Teil herrschende Rassismus oder die Diskriminierung in Europa ...........................",
+            "choices": [
+                "ist ein Zeichen für die erfolgreichen Einigungsbemühungen",
+                "deutet auf die mit Migrationsdynamiken einhergehenden innenpolitischen Probleme",
+                "offenbart keinen dominanten nationalen Eigensinn der europäischen Mitgliedstaaten",
+                "sollte nie als Hintertreibung sämtlicher politisch-ökonomischer Einigungsbemühungen angesehen werden"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}

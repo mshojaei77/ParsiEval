@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "id": 31,
+            "question": "در شکل زیر اگر $\\hat{ADB} = \\hat{BAD}$ و $x+y = ۹۰^\\circ$ باشد، مقدار $\\tan x$ کدام است؟",
+            "choices": [
+                "$\\frac{\\sqrt{۶}}{۲}$",
+                "$\\frac{\\sqrt{۶}}{۴}$",
+                "$\\frac{\\sqrt{۶}}{۳}$",
+                "$\\frac{\\sqrt{۶}}{۶}$"
+            ],
+            "answer_key": 3,
+            "figure": "figures/q31_fig.png"
+        },
+        {
+            "id": 32,
+            "question": "در شکل زیر، فاصله نقاط A و B از خط d به ترتیب ۴ و ۶ واحد است و نقطه C روی خط d طوری انتخاب شده است که محیط مثلث ABC کمترین باشد. اگر مساحت چهارضلعی 'ABHH برابر $۵۰\\sqrt{۳}$ باشد، اندازه CH کدام است؟",
+            "choices": [
+                "$\\varkappa\\sqrt{۳}$",
+                "$۶\\sqrt{۳}$",
+                "$۸\\sqrt{۳}$",
+                "$۱۰\\sqrt{۳}$"
+            ],
+            "answer_key": 2,
+            "figure": "figures/q32_fig.png"
+        },
+        {
+            "id": 33,
+            "question": "اگر $\\vec{u}$ بردار یکه در راستای نیمساز زاویه بین بردارهای $\\vec{a}$ و $\\vec{b}$ و $\\vec{v}$ بردار یکه در راستای نیمساز زاویه بین بردارهای $۲\\vec{a}$ و $-\\vec{b}$ باشد، مساحت مثلثی که توسط بردارهای $\\vec{u}$ و $\\vec{v}$ تولید می‌شود، کدام است؟",
+            "choices": [
+                "$\\frac{\\sqrt{۳}}{۲}$",
+                "$\\frac{\\sqrt{۲}}{۲}$",
+                "$\\frac{۱}{۲}$",
+                "$۱$"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 34,
+            "question": "اگر $A = \\begin{bmatrix} -۱ & ۴ & ۰ \\\\ ۱ & ۲ & ۵ \\\\ ۰ & ۰ & \\frac{۱}{۳} \\end{bmatrix}$ و $B = \\begin{bmatrix} -۲ & ۰ & ۰ \\\\ ۰ & ۲ & ۰ \\\\ ۰ & ۰ & ۴ \\end{bmatrix}$ باشد، دترمینان ماتریس $D = BA^TB$ کدام است؟",
+            "choices": [
+                "$۸$",
+                "$\\frac{۸}{۳}$",
+                "$-۸$",
+                "$\\frac{۸}{۳}$"
+            ],
+            "answer_key": 4,
+            "figure": null
+        }
+    ]
+}

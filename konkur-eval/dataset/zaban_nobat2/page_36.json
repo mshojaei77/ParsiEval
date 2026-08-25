@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "id": 36,
+            "question": "idem; valore; con; avversativo; si; latino; in; ma; di; usa.\n1) Idem avversativo con valore di ma si usa in latino.\n2) Avversativo idem con valore di ma si usa in latino.\n3) Si usa in latino avversativo idem con valore di ma.\n4) Idem con valore di ma avversativo in latino si usa.",
+            "choices": [
+                "Idem avversativo con valore di ma si usa in latino.",
+                "Avversativo idem con valore di ma si usa in latino.",
+                "Si usa in latino avversativo idem con valore di ma.",
+                "Idem con valore di ma avversativo in latino si usa."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 37,
+            "question": "Grammatica; il quaderno; nello zaino; è; di; appartenente a; Giammarco.\n1) Il quaderno appartenete a grammatica è di Giammarco nello zaino.\n2) Giammarco è nello appartenente a zaino il quaderno di grammatica.\n3) Il quaderno di grammatica appartenente a Giammarco è nello zaino.\n4) E' di Giammarco appartenente a il quaderno di grammatica nello zaino.",
+            "choices": [
+                "Il quaderno appartenete a grammatica è di Giammarco nello zaino.",
+                "Giammarco è nello appartenente a zaino il quaderno di grammatica.",
+                "Il quaderno di grammatica appartenente a Giammarco è nello zaino.",
+                "E' di Giammarco appartenente a il quaderno di grammatica nello zaino."
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 38,
+            "question": "la; saccheggiata; Parthia; nemici; i; ritornarono; patria; in.\n1) I nemici saccheggiata la Parthia ritornarono in patria.\n2) La Parthia ritornarono in patria saccheggiata i nemici.\n3) Ritornarono in patria saccheggiata i nemici la Parthia.\n4) In patria saccheggiata i nemici ritornarono in Parthia.",
+            "choices": [
+                "I nemici saccheggiata la Parthia ritornarono in patria.",
+                "La Parthia ritornarono in patria saccheggiata i nemici.",
+                "Ritornarono in patria saccheggiata i nemici la Parthia.",
+                "In patria saccheggiata i nemici ritornarono in Parthia."
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 39,
+            "question": "l'ablativo; indipendente; essendo; rapporto; un; ha; pur; contemporaneità; di.\n1) Pur essendo l'ablativo indipendente ha un rapporto di contemporaneità.\n2) Indipendente ha un rapporto di contemporaneità pur essendo l'ablativo.\n3) Ha un rapporto di contemporaneità pur essendo indipendente l'ablativo.\n4) L'ablativo pur essendo indipendente ha un rapporto di contemporaneità.",
+            "choices": [
+                "Pur essendo l'ablativo indipendente ha un rapporto di contemporaneità.",
+                "Indipendente ha un rapporto di contemporaneità pur essendo l'ablativo.",
+                "Ha un rapporto di contemporaneità pur essendo indipendente l'ablativo.",
+                "L'ablativo pur essendo indipendente ha un rapporto di contemporaneità."
+            ],
+            "answer_key": 4,
+            "figure": null
+        },
+        {
+            "id": 40,
+            "question": "di tanto; Cicerone; romani; gli oratori; sorpassò; di quanto; Demostene; i greci; superò.\n1) Gli oratori romani di quanto Demostene superò i greci Cicerone di tanto sorpassò.\n2) Cicerone di tanto sorpassò gli oratori romani di quanto Demostene superò i greci.\n3) Superò i greci Cicerone di tanto sorpassò gli oratori romani di quanto Demostene.\n4) Gli oratori romani sorpassò di quanto Demostene i greci Cicerone di tanto superò.",
+            "choices": [
+                "Gli oratori romani di quanto Demostene superò i greci Cicerone di tanto sorpassò.",
+                "Cicerone di tanto sorpassò gli oratori romani di quanto Demostene superò i greci.",
+                "Superò i greci Cicerone di tanto sorpassò gli oratori romani di quanto Demostene.",
+                "Gli oratori romani sorpassò di quanto Demostene i greci Cicerone di tanto superò."
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 41,
+            "question": "Ma ti prego, carissimo amico, accetta questo regalo!",
+            "choices": [
+                "vocativa",
+                "esortativa",
+                "esplicativa",
+                "esclamativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 42,
+            "question": "non sarebbe male se chiudessimo il finestrino.",
+            "choices": [
+                "causativa",
+                "concessiva",
+                "imperativa",
+                "esplicativa"
+            ],
+            "answer_key": 3,
+            "figure": null
+        },
+        {
+            "id": 43,
+            "question": "Magari potessi venirci anch'io a vederti prima di partire!",
+            "choices": [
+                "volitiva",
+                "esplicativa",
+                "ottativa",
+                "causativa"
+            ],
+            "answer_key": 1,
+            "figure": null
+        },
+        {
+            "id": 44,
+            "question": "Non arrendetevi mai – predicava - stringete i denti e andate avanti qualsiasi cosa vi accada.",
+            "choices": [
+                "iussiva",
+                "accusativa",
+                "desiderativa",
+                "avversativa"
+            ],
+            "answer_key": 2,
+            "figure": null
+        },
+        {
+            "id": 45,
+            "question": "Il sacerdote si alzò velocemente e sorridendo disse: vi dichiaro marito e moglie.",
+            "choices": [
+                "interpolazione",
+                "interrogativa",
+                "disgiuntiva",
+                "illocutiva"
+            ],
+            "answer_key": 1,
+            "figure": null
+        }
+    ]
+}
