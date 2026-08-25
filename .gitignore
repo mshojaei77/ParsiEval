@@ -56,3 +56,7 @@ docs/_build/
 Thumbs.db
 
 etc
+
+# Secrets
+*.session
+*.session-journal
