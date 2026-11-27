@@ -54,3 +54,8 @@ High-quality benchmarks for languages other than English are crucial for
 multilingual NLP. This suite tracks the progress of Persian-capable models
 across knowledge (Konkur), understanding (ParsiEval), and naturalness
 (Fluency Bench).
+
+### Methodology background
+
+For a Persian-language overview of how these evaluation suites differ and what
+their scores do—and do not—show, see the [Persian LLM evaluation article](https://mshojaei77.github.io/fa/writing/persian-llm-evaluation/).
